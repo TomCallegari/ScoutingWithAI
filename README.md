@@ -16,3 +16,11 @@ In addition to traditional scouting, data collection of players past performance
 of knowledge and insight. This project is a first attempt to combine both past performance data, scouting write ups and modern neural network machine learning to approximate the theoretical function that exists between
 player past performance and future potential.
 
+This Github Repository contains the scripts, files, data, models and presentation for the project.
+
+* [URL Scraper](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Scrapers/eliteprospects_url_scrape.py)
+* [Player Profile Scraper](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Scrapers/EliteProspects.py)
+* [Extract/Transform/Load(ETL)](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Notebooks/ETL.ipynb)
+* [Feature Engineering](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Notebooks/Feature_Engineering.ipynb)
+* [Deep NN Model](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Notebooks/Deep_NN.ipynb)
+
