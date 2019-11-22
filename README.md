@@ -3,7 +3,7 @@
 
 # Scouting With AI
 
-The purpose of this project was to use the skills taught through the 6 month University of Toronto School of Continuing Studies Data Analytics Bootcamp.
+The purpose of this project was to use the skills taught through the 6 month University of [Toronto School of Continuing Studies Data Analytics Bootcamp](https://bootcamp.learn.utoronto.ca/data/).
 
 Historically, professional sports teams have relied on the intuition and experience of scouts who travel relentlessly, watching thousands of games in person, to 
 gain a level of knowledge that allows them to project the future potential of amateur players prior to eligibility for a draft.  This process is designed to give organizations
