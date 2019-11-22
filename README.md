@@ -23,4 +23,4 @@ This Github Repository contains the scripts, files, data, models and presentatio
 * [Extract/Transform/Load(ETL)](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Notebooks/ETL.ipynb)
 * [Feature Engineering](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Notebooks/Feature_Engineering.ipynb)
 * [Deep NN Model](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Notebooks/Deep_NN.ipynb)
-
+* [Project PowerPoint](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Presentation/final_project_presentation.pdf)
