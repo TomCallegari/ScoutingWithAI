@@ -36,3 +36,5 @@ This Github Repository contains the scripts, files, data, models and presentatio
 	* Tensorflow.Keras (Deep Learning Neural Network)
 	* BeautifulSoup (HTML Web Scraping)
 	* Matplotlib / Seaborn (Plotting)
+* MongoDB
+	* Python package PyMongo
