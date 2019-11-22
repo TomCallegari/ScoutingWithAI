@@ -24,3 +24,15 @@ This Github Repository contains the scripts, files, data, models and presentatio
 * [Feature Engineering](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Notebooks/Feature_Engineering.ipynb)
 * [Deep NN Model](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Notebooks/Deep_NN.ipynb)
 * [Project PowerPoint](https://github.com/TomCallegari/ScoutingWithAI/blob/master/Presentation/final_project_presentation.pdf)
+
+
+### Technologies Used
+
+* Python
+	* Pandas (Data Manipulation)
+	* Numpy
+	* NLTK (Natural Language Processing)
+	* Sklearn (Machine Learning)
+	* Tensorflow.Keras (Deep Learning Neural Network)
+	* BeautifulSoup (HTML Web Scraping)
+	* Matplotlib / Seaborn (Plotting)
