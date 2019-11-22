@@ -1,0 +1,1080 @@
+ep_id,full_name,date_of_birth,hometown,country,youth_team,position,height,weight,shoots
+11101,"Radek Meidl","1988-11-25 00:00:00",Prostejov,Czech,"HC Olomouc",LW,191,3,L
+40288,"Nathan Snowie","1988-01-07 00:00:00",Charlottetown,Canada,-,C,183,86,L
+106101,"Shawn Boudreau","1994-03-17 00:00:00",Kentville,Canada,-,LW,188,76,L
+155239,"Mitch Jones","1995-02-08 00:00:00",Rochester,USA,-,D,180,90,L
+268659,"Matt Brassard","1998-08-08 00:00:00",Barrie,Canada,-,D,190,91,R
+23464,"Benoît Gervais","1988-05-05 00:00:00",Unknown,Canada,-,D,188,91,L
+33935,"Malte Strömwall","1994-08-24 00:00:00",Luleå,Sweden,"Linköpings HC",RW,180,88,R
+213821,"Nicolas Meloche","1997-07-18 00:00:00",LaSalle,Canada,"AHM Île-Perrot",D,190,93,R
+45573,"Jamie Wise","1991-04-05 00:00:00",Stouffville,Canada,-,LW,183,92,L
+120107,"Miles Warkentine","1996-02-02 00:00:00",Prince,Canada,-,RW/C,180,86,R
+193114,"Cavan Fitzgerald","1996-08-23 00:00:00",Boston,Canada,-,D,185,86,L
+13595,"Carson McMillan","1988-09-10 00:00:00",Brandon,Canada,-,RW/C,185,89,R
+240108,"Logan Stanley","1998-05-26 00:00:00",Kitchener,Canada,"Waterloo MHA",D,200,5,L
+10431,"Cody Franson","1987-08-08 00:00:00",Sicamous,Canada,"Sicamous Eagles",D,196,2,R
+283690,"Tyler Smith","1999-08-26 00:00:00",Grand,Canada,-,D,178,77,R
+119462,"Ben Duperreault","1996-07-18 00:00:00",Wilcox,Canada,-,C/LW,175,79,L
+78324,"Mike McNamee","1992-10-23 00:00:00",Perth,Canada,-,C,183,81,L
+37973,"Charlie Dodero","1992-10-01 00:00:00",Bloomingdale,USA,-,D,188,98,R
+284005,"Cole Coskey","1999-06-01 00:00:00",Zion,USA,-,RW,185,91,R
+158032,"Brandon Belding","1994-02-24 00:00:00",Ottawa,Canada,-,C,191,95,L
+213461,"Maxime Fortier","1997-12-15 00:00:00",Montréal,Canada,-,RW,178,83,R
+300060,"Brian King","1999-02-12 00:00:00",Exeter,USA,-,C,183,82,R
+24653,"Taylor Beck","1991-05-13 00:00:00",Niagara,Canada,-,RW/LW,188,92,R
+9337,"Ben Maxwell","1988-03-30 00:00:00",North,Canada,"North Shore Winter Club MHA",C/LW,185,83,L
+129112,"Antoine Bouillon","1995-02-16 00:00:00",Deux,Canada,-,RW,178,77,R
+38026,"Michael Claffey","1992-01-18 00:00:00",Spruce,Canada,-,D/F,180,88,L
+197267,"Kyle Tibbo","1996-08-09 00:00:00",Conception,Canada,-,F,180,81,L
+11749,"Jordan Owens","1986-05-01 00:00:00",Toronto,Canada,-,LW,183,85,L
+39749,"Eddy Martin","1988-01-27 00:00:00",LaSalle,Canada,-,RW,175,84,L
+189016,"Trent Mallette","1996-08-24 00:00:00",Levack,Canada,-,RW,178,84,R
+106154,"Ross Johnston","1994-02-18 00:00:00",Charlottetown,Canada,-,LW,195,7,L
+122880,"Tomas Fendek","1986-01-13 00:00:00",Unknown,Czech,"SK Karvina",D,187,72,R
+15398,"Ryan Stanton","1989-07-20 00:00:00",Albert,Canada,-,D,188,93,L
+40266,"Seth Swenson","1993-04-17 00:00:00",Denver,USA,-,RW,185,94,R
+418542,"Sergei Popov","2000-03-27 00:00:00",Maple,Russia,-,LW,180,80,L
+88677,"Dan Milan","1992-04-14 00:00:00",Detroit,USA,-,D,191,86,L
+80447,"Riley Sheen","1994-12-21 00:00:00",Edmonton,Canada,-,LW/D,179,70,L
+164249,"Colton McCarthy","1996-01-30 00:00:00",Salmon,Canada,-,C,183,86,R
+26352,"Kenton Miller","1991-02-10 00:00:00",Redvers,Canada,-,C,183,80,L
+418351,"Aidan Prueter","2001-12-21 00:00:00",London,Canada,-,C,178,77,L
+12556,"Simon Lacroix","1989-05-29 00:00:00",Orléans,Canada,-,D,186,78,R
+67665,"Dale Mahovsky","1985-01-12 00:00:00",Fort,Canada,-,RW,183,85,R
+286608,"Logan Barlage","2001-01-12 00:00:00",Humboldt,Canada,"Humboldt MHA",C,193,91,R
+15228,"Toni Ritter","1990-02-06 00:00:00",Muskau,Germany,"ES Weißwasser",LW,191,89,L
+60726,"Chandler Stephenson","1994-04-22 00:00:00",Saskatoon,Canada,-,C/LW,180,86,L
+201245,"Tanner Kaspick","1998-01-28 00:00:00",Brandon,Canada,"Brandon MHA",C,185,93,L
+32758,"Brooks Macek","1992-05-15 00:00:00",Winnipeg,Germany,"Assiniboine Park MHA",C/RW,181,82,R
+67082,"Garrett Sinfield","1987-03-26 00:00:00",London,Canada,-,D,191,95,L
+286578,"Cole Fonstad","2000-04-24 00:00:00",Estevan,Canada,"Estevan MHA",C/LW,178,75,L
+56044,"Marek Kalus","1993-07-22 00:00:00",Krmelin,Czech,"HC Havirov",LW/RW,188,93,L
+37089,"Guillaume Langelier","1990-04-24 00:00:00",Léry,Canada,-,LW,183,95,R
+382867,"Mathieu Samson","2000-11-26 00:00:00",Rimouski,Canada,-,RW,193,88,L
+31079,"Brayden McNabb","1991-01-21 00:00:00",Davidson,Canada,"Davidson MHA",D,193,94,L
+45108,"Alexandre Chênevert","1993-02-12 00:00:00",Montréal,Canada,-,D,185,92,L
+287497,"Alex Kannok","2000-07-20 00:00:00",Regina,Canada,-,D,183,88,R
+37832,"Jamie Oleksiak","1992-12-21 00:00:00",Toronto,Canada,"Toronto Marlboros MHA",D,201,16,L
+195762,"Dillon Boucher","1997-04-16 00:00:00",Head,Canada,-,LW,183,88,L
+95833,"Alexandre Demers","1986-08-25 00:00:00",Laurier,Canada,-,C,172,85,L
+37597,"Karl Marion","1992-06-21 00:00:00",Blainville,Canada,-,RW/LW,191,90,L
+226615,"Chris Martenet","1996-09-25 00:00:00",Indianapolis,USA,-,D,200,98,L
+45120,"Alexandre Roy","1993-08-04 00:00:00",Anselme,Canada,-,LW,185,87,L
+69305,"Hubert Poulin","1988-12-20 00:00:00",Georges,Canada,-,RW,183,98,R
+155382,"Valentin Zykov","1995-05-15 00:00:00",Petersburg,Russia,-,LW/RW,185,2,R
+54190,"Connor Cameron","1985-05-11 00:00:00",Summerside,Canada,-,C,184,77,L
+9244,"Boris Valábik","1986-02-14 00:00:00",Nitra,Slovakia,"HC Nitra",D,201,5,L
+175894,"Markus Niemeläinen","1998-06-08 00:00:00",Kuopio,Finland,Kiekko-Ahma,D,197,86,L
+84245,"Aaron Irving","1996-03-03 00:00:00",Edmonton,Canada,-,D,185,84,R
+354159,"Simon Lafrance","1998-10-12 00:00:00",Eustache,Canada,-,C,175,75,L
+438091,"Anthony Tabak","2001-12-06 00:00:00",Oakville,Canada,-,LW,194,92,L
+76158,"Brandon Devlin","1994-04-27 00:00:00",Brampton,Canada,-,D,188,95,R
+76504,"Tyson Fawcett","1993-06-08 00:00:00",Barrie,Canada,"Toronto Young Nationals MHA",C,169,75,R
+245610,"Taylor Raddysh","1998-02-18 00:00:00",Toronto,Canada,"Toronto Marlboros MHA",C/RW,191,98,R
+267781,"Sean Allen","1998-04-21 00:00:00",Puslinch,Canada,-,D,191,91,L
+267630,"Anthony Poulin","1999-08-26 00:00:00",Prosper,Canada,-,C,175,84,L
+45566,"Mitchell Heard","1992-03-12 00:00:00",Bowmanville,Canada,-,C,185,91,L
+152763,"Juraj Siska","1996-05-17 00:00:00",Nitra,Slovakia,"HK Nitra",RW/C,191,94,L
+275863,"Adam McCormick","2000-06-25 00:00:00",Woodstock,Canada,-,D,180,82,L
+301392,"Xavier Pouliot","1998-12-22 00:00:00",Isidore,Canada,-,D,188,96,R
+3693,"Mikael Ahlén","1988-04-14 00:00:00",Salem,Sweden,"IFK Salem",RW,185,92,R
+92063,"Nathan Cull","1994-01-07 00:00:00",Thunder,Canada,-,LW,180,82,R
+31556,"Andrew Eastman","1988-12-16 00:00:00",Aurora,Canada,-,D,181,79,R
+129527,"Riley Day","1985-10-08 00:00:00",Brandon,Canada,-,D,188,3,R
+189461,"Ryan Verbeek","1996-06-02 00:00:00",Kingston,Canada,-,C/LW,183,95,L
+45506,"Philip Tot","1993-09-06 00:00:00",Calgary,Canada,-,LW,188,91,L
+369524,"Brandson Hein","1998-09-27 00:00:00",Winnipeg,Canada,-,LW,184,88,L
+18047,"Marco Insam","1989-06-05 00:00:00",Selva,Italy,Milano,LW/RW,188,92,R
+254268,"Brendan Harrogate","1998-02-13 00:00:00",Chatham,Canada,-,C,185,85,R
+32801,"Shayne Brown","1989-02-20 00:00:00",Stony,Canada,-,D,183,91,L
+23118,"Spencer Jezegou","1988-10-14 00:00:00",Oshawa,Canada,-,RW,181,93,R
+4131,"Aki Seitsonen","1986-02-05 00:00:00",Riihimäki,Finland,Nikkarit,C,188,87,R
+19045,"Mathieu Brodeur","1990-06-21 00:00:00",Eustache,Canada,-,D,197,98,L
+472663,"Philippe Denis","1998-12-29 00:00:00",Hyacinthe,Canada,-,LW,180,80,L
+18596,"Corey Fienhage","1990-05-04 00:00:00",Apple,USA,-,D,191,98,R
+96328,"Kyle Ross","1986-09-12 00:00:00",Regina,Canada,-,C,180,84,L
+299579,"Tyler Popowich","2000-04-29 00:00:00",Surrey,Canada,-,C,193,91,L
+15629,"Matt Eagles","1988-01-18 00:00:00",Québec,Canada,-,C,175,79,R
+91684,"Peter De","1994-04-29 00:00:00",Nobelton,Canada,-,LW,193,90,L
+64899,"Jared Cipparone","1986-02-14 00:00:00",Tecumseh,Canada,-,C,183,93,L
+76776,"Eric Locke","1993-11-21 00:00:00",Toronto,Canada,-,C,178,85,L
+11264,"Phil Oreskovic","1987-01-26 00:00:00",North,Canada,-,D,191,11,R
+34799,"Adam Polasek","1991-07-12 00:00:00",Ostrava,Czech,"HC Vitkovice",D,190,94,L
+11603,"Kruise Reddick","1990-07-06 00:00:00",Manor,Canada,-,C/RW,173,82,L
+33558,"Jake Trask","1991-08-31 00:00:00",Saskatoon,Canada,-,C,182,79,R
+45282,"Phillip Danault","1993-02-24 00:00:00",Victoriaville,Canada,"AHM Victoriaville",C,185,88,L
+265118,"Ivan Kashtanov","1997-02-24 00:00:00",Barnaul,Russia,"Altay Barnaul",LW,178,93,R
+11308,"Max Gordichuk","1986-01-29 00:00:00",Kelowna,Canada,-,D,197,98,R
+101099,"Carson Samoridny","1994-06-24 00:00:00",Albert,Canada,-,RW,191,88,R
+45549,"Justin Thomas","1993-01-25 00:00:00",London,Canada,-,LW,183,90,L
+92682,"Joel Wigle","1994-02-14 00:00:00",Brantford,Canada,-,RW,188,91,R
+27945,"Sondre Olden","1992-08-29 00:00:00",Oslo,Norway,"Manglerud Star",LW/RW,194,83,L
+384290,"Nathaniel Doyon","2000-01-13 00:00:00",Georges,Canada,-,RW,185,84,R
+284913,"Jason Imbeault","1999-01-22 00:00:00",Sainte,Canada,-,RW,185,86,R
+85322,"Christian Marti","1993-03-29 00:00:00",Bülach,Switzerland,"EHC Bülach",D,190,95,L
+9189,"Kris Letang","1987-04-24 00:00:00",Montréal,Canada,"Laval MHA",D,183,91,R
+33650,"Austin Levi","1992-02-16 00:00:00",Columbus,USA,-,D,191,84,L
+335688,"Cédric Desruisseaux","2000-03-03 00:00:00",Warwick,Canada,-,C/LW,173,75,L
+11645,"Jeff May","1987-04-04 00:00:00",Richmond,Canada,-,D,188,91,L
+97506,"Francis Marchand","1987-11-06 00:00:00",Victoriaville,Canada,-,C,177,83,L
+283908,"Kevin Klima","1997-06-05 00:00:00",Tampa,USA,-,LW/C,178,77,L
+128499,"Tristan Tremblay","1995-07-01 00:00:00",Berthierville,Canada,-,RW,185,73,R
+407565,"Connor Horning","2001-05-11 00:00:00",Kelowna,Canada,-,D,191,90,R
+101421,"Jordan McInnis","1993-06-26 00:00:00",Souris,Canada,-,RW,180,77,-
+200710,"Cale Fleury","1998-11-19 00:00:00",Calgary,Canada,-,D,185,92,R
+13940,"Maximilian Brandl","1988-02-13 00:00:00",Landshut,Germany,"EV Landshut",C,182,85,L
+117022,"Stephen Harper","1995-03-25 00:00:00",Burlington,Canada,-,LW/C/D,191,98,L
+275605,"Tommy Cardinal","1999-01-14 00:00:00",Étienne,Canada,-,RW,177,91,R
+4229,"Benoît Pouliot","1986-09-29 00:00:00",Alfred,Canada,"Eastern Ontario Cobras",LW,190,91,L
+37290,"Maxime Robichaud","1989-04-17 00:00:00",Georges,Canada,-,D,187,88,R
+124654,"Roman Maliník","1990-02-06 00:00:00",Ostrava,Czech,"HC Vitkovice",F,180,93,R
+264220,"Hugo Leufvenius","1999-03-26 00:00:00",Stockholm,Sweden,"Ekerö IK",C/LW,190,2,L
+268666,"Lucas Chiodo","1998-10-31 00:00:00",Churchill,Canada,-,LW,168,78,L
+11321,"Adam McQuaid","1986-10-12 00:00:00",Charlottetown,Canada,-,D,193,96,R
+11700,"Nick Holden","1987-05-15 00:00:00",Albert,Canada,-,D,193,97,L
+9343,"Hugo Carpentier","1988-03-17 00:00:00",Hull,Canada,"AHM Intrépide",C,187,91,L
+19065,"Alexandre Néron","1990-05-09 00:00:00",Malbaie,Canada,-,D,186,80,R
+120203,"Kolten Olynek","1996-02-13 00:00:00",Saskatoon,Canada,-,C/RW,173,75,L
+45907,"Nick Czinder","1992-06-12 00:00:00",West,USA,-,RW,196,9,R
+61866,"Ryan Seymour","1986-08-05 00:00:00",Fredericton,Canada,-,C,182,82,L
+77589,"Jamie MacIntyre","1991-04-24 00:00:00",Charlottetown,Canada,-,C,183,86,L
+219085,"Philippe Bureau","1995-04-24 00:00:00",Candiac,Canada,-,D,175,68,L
+161899,"Ralph Jarratt","1998-03-18 00:00:00",Fort,Canada,-,D,188,2,L
+63581,"Mathew Ménard","1987-11-06 00:00:00",Granby,Canada,-,D,185,93,L
+9293,"Adam Bezak","1989-07-04 00:00:00",Bratislava,Slovakia,"HC Slovan Bratislava",RW,179,86,L
+45512,"Ryan Johansen","1992-07-31 00:00:00",Vancouver,Canada,"Vancouver Thunderbirds MHA",C,191,99,R
+319974,"Jérémy Côté","1999-05-03 00:00:00",Felix,Canada,-,LW,175,84,L
+139128,"Kevin Boutilier","1988-02-02 00:00:00",Calgary,Canada,-,D,180,83,L
+127499,"Marc Beckstead","1995-04-18 00:00:00",Morrisburg,Canada,-,LW,185,91,L
+7261,"Andris Dzerins","1988-02-14 00:00:00",Jekabpils,Latvia,"HK Riga",C,186,87,L
+15619,"Tomy Joly","1988-06-29 00:00:00",Unknown,Canada,-,LW,178,80,L
+37559,"Gabriel Desjardins","1992-11-09 00:00:00",Montréal,Canada,"AHM Jeunes Sportifs Hochelaga",LW,183,92,L
+45624,"Mitch Elliot","1993-06-15 00:00:00",Prince,Canada,-,LW,198,7,L
+199682,"Tate Olson","1997-03-21 00:00:00",Saskatoon,Canada,-,D,188,86,L
+387359,"Bobby Lynch","1998-06-16 00:00:00",Grand,USA,-,RW,189,78,R
+37143,"Josh Caron","1991-02-10 00:00:00",Campbell,Canada,-,D/W,193,99,R
+49430,"Jesse Mychan","1992-07-02 00:00:00",Saskatoon,Canada,-,LW,188,82,L
+37696,"Kody Musselman","1988-06-28 00:00:00",Whitby,Canada,-,W/C/D,188,90,R
+149666,"Libor Gazdik","1988-09-30 00:00:00",Concord,USA,-,C,183,84,L
+169086,"Zach Bratina","1996-01-06 00:00:00",Lindsay,Canada,-,LW,185,84,L
+18886,"Craig Cunningham","1990-09-13 00:00:00",Trail,Canada,-,W/C,178,83,R
+37090,"Mike Villeneuve","1990-05-13 00:00:00",Beauport,Canada,-,C,178,76,L
+38431,"Joonas Salmi","1989-03-30 00:00:00",Kemi,Finland,Kärpät,D,185,88,R
+82643,"Luke Mercer","1994-04-30 00:00:00",Toronto,Canada,-,D,183,82,L
+351805,"Connor Zary","2001-09-25 00:00:00",Saskatoon,Canada,"Saskatoon MHA",C,183,79,L
+252481,"Samuel L","1998-04-13 00:00:00",Rimouski,Canada,-,C,190,87,R
+12543,"Justin Falk","1988-10-11 00:00:00",Snowflake,Canada,-,D,196,1,L
+151531,"Loik Léveillé","1996-09-25 00:00:00",Jérôme,Canada,-,D,183,1,R
+45547,"Frank Corrado","1993-03-26 00:00:00",Woodbridge,Canada,-,D,183,93,R
+61949,"Remy Giftopoulos","1993-01-13 00:00:00",Ancaster,Canada,-,LW/C,188,93,L
+318857,"Zack Malík","2000-08-03 00:00:00",Raleigh,Czech,"HC Vitkovice",D,188,77,L
+286889,"MacAuley Carson","1999-03-12 00:00:00",Midhurst,Canada,-,LW,188,94,L
+91705,"Locke Muller","1993-09-27 00:00:00",Kelowna,Canada,-,RW,193,92,R
+15390,"Zack Kassian","1991-01-24 00:00:00",Windsor,Canada,"Windsor MHA",RW,191,95,R
+45538,"Derek Lanoue","1991-04-05 00:00:00",Belle,Canada,-,RW,183,85,R
+97772,"Daniel Walsh","1994-01-30 00:00:00",Ottawa,Canada,-,F,183,84,L
+11117,"Thomas Beauregard","1986-02-09 00:00:00",Montréal,Canada,-,RW,180,83,R
+101616,"Remi Laurencelle","1995-10-05 00:00:00",Winnipeg,Canada,-,LW/C,180,86,L
+165370,"Vincent Lambert","1985-05-26 00:00:00",Laval,Canada,-,LW,185,87,L
+12518,"Maxime Macenauer","1989-01-04 00:00:00",Laval,Canada,-,C/LW,180,86,L
+18613,"Dustin Donaghy","1989-04-07 00:00:00",Cranbrook,Canada,-,LW/D,181,85,L
+11669,"Jordan Bendfeld","1988-02-09 00:00:00",Leduc,Canada,-,D,190,11,R
+33638,"Reggie Traccitto","1989-07-05 00:00:00",Oakville,Canada,-,D,184,94,R
+30451,"Killian Hutt","1991-04-13 00:00:00",Edmonton,Canada,-,RW,173,81,R
+151339,"Kevin Domingue","1995-12-02 00:00:00",Laval,Canada,-,C,185,82,R
+11324,"Tyler Haskins","1986-05-26 00:00:00",Madison,USA,"Cleveland Barons",C,186,88,R
+101580,"Macoy Erkamps","1995-02-02 00:00:00",Delta,Canada,-,D,183,89,R
+21009,"Sanfred King","1990-01-14 00:00:00",Brandon,Canada,-,RW,188,89,R
+90345,"Ryan Hartman","1994-09-20 00:00:00",Hilton,USA,-,RW/C,183,82,R
+23997,"François Champagne","1986-05-24 00:00:00",Georges,Canada,-,C,185,89,L
+146884,"Nick Pastorious","1996-05-09 00:00:00",Toronto,Canada,-,RW,185,95,R
+36713,"Ron Soucie","1991-07-03 00:00:00",LaSalle,Canada,-,D,193,94,L
+12154,"Jason Demers","1988-06-09 00:00:00",Dorval,Canada,"AMH Lac St-Louis",D,185,88,R
+279991,"Igor Merezhko","1998-04-30 00:00:00",Kharkov,Ukraine,"Donbass Donetsk",D,194,0,R
+36741,"Benoît Lévesque","1989-06-10 00:00:00",Pierrefonds,Canada,-,RW,185,92,R
+313721,"Vasili Glotov","1997-09-04 00:00:00",Barnaul,Russia,"Altay Barnaul",C,180,83,L
+11890,"Ivan Vishnevsky","1988-02-18 00:00:00",Barnaul,Russia,"Motor Barnaul",D,183,91,L
+200735,"Dawson Davidson","1998-04-07 00:00:00",Moosomin,Canada,-,D,180,82,L
+252460,"Andrew Smith","1998-03-18 00:00:00",Boisbriand,Canada,-,D,200,96,L
+12578,"Milan Dóczy","1990-01-27 00:00:00",Zlin,Czech,"HC Zlin",D,197,97,L
+64822,"Olivier Daunais","1990-07-05 00:00:00",Lachenaie,Canada,-,C,173,79,L
+11020,"Mark Fraser","1986-09-29 00:00:00",Ottawa,Canada,"Blackburn MHA",D,193,0,L
+59939,"Austin Vetterl","1994-02-02 00:00:00",Surrey,Canada,-,RW,180,83,R
+313319,"Drake Pilon","1998-10-02 00:00:00",Sault,Canada,-,RW,177,85,R
+157311,"André Joanisse","1985-05-15 00:00:00",Ottawa,Canada,-,D,191,4,L
+198134,"Loch Morrison","1997-07-08 00:00:00",Prince,Canada,-,D,185,92,R
+37285,"Spencer MacDonald","1992-04-03 00:00:00",Charlottetown,Canada,-,D,180,76,L
+148248,"Stephen Alonge","1993-03-21 00:00:00",Lynbrook,USA,-,F,185,86,R
+9284,"Martin Bartos","1988-06-02 00:00:00",Ostrava,Czech,"HC Vitkovice",LW,192,90,L
+37176,"Oliver Gabriel","1991-05-13 00:00:00",Edmonton,Canada,-,LW,188,93,L
+129426,"Patrick Ouellette","1987-04-21 00:00:00",Windsor,Canada,-,LW,180,79,L
+161437,"Bryan Wilson","1987-08-19 00:00:00",Hearst,Canada,-,D,180,84,L
+271462,"Bradley Chenier","1999-01-20 00:00:00",Kitchener,Canada,"Valley East MHA",LW,180,84,L
+213470,"James Phelan","1997-02-18 00:00:00",Laval,Canada,-,C,180,84,L
+151752,"Deven St","1995-03-03 00:00:00",Québec,Canada,-,RW,183,82,R
+13812,"Brett Leffler","1989-05-19 00:00:00",Wynyard,Canada,-,RW,183,90,R
+267626,"Jocktan Chainey","1999-09-08 00:00:00",Asbestos,Canada,"AHM Asbestos",D,185,90,L
+16045,"Tommi Kivistö","1991-06-07 00:00:00",Vantaa,Finland,TJV,D,188,91,L
+45472,"Wheaton King","1992-08-09 00:00:00",Brandon,Canada,-,LW,188,83,L
+33661,"Patrick Moran","1990-05-18 00:00:00",Highland,USA,-,D,184,91,R
+56037,"Lukas Sedlak","1993-02-25 00:00:00",Ceske,Czech,"HC Ceske Budejovice",C/LW,184,93,L
+79387,"Matus Matis","1993-05-12 00:00:00",Kosice,Slovakia,-,LW,186,88,R
+251476,"Samuel Girard","1998-05-12 00:00:00",Roberval,Canada,"AHM Roberval",D,178,73,L
+33887,"Jake LaPlante","1989-03-24 00:00:00",Mississauga,Canada,-,D,193,90,R
+19311,"Chris Greene","1985-09-24 00:00:00",Massena,USA,-,C,188,87,R
+78179,"Owen Werthner","1992-04-14 00:00:00",Orleans,Canada,-,D,183,88,L
+129432,"Benoît Arsenault","1985-03-12 00:00:00",Anne,Canada,-,C,183,82,R
+45636,"Zach McPhee","1993-03-05 00:00:00",Vernon,Canada,-,RW,191,95,R
+4244,"Christian Seest","1987-10-08 00:00:00",Herlev,Denmark,-,RW,192,97,L
+129735,"Connor Rogers","1994-09-02 00:00:00",Sydney,Canada,-,D,178,76,R
+37485,"Brandon Street","1991-05-23 00:00:00",Bonavista,Canada,-,C,184,74,L
+150838,"Olivier Donais","1987-11-09 00:00:00",LaSalle,Canada,-,RW,175,78,R
+226885,"Vincent Lavoie","1997-10-30 00:00:00",Blainville,Canada,-,LW,188,83,L
+404753,"Barret Kirwin","2000-02-18 00:00:00",Barrie,Canada,-,C,174,85,L
+201091,"Josh Curtis","1998-09-24 00:00:00",Winnipeg,Canada,-,RW,183,78,L
+204921,"Kyle Pettit","1996-01-19 00:00:00",Komoka,Canada,-,C,193,91,L
+15384,"Matt Piva","1988-08-05 00:00:00",Maple,Canada,-,C,181,75,R
+19061,"Stephen Johnston","1990-02-24 00:00:00",Guelph,Canada,-,LW,185,79,L
+17025,"Matt Calvert","1989-12-24 00:00:00",Brandon,Canada,"Brandon Wheat Kings",LW/RW,180,84,L
+33872,"Josh Sidwell","1991-03-28 00:00:00",London,Canada,-,RW,182,79,R
+56098,"Steve Miller","1987-07-18 00:00:00",Thunder,Canada,-,D,187,95,L
+195028,"Barrett Dachyshyn","1998-10-05 00:00:00",Halifax,Canada,-,C,193,86,L
+14607,"Brett Morrison","1987-07-25 00:00:00",Sydney,Canada,-,C,179,81,L
+76350,"Louick Marcotte","1994-01-07 00:00:00",Longueuil,Canada,-,RW,185,91,R
+60579,"Mac McDonnell","1992-11-09 00:00:00",Allen,USA,-,LW,191,93,R
+247222,"Daniel Bukac","1999-04-29 00:00:00",Most,Czech,"KLH Chomutov",D,196,95,R
+23339,"Colton Grant","1989-03-20 00:00:00",Standard,Canada,-,LW,178,79,L
+26584,"Gaby Roch","1987-05-24 00:00:00",Joliette,Canada,-,RW,183,3,R
+213787,"Alex Dostie","1997-04-13 00:00:00",Drummondville,Canada,-,C,178,79,L
+18805,"Olivier Payment","1990-04-04 00:00:00",Saint,Canada,-,LW,183,86,L
+14090,"Robert Slaney","1988-10-13 00:00:00",Upper,Canada,-,LW/C,188,88,L
+254039,"Connor Hall","1998-01-28 00:00:00",Cambridge,Canada,"Cambridge MHA",D,189,92,L
+19364,"Tomas Petracek","1989-07-03 00:00:00",Unknown,Czech,"HC Kladno",D,182,86,L
+18800,"Mike Hoffman","1989-11-24 00:00:00",Kitchener,Canada,-,LW/RW,183,82,L
+12542,"Dávid Skokan","1988-12-06 00:00:00",Poprad,Slovakia,"HK Poprad",C/RW,182,83,L
+31565,"Tyler Randell","1991-06-15 00:00:00",Scarborough,Canada,-,RW,185,90,R
+298933,"Austin Crossley","1999-06-30 00:00:00",Fort,Canada,-,D,185,95,L
+11350,"Olivier Magnan","1986-05-01 00:00:00",Sherbrooke,Canada,-,D,188,91,L
+37615,"Mackenzie Micks","1988-03-26 00:00:00",Orillia,Canada,-,RW,181,84,R
+56060,"Ryan Tesink","1993-05-21 00:00:00",Saint,Canada,-,C/W,183,78,L
+24089,"Justin Maylan","1991-01-20 00:00:00",Calgary,Canada,-,C,188,86,R
+32877,"Philippe Fontaine","1991-02-20 00:00:00",Québec,Canada,-,LW,181,74,L
+199709,"Joe Gatenby","1997-05-15 00:00:00",Kelowna,Canada,-,D,183,87,R
+15232,"Dmitri Levin","1988-05-21 00:00:00",Novosibirsk,Russia,-,D,184,99,L
+333466,"Emmett Serensits","2000-01-07 00:00:00",Oakville,Canada,-,D,185,82,R
+375633,"Gleb Babintsev","2000-01-08 00:00:00",Unknown,Russia,"Gazovik Tyumen",D,183,90,L
+38032,"Kevin Connauton","1990-02-23 00:00:00",Edmonton,Canada,-,D,188,93,L
+84582,"Bryan Moore","1994-05-25 00:00:00",Charlotte,USA,-,LW,180,92,L
+13656,"Lubomir Stach","1986-05-28 00:00:00",Vsetin,Czech,"HC Vsetin",D,174,82,L
+37744,"Andrew Marcoux","1988-01-06 00:00:00",Rockwood,Canada,-,C,179,84,L
+299428,"William Ennis","2000-05-31 00:00:00",Russell,Canada,"Russell MHA",D,190,95,L
+37074,"Jérémie Blain","1992-03-19 00:00:00",Longueuil,Canada,-,D,191,88,R
+79458,"Mário Kurali","1992-01-17 00:00:00",Stara,Slovakia,"HK SKP Poprad",D,181,85,R
+128447,"Alexis Vanier","1995-12-21 00:00:00",Catherine,Canada,-,D,196,98,L
+225621,"Samuel Bucek","1998-12-19 00:00:00",Nitra,Slovakia,"HC Nitra",LW,190,87,R
+14425,"Keaton Turkiewicz","1988-03-02 00:00:00",Brantford,Canada,-,RW,180,84,R
+18884,"Mike Thomas","1990-02-08 00:00:00",Maryland,Canada,-,LW/RW,186,87,R
+201551,"Josh Brook","1999-06-17 00:00:00",Yorkton,Canada,"Roblin MHA",D,186,87,R
+96269,"André Daneau","1987-10-19 00:00:00",Québec,Canada,-,LW,185,88,R
+47870,"Manraj Singh","1993-01-20 00:00:00",Vancouver,Canada,-,C,178,82,L
+149154,"Kyle Jukosky","1988-10-03 00:00:00",Ridgeway,Canada,-,C,171,77,R
+34661,"Eddy Rinke","1991-07-26 00:00:00",Ebersberg,Latvia,"EHC Klostersee",RW,196,93,L
+104067,"Jarkko Parikka","1997-09-06 00:00:00",Imatra,Finland,Ketterä,D,182,85,L
+10474,"Michael Kolarz","1987-01-12 00:00:00",Havirov,Czech,"HC Vitkovice",D,183,90,R
+157828,"Marc Connors","1985-03-19 00:00:00",Okotoks,Canada,-,LW,178,88,L
+213830,"Samuel Blais","1996-06-17 00:00:00",Montmagny,Canada,-,LW/RW,188,93,L
+13425,"Benoît Mondou","1985-05-03 00:00:00",Sorel,Canada,-,C/RW,178,88,R
+15162,"Alain Berger","1990-12-27 00:00:00",Burgdorf,Switzerland,"EHC Burgdorf",RW/LW,193,92,R
+49984,"Blake Orbán","1994-01-28 00:00:00",Calgary,Hungary,-,D,185,90,R
+151164,"Claude Blackburn","1995-06-27 00:00:00",Jonquière,Canada,-,RW,178,71,R
+252729,"Michael Thibault","1997-06-01 00:00:00",Rimouski,Canada,-,D,178,69,L
+95489,"Jeff Barletta","1988-07-22 00:00:00",Port,Canada,-,D,191,91,L
+107895,"Matt Sozanski","1996-01-04 00:00:00",Calgary,Canada,-,D,183,79,L
+85813,"Brett Cote","1994-05-21 00:00:00",Oakbank,Canada,-,D,183,94,L
+70426,"Sven Andrighetto","1993-03-21 00:00:00",Sumiswald,Switzerland,"EHC Dübendorf",RW/LW,178,85,L
+62531,"Chris Morrison","1986-04-16 00:00:00",Cambridge,Canada,-,D,181,83,R
+9338,"Matt Beleskey","1988-06-07 00:00:00",Windsor,Canada,"Barrie MHA",LW,183,92,L
+13479,"Jeff Kyrzakos","1985-02-06 00:00:00",Mississauga,Canada,-,C,187,88,R
+23346,"Brandon Manning","1990-06-04 00:00:00",Prince,Canada,-,D,185,93,L
+23327,"Cody Gross","1989-05-26 00:00:00",Winnipeg,Canada,-,C,182,73,L
+199920,"Jordan Wharrie","1997-06-16 00:00:00",Port,Canada,-,D,188,84,R
+33753,"Austin Watson","1992-01-13 00:00:00",Arbor,USA,-,W/C,193,93,R
+37504,"Darick Ste","1989-09-19 00:00:00",Longueuil,Canada,-,C,183,89,R
+37244,"Jeremy Schappert","1989-01-16 00:00:00",Winnipeg,Canada,-,D,181,86,L
+269460,"Owen Lane","1999-01-16 00:00:00",Kitchener,Canada,-,LW,175,85,L
+11328,"Jacob Lalonde","1988-01-08 00:00:00",Sudbury,Canada,-,LW,189,91,L
+364617,"Joel Craven","2000-06-26 00:00:00",Whitefish,USA,-,D,188,70,L
+201256,"Ty Lewis","1998-03-05 00:00:00",Brandon,Canada,-,LW,180,85,L
+76325,"Steven Mercier","1993-02-01 00:00:00",Rouyn,Canada,-,C,168,69,L
+10609,"Julius Sinkovic","1988-03-24 00:00:00",Bratislava,Slovakia,-,LW,180,78,L
+84461,"Tanner Moar","1994-07-12 00:00:00",Canwood,Canada,-,D/RW,191,73,R
+320295,"Brett Budgell","2001-06-01 00:00:00",John,Canada,-,LW,183,87,L
+326522,"Bowen Byram","2001-06-13 00:00:00",Cranbrook,Canada,"Cranbrook MHA",D,183,88,L
+19177,"Sébastien Bérubé","1990-07-20 00:00:00",Matane,Canada,-,LW,193,95,L
+19231,"Ryley Grantham","1988-01-07 00:00:00",Hanna,Canada,-,C,191,94,L
+37257,"Mitch McColm","1989-05-31 00:00:00",Calgary,Canada,-,D,193,5,R
+45561,"Anthony Camara","1993-09-04 00:00:00",Toronto,Canada,"Greater Toronto MHA",LW,183,87,L
+23151,"Brandon Kozun","1990-03-08 00:00:00",Angeles,Canada,"Midnapore MHA",RW,173,76,R
+22772,"Tomas Zohorna","1988-01-03 00:00:00",Havlickuv,Czech,"HC Chotebor",C/LW,185,83,L
+93770,"Denis Kamayev","1994-03-06 00:00:00",Izhevsk,Russia,"CSKA Moskva",RW,180,82,L
+61227,"Chad Thibodeau","1993-03-15 00:00:00",Sault,Canada,"Soo Peewee",D/F,183,91,L
+33634,"Ryan Lopes","1991-02-25 00:00:00",Brampton,Canada,-,C,180,77,R
+37174,"Travis Bobbee","1990-01-04 00:00:00",Arborg,Canada,-,D,178,91,R
+9210,"Bobby Ryan","1987-03-17 00:00:00",Cherry,USA,-,RW/LW,188,95,R
+15481,"Brian Lashoff","1990-07-16 00:00:00",Albany,USA,-,D,191,0,L
+204916,"John Warren","1997-01-10 00:00:00",London,Canada,-,LW,171,68,L
+32746,"Myles McCauley","1991-04-08 00:00:00",Sterling,USA,-,F/D,185,91,R
+143834,"Brandon Robinson","1995-10-13 00:00:00",Pickering,Canada,-,LW,191,0,L
+213833,"Carl Denis","1996-03-27 00:00:00",Ubald,Canada,-,D,180,82,L
+191286,"Filip Hronek","1997-11-02 00:00:00",Hradec,Czech,"HC Hradec Kralove",D,183,77,R
+45586,"Brian Hughes","1993-02-25 00:00:00",Barrie,Canada,-,C,180,88,R
+11126,"Félix Petit","1988-08-27 00:00:00",Jonquière,Canada,-,C,174,77,L
+17686,"Dominik Schlumpf","1991-03-03 00:00:00",Mönchaltorf,Switzerland,"Zürcher SC",D,183,85,R
+254901,"Gabriel Bilodeau","1998-06-04 00:00:00",Laval,Canada,"AHM Laval",D,188,97,R
+209216,"Zane Franklin","1999-01-05 00:00:00",Marwayne,Canada,"Marwayne MHA",C,175,88,R
+37589,"Mathieu Populus","1991-02-05 00:00:00",Perrot,Canada,-,RW,188,80,R
+61769,"Gilbert Gabor","1995-09-11 00:00:00",Stockholm,Sweden,-,LW,193,93,L
+54196,"Kyle Lamb","1986-03-18 00:00:00",Port,Canada,-,RW,187,82,R
+73919,"Ian Mathieu","1985-06-15 00:00:00",Georges,Canada,-,LW,168,74,L
+84228,"Nick Charif","1995-02-06 00:00:00",Edmonton,Canada,-,D,185,86,R
+312831,"Ivan Kozlov","1999-03-26 00:00:00",Yaroslavl,Russia,"Lokomotiv Yaroslavl",LW,185,97,L
+17752,"Marek Viedensky","1990-08-18 00:00:00",Handlova,Slovakia,"MHC Prievidza",C,193,95,R
+152647,"Keith Sexton","1986-05-25 00:00:00",Rimouski,Canada,-,D,183,86,R
+14433,"Adam Perry","1987-01-12 00:00:00",Peterborough,Canada,-,LW,180,84,L
+101221,"Dominik Kubalík","1995-08-21 00:00:00",Plzen,Czech,"HC Plzen",LW,187,81,L
+68732,"Adam Jones","1992-07-01 00:00:00",Fredericton,Canada,-,LW,188,86,L
+135423,"Nick Magyar","1996-05-29 00:00:00",Mentor,USA,-,RW/C,187,88,R
+94855,"Andrew Tessier","1994-01-01 00:00:00",Elliot,Canada,-,D,185,90,R
+45491,"Antoine Corbin","1992-06-18 00:00:00",Granby,Canada,-,D,188,90,R
+37304,"Tyler Noseworthy","1991-05-12 00:00:00",John,Canada,-,C,186,88,R
+128488,"Maxime Gravel","1995-02-12 00:00:00",Blainville,Canada,-,D,185,81,R
+38619,"Tyler Biggs","1993-04-30 00:00:00",Binghamton,USA,-,RW/C,188,93,R
+21228,"Nail Yakupov","1993-10-06 00:00:00",Nizhnekamsk,Russia,"Neftekhimik Nizhnekamsk",RW/LW,180,88,L
+33756,"Frankie Santini","1988-07-29 00:00:00",Vaughan,Canada,-,D,181,88,L
+205488,"Kris Bennett","1996-01-06 00:00:00",Brampton,Canada,-,C/LW,180,86,L
+33869,"Luke Judson","1991-02-14 00:00:00",Unknown,Canada,-,RW/C,183,90,R
+85754,"Vincent Bernier","1993-03-26 00:00:00",Boisbriand,Canada,-,LW,182,81,L
+69906,"Steve Spade","1987-12-10 00:00:00",Rochester,USA,-,D,189,88,R
+190484,"Semyon Babintsev","1994-10-08 00:00:00",Moskva,Russia,"CSKA Moskva",RW,184,86,L
+92042,"Dylan Corson","1994-03-01 00:00:00",Edmonton,Canada,-,C,180,86,L
+13935,"Luke Egener","1988-02-08 00:00:00",Calgary,Canada,-,D,186,84,R
+106180,"Nevin Guy","1995-06-11 00:00:00",South,Canada,-,D,180,78,L
+56281,"Matt Bellerive","1994-12-07 00:00:00",North,Canada,-,RW,180,86,R
+262138,"Dmitri Buinitsky","1997-03-01 00:00:00",Vitebsk,Belarus,"HK Vitebsk",C/RW,185,85,L
+275739,"Joel Bishop","1999-05-07 00:00:00",John,Canada,-,LW/C,178,85,L
+37254,"Brendan Shinnimin","1991-01-07 00:00:00",East,Canada,-,C/LW,178,84,L
+27771,"Tibor Radulay","1988-01-06 00:00:00",Trencin,Slovakia,-,RW,185,90,L
+213476,"Julien Carignan","1997-02-12 00:00:00",Augustin,Canada,-,D,183,86,R
+246490,"Andrew Maksym","1986-02-16 00:00:00",Mississauga,Canada,-,RW,180,84,R
+119392,"Haydn Fleury","1996-07-08 00:00:00",Carlyle,Canada,"Leduc MHA",D,190,0,L
+32770,"Josh Nicholls","1992-04-27 00:00:00",Richmond,Canada,-,RW/C,188,86,R
+129115,"Antoine Venne","1994-12-19 00:00:00",Mirabel,Canada,-,RW,178,82,R
+128928,"Anthony Cortese","1994-01-12 00:00:00",Pierrefonds,Canada,-,D,178,82,R
+129038,"Alec Jon","1994-04-13 00:00:00",Majorique,Canada,-,LW/RW,185,87,L
+238729,"Matthew Kreis","1997-08-01 00:00:00",Georgetown,Canada,-,C,183,79,L
+101209,"Julien Lepage","1994-01-20 00:00:00",Baie,Canada,-,D,180,78,L
+18632,"Björn Krupp","1991-03-06 00:00:00",Buffalo,Germany,-,D,191,92,L
+22718,"Tysen Dowzak","1988-03-08 00:00:00",Fergus,USA,-,D,196,3,L
+156396,"Michael Rhéaume","1994-10-11 00:00:00",Lévis,Canada,-,C,175,80,L
+11342,"Steve Ward","1986-02-13 00:00:00",Scarborough,Canada,-,D,180,84,R
+82504,"Brett Welychka","1994-03-03 00:00:00",London,Canada,"London Junior Knights MHA",C,178,85,R
+23331,"Dallas Jackson","1989-03-31 00:00:00",Edson,Canada,-,D,188,85,L
+252499,"Charles Taillon","1998-11-06 00:00:00",Québec,Canada,-,LW,188,89,L
+384281,"Gabriel Villeneuve","2000-04-12 00:00:00",Trois,Canada,-,D,180,84,R
+252496,"Peter Abbandonato","1998-03-25 00:00:00",Laval,Canada,-,C,180,87,L
+11327,"Nick Tuzzolino","1986-01-19 00:00:00",Buffalo,USA,-,D,197,2,R
+155553,"Adam Ross","1987-05-28 00:00:00",Edmonton,Canada,-,RW,188,84,R
+353862,"Jérémy Diotte","1999-06-07 00:00:00",Hubert,Canada,-,D,175,78,R
+351688,"Henry Rybinski","2001-06-26 00:00:00",Vancouver,Canada,-,LW,185,77,R
+120213,"Shaun Dosanjh","1996-03-14 00:00:00",Richmond,Canada,-,D,185,91,L
+151571,"Allan Caron","1995-10-30 00:00:00",Sayabec,Canada,-,D,188,91,L
+76701,"Tyler Ferry","1992-12-09 00:00:00",Richmond,Canada,-,D/F,180,82,L
+267122,"Kevin Mason","2000-01-12 00:00:00",Pictou,Canada,-,C,185,78,R
+12460,"Stefan Legein","1988-11-24 00:00:00",Oakville,Canada,"Minor Oaks MHA",RW,178,77,R
+104602,"Kevin Spinozzi","1996-05-23 00:00:00",Granby,Canada,-,D,188,91,L
+268928,"Kevin Hancock","1998-03-02 00:00:00",Mississauga,Canada,-,LW/C,180,82,L
+45407,"Jeremy Gottzmann","1993-04-02 00:00:00",Burlington,Canada,-,C,174,76,L
+269099,"Ben Hawerchuk","1998-03-27 00:00:00",King,Canada,-,LW,180,84,L
+162926,"Mason Shaw","1998-11-03 00:00:00",Lloydminster,Canada,"Lloydminster MHA",C,175,81,L
+281307,"Riley Sutter","1999-10-25 00:00:00",Calgary,Canada,-,RW,191,95,R
+18628,"Jason Akeson","1990-06-03 00:00:00",Orleans,Canada,-,RW,178,84,R
+11050,"Ryan White","1988-03-17 00:00:00",Brandon,Canada,-,C/RW,183,91,R
+45739,"Phil Gervais","1990-10-03 00:00:00",Edmonton,Canada,-,F,178,77,-
+76329,"Dillon Fournier","1994-06-15 00:00:00",Dorval,Canada,-,D,187,84,L
+199648,"Jake Elmer","1998-12-31 00:00:00",Calgary,Canada,-,RW,185,83,R
+96052,"Tyler Gaudet","1993-04-04 00:00:00",Hamilton,Canada,-,C/LW,191,93,L
+101647,"Brayden Burke","1997-01-01 00:00:00",Edmonton,Canada,-,LW,178,75,L
+199399,"Evan Fiala","1997-06-07 00:00:00",Clavet,Canada,-,D,193,96,R
+103534,"Connor Honey","1994-04-01 00:00:00",Edmonton,Canada,-,RW,185,83,R
+239656,"Tyler Rollo","1997-07-30 00:00:00",Burlington,Canada,-,LW,179,75,L
+251447,"Jonathan Ang","1998-01-31 00:00:00",Markham,Canada,"Markham Waxers MHA",C,181,75,R
+275843,"Samuel Leblanc","1999-06-18 00:00:00",Dieppe,Canada,-,F,175,68,R
+200933,"Kole Lind","1998-10-16 00:00:00",Shaunavon,Canada,-,RW,185,84,R
+48389,"Lyndon Martell","1993-01-13 00:00:00",Prince,Canada,-,F,188,86,L
+37215,"Ryan Aasman","1992-04-19 00:00:00",Medicine,Canada,-,D,186,85,R
+37511,"Henrick Lavoie","1988-01-14 00:00:00",Matane,Canada,-,LW,186,87,L
+39513,"Nick Quinn","1992-06-12 00:00:00",North,Canada,-,D,183,83,L
+289341,"Jack Phibbs","1999-03-05 00:00:00",Cayuga,Canada,-,LW,183,83,L
+120655,"Mitch Skapski","1996-04-04 00:00:00",Abbotsford,Canada,-,LW,175,77,L
+161056,"Brad Forrest","1997-09-15 00:00:00",Calgary,Canada,"Lake Bonavista MHA",D,180,83,L
+37147,"Hayden Rintoul","1991-02-02 00:00:00",Calgary,Canada,-,D,183,82,L
+31554,"Daniel Michalsky","1988-01-13 00:00:00",Aurora,Canada,-,LW,189,86,L
+197260,"Gabriel Paquin","1996-08-13 00:00:00",Blainville,Canada,-,LW,183,75,L
+254741,"Olivier Duquette","1998-03-26 00:00:00",Chateauguay,Canada,-,D,193,93,L
+23104,"Tyler Murovich","1989-12-04 00:00:00",Pittsburgh,USA,-,C,175,85,L
+18611,"Brett Bartman","1989-10-20 00:00:00",Medicine,Canada,-,D,188,97,L
+83357,"Justin Kea","1994-02-07 00:00:00",Woodville,Canada,-,C,195,98,L
+45118,"Cory MacIntosh","1992-05-14 00:00:00",North,Canada,-,LW,183,76,L
+279238,"Philipp Kurashev","1999-10-12 00:00:00",Davos,Switzerland,"SC Bern",C,183,87,L
+63204,"Tyson Baillie","1995-11-16 00:00:00",Edmonton,Canada,-,C/RW,180,84,R
+166425,"Patrik Maier","1996-11-06 00:00:00",Bratislava,Slovakia,"HC Slovan Bratislava",D,182,87,L
+112375,"Pavel Jenys","1996-04-02 00:00:00",Brno,Czech,"HC Kometa Brno",C,191,99,L
+45260,"Gabriel Bourret","1992-10-09 00:00:00",Prairie,Canada,-,D,184,80,R
+245108,"Zach Senyshyn","1997-03-30 00:00:00",Ottawa,Canada,-,RW,185,87,R
+28774,"Andrej Stastny","1991-01-24 00:00:00",Povazska,Slovakia,"HK Dukla Trencin",C,191,0,L
+76516,"Nelson Armstrong","1993-12-09 00:00:00",Peterborough,Canada,-,D,185,93,L
+17520,"Marco Scandella","1990-02-23 00:00:00",Montréal,Canada,-,D,191,94,L
+12170,"Simon Allard","1989-05-24 00:00:00",Alma,Canada,-,C,186,82,R
+27609,"Brandon Magee","1994-01-23 00:00:00",Edmonton,Canada,-,C/RW,175,86,R
+352048,"Eric Pearce","2001-07-30 00:00:00",Regina,Canada,-,C,185,87,R
+269859,"Boris Katchouk","1998-06-18 00:00:00",Vancouver,Canada,"Waterloo MHA",LW/RW,188,90,L
+19046,"Joël Champagne","1990-01-24 00:00:00",Châteauguay,Canada,-,C,193,99,L
+153134,"Nolan Volcan","1998-07-04 00:00:00",Edmonton,Canada,"Maple Leaf Athletic Club",LW,177,87,L
+79399,"Richard Nedomlel","1993-07-01 00:00:00",Praha,Czech,"HC Slavia Praha",D,193,6,L
+10432,"Dustin Kohn","1987-02-02 00:00:00",Edmonton,Canada,-,D,185,91,L
+223518,"Kyle Ward","1997-12-29 00:00:00",Sackville,Canada,-,LW,180,80,L
+239804,"Trenton Bourque","1998-06-11 00:00:00",Burlington,Canada,-,D,188,91,L
+88910,"Antoine Delisle","1993-06-18 00:00:00",Blainville,Canada,-,C,180,83,L
+21192,"Justin Wallingford","1987-05-12 00:00:00",Hamilton,Canada,-,D,197,2,R
+56637,"Victor Provencher","1993-08-31 00:00:00",Jean,Canada,-,LW,178,77,L
+32803,"Dylen McKinlay","1992-04-20 00:00:00",Langley,Canada,-,RW,181,77,R
+79789,"Joel Topping","1995-01-05 00:00:00",Deer,Canada,-,D,183,77,L
+37467,"David Gilbert","1991-02-09 00:00:00",Châteauguay,Canada,-,C,188,93,L
+32871,"Olivier Vallerand","1989-04-17 00:00:00",Longueuil,Canada,-,RW,180,77,L
+120198,"Ryan Gropp","1996-09-16 00:00:00",Kamloops,Canada,"Kamloops MHA",LW,189,88,L
+305092,"Ryan Francis","2001-12-02 00:00:00",Beaver,Canada,-,RW,173,76,R
+23824,"Ian McKenzie","1987-05-23 00:00:00",Weyburn,Canada,-,RW,193,93,R
+268365,"Shaw Boomhower","1998-10-31 00:00:00",Belleville,Canada,-,LW/C,180,84,L
+107894,"Nicholas Merkley","1997-05-23 00:00:00",Calgary,Canada,"Lake Bonavista MHA",RW/C,178,88,R
+200984,"Zach Grzelewski","1997-04-28 00:00:00",Thunder,Canada,-,LW,178,86,L
+45507,"Dylan Bredo","1993-06-25 00:00:00",Edmonton,Canada,-,D/C,188,89,L
+10405,"Kyle Cumiskey","1986-12-02 00:00:00",Abbotsford,Canada,-,D,180,82,L
+85223,"Brady Gaudet","1994-04-09 00:00:00",Redvers,Canada,-,D,183,88,L
+9199,"Tom Pyatt","1987-02-14 00:00:00",Thunder,Canada,"Thunder Bay Kings",W/C,181,84,L
+19073,"Zac Rinaldo","1990-06-15 00:00:00",Hamilton,Canada,-,LW/RW,178,87,L
+12129,"Mathieu Bolduc","1988-02-29 00:00:00",Arthabaska,Canada,-,D,189,79,R
+69897,"Pat Campbell","1988-07-13 00:00:00",Sauble,Canada,-,D,185,89,L
+12566,"Tomas Knotek","1990-01-13 00:00:00",Kladno,Czech,"HC Kladno",LW,185,82,L
+248583,"Kevin Bahl","2000-06-27 00:00:00",Westminster,Canada,"Toronto Marlboros MHA",D,198,6,L
+12271,"John Armstrong","1988-02-26 00:00:00",Unionville,Canada,-,C,191,96,R
+117016,"Mack Lemmon","1995-01-12 00:00:00",Markham,Canada,-,RW,183,93,R
+130160,"Adam Stevens","1994-08-12 00:00:00",Bedford,Canada,-,C,178,91,R
+17817,"Ned Lukacevic","1986-02-11 00:00:00",Podgorica,Canada,-,C/LW,183,92,L
+10425,"Sam Gagner","1989-08-10 00:00:00",London,Canada,"Toronto Marlboros",C/RW,180,91,R
+41287,"Daniel Catenacci","1993-03-09 00:00:00",Richmond,Canada,"York Simcoe MHA",C/LW,178,88,L
+258401,"Koletrane Wilson","1999-09-01 00:00:00",Edmonton,Canada,-,D,190,97,R
+14741,"Brandon McMillan","1990-03-22 00:00:00",Delta,Canada,"South Delta MHA",LW/C,180,86,L
+10437,"Claude Giroux","1988-01-12 00:00:00",Hearst,Canada,"Hearst MHA",C/LW,180,84,R
+44911,"Dalton Reum","1992-05-14 00:00:00",Camrose,Canada,-,D,191,77,R
+291854,"Sam Field","1998-02-04 00:00:00",Tenafly,USA,-,RW,187,86,R
+180744,"Kody McDonald","1998-04-07 00:00:00",Lethbridge,Canada,-,RW/C,185,87,R
+424473,"Kyle Harris","2001-04-12 00:00:00",Mississauga,Canada,-,C,183,81,L
+418488,"Grayson Ladd","2001-03-01 00:00:00",Kent,Canada,-,D,185,78,R
+31508,"Ivo Mocek","1988-04-16 00:00:00",Ostrava,Czech,-,LW,187,87,L
+384411,"Olivier Mathieu","2000-02-25 00:00:00",Drummondville,Canada,-,LW,175,73,L
+45536,"Craig Duininck","1993-04-29 00:00:00",Cloud,USA,-,D,185,89,R
+12007,"Justin Sawyer","1985-10-18 00:00:00",Oshawa,Canada,-,D,197,9,L
+96271,"Stephen Valente","1988-05-26 00:00:00",Montréal,Canada,-,D,187,86,L
+39709,"Levi Lind","1988-02-02 00:00:00",Saskatoon,Canada,-,C,191,93,L
+168689,"Alexander Protapovich","1996-08-16 00:00:00",Novotroitsk,Russia,"Sokol Novocheboksarsk",C/W,190,90,R
+272770,"Ostap Safin","1999-02-11 00:00:00",Praha,Czech,"HC Sparta Praha",RW/LW,195,87,L
+418591,"Luke Moncada","2000-05-29 00:00:00",Markham,Canada,"Toronto Red Wings MHA",C,185,98,L
+19429,"Ben Duffy","1992-03-03 00:00:00",Lower,Canada,-,C,178,79,R
+153847,"Luc Smith","1998-01-20 00:00:00",Onoway,Canada,-,C/W,195,95,R
+15545,"Chris Stevens","1986-08-20 00:00:00",Dawson,Canada,-,LW,179,89,L
+108440,"Cole Chorney","1996-03-21 00:00:00",Leduc,Canada,-,RW,183,80,R
+14005,"Michael Busto","1986-06-20 00:00:00",Burnaby,Canada,-,D,185,3,R
+199718,"Terrell Draude","1997-03-21 00:00:00",Warman,Canada,-,C,191,0,L
+33624,"Tyler Mort","1992-03-01 00:00:00",Keswick,Canada,-,D,186,91,R
+33888,"Liam Heelis","1990-09-28 00:00:00",Georgetown,Canada,-,C,183,89,R
+275774,"Ben Reid","1999-04-07 00:00:00",Quispamsis,Canada,-,F,177,71,R
+26421,"Joshua Winquist","1993-09-06 00:00:00",Albert,Canada,-,LW/C,181,78,L
+151858,"Matt McCartney","1995-08-09 00:00:00",Scarborough,Canada,-,C,180,79,R
+33618,"Brian Shaw","1990-01-30 00:00:00",Thomas,Canada,-,D,191,1,L
+9192,"Kyle Chipchura","1986-02-19 00:00:00",Westlock,Canada,"Westlock MHA",C/W,188,92,L
+284931,"Christopher Benoit","1999-05-31 00:00:00",Sherbrooke,Canada,-,F,177,82,L
+44271,"Jordan Martinook","1992-07-25 00:00:00",Brandon,Canada,-,LW/C,183,93,L
+45589,"Colin Suellentrop","1993-06-10 00:00:00",Plantation,USA,-,D,185,86,R
+67660,"Derek Ryan","1986-12-29 00:00:00",Spokane,USA,-,C,180,77,R
+89698,"Keli Grant","1993-05-25 00:00:00",Kingston,Canada,-,RW,178,69,R
+247294,"Josh Gionfriddo","1989-02-08 00:00:00",Colorado,USA,-,LW,185,83,L
+202372,"Bryan Allbee","1997-07-11 00:00:00",Prince,Canada,-,D,183,82,L
+126917,"Brent Pedersen","1995-07-05 00:00:00",Arthur,Canada,-,LW,191,97,L
+75944,"Mike Moffat","1993-06-12 00:00:00",Waterloo,Canada,-,D,185,0,L
+284920,"Louis Tardif","1999-02-11 00:00:00",Gatineau,Canada,-,D,191,85,R
+12508,"Kevin Marshall","1989-03-10 00:00:00",Boucherville,Canada,-,D,185,91,L
+247160,"Brendan De","1998-03-23 00:00:00",Victoria,Canada,-,D,195,91,L
+12883,"Danny Stewart","1985-04-23 00:00:00",Charlottetown,Canada,-,C,183,78,L
+33568,"Ryan Harrison","1992-03-31 00:00:00",Vernon,Canada,"Kelowna MHA",C,178,84,L
+67089,"Antoine Tremblay","1992-12-25 00:00:00",Repentigny,Canada,-,C/LW,181,79,L
+157256,"Dillon Dubé","1998-07-20 00:00:00",Golden,Canada,"Cochrane MHA",C/LW,180,83,L
+84242,"Jake DeBrusk","1996-10-17 00:00:00",Edmonton,Canada,"Hockey Edmonton",LW/RW,183,85,L
+96312,"Sean Smyth","1987-07-07 00:00:00",Clarence,Canada,-,LW,191,93,L
+65216,"Trevor Cameron","1992-02-04 00:00:00",Mission,Canada,-,RW,180,77,L
+12258,"Kyell Henegan","1987-10-27 00:00:00",Montréal,Canada,-,D,192,93,L
+162191,"Éric Campeau","1989-04-04 00:00:00",Gatineau,Canada,-,D,191,79,R
+11679,"Arnaud Jacquemet","1988-03-29 00:00:00",Sion,Switzerland,-,D/RW,185,90,R
+201536,"Arnaud Durandeau","1999-01-14 00:00:00",Beaconsfield,Canada,-,LW,183,83,L
+45494,"Jessey Astles","1993-06-04 00:00:00",Gatineau,Canada,-,LW/RW,188,93,L
+38046,"Spencer Bennett","1990-10-31 00:00:00",White,Canada,-,LW,191,84,L
+195781,"Brett Crossley","1998-01-03 00:00:00",Cole,Canada,-,C,180,78,L
+14088,"Dany Massé","1988-05-12 00:00:00",Pocatière,Canada,-,LW,178,81,L
+418415,"Mark Woolley","2001-11-26 00:00:00",Thomas,Canada,-,D,188,92,L
+241522,"Peter Franchin","1986-05-09 00:00:00",Mississauga,Canada,-,LW,193,0,L
+120223,"Dawson Leedahl","1996-03-16 00:00:00",Saskatoon,Canada,-,LW,185,89,L
+274869,"Matthew Ferrari","1997-10-13 00:00:00",Woodbridge,Canada,-,D,183,79,L
+199947,"Brandan Arnold","1997-04-05 00:00:00",Dodsland,Canada,-,RW,173,79,R
+342120,"Martin Fasko","2000-08-10 00:00:00",Banska,Slovakia,-,LW,183,74,R
+273622,"Alex Formenton","1999-09-13 00:00:00",King,Canada,"Toronto Young Nationals MHA",LW,188,84,L
+90896,"Alex Broadhurst","1993-03-07 00:00:00",Orland,USA,-,C,183,81,L
+43032,"Brodie Beard","1986-06-12 00:00:00",South,Canada,-,D,185,86,L
+37108,"Mark Schneider","1990-11-10 00:00:00",Brandon,Canada,-,D,185,80,L
+151757,"Olivier LeBlanc","1996-02-17 00:00:00",Québec,Canada,"AHM Charlesbourg",D,183,78,L
+247241,"Filip Král","1999-10-20 00:00:00",Blansko,Czech,"HC Kometa Brno",D,185,78,L
+30922,"Jack Walchessen","1990-04-11 00:00:00",Ortley,USA,-,RW,178,86,R
+45509,"Reid Petryk","1993-02-02 00:00:00",Edmonton,Canada,-,C/RW,185,93,R
+31914,"Luke Hunter","1985-07-24 00:00:00",Shaunavon,Canada,-,C,181,79,L
+36744,"Philippe Bergeron","1990-02-16 00:00:00",Jonquière,Canada,-,LW,181,98,L
+32861,"Ryan Jasinsky","1990-01-13 00:00:00",Midlothian,USA,-,RW,189,93,R
+196166,"Gregor MacLeod","1998-06-07 00:00:00",Dartmouth,Canada,-,C,183,83,L
+18031,"Evan Schafer","1985-10-09 00:00:00",Mankota,Canada,-,D,188,0,R
+130680,"Liam Hynes","1996-02-26 00:00:00",Paradise,Canada,-,C/RW,177,85,R
+17843,"Randy Cameron","1989-01-28 00:00:00",Cornwall,Canada,-,C,181,88,R
+37469,"Mikaël Tam","1991-04-26 00:00:00",Québec,Canada,-,D,180,93,L
+160128,"Nate Looysen","1996-11-24 00:00:00",Saanichton,Canada,-,LW,188,88,L
+129512,"Guillaume Labrecque","1985-06-13 00:00:00",Laval,Canada,-,LW,180,83,L
+14097,"Cody Hobbs","1989-05-31 00:00:00",Prince,Canada,-,D,186,85,L
+30691,"Lucas LaBelle","1988-10-02 00:00:00",Scarborough,Canada,-,LW,173,86,L
+37567,"Alex MacDonald","1991-06-25 00:00:00",Moncton,Canada,-,D,193,91,R
+247137,"Dennis Cholowski","1998-02-15 00:00:00",Langley,Canada,"Langley MHA",D,183,88,L
+45274,"Olivier Archambault","1993-02-16 00:00:00",Gardeur,Canada,"AMH Le Gardeur",LW,180,80,L
+45270,"Jonathan Racine","1993-05-28 00:00:00",Montréal,Canada,"AHM St-Jérôme",D,188,88,L
+37590,"Michaël Bélanger","1991-01-06 00:00:00",Laurier,Canada,-,LW,191,88,L
+9349,"Levi Nelson","1988-04-28 00:00:00",Calgary,Canada,"Calgary Northstars MHA",C,180,84,L
+69521,"Cory Vitarelli","1985-06-30 00:00:00",Peterborough,Canada,-,LW,180,84,L
+40041,"Bryan Kauk","1987-02-02 00:00:00",Brandon,Canada,-,RW,188,85,R
+56900,"Alexandre Poulin","1988-02-18 00:00:00",Georges,Canada,-,C,193,93,L
+27320,"Michel Bolduc","1985-02-27 00:00:00",Portland,Canada,-,D,193,91,L
+275807,"Jeremy McKenna","1999-04-20 00:00:00",Canmore,Canada,-,RW,178,79,R
+270772,"André Lecouffe","1999-06-15 00:00:00",Bathurst,Canada,-,C,190,89,L
+45570,"Colin MacDonald","1992-04-16 00:00:00",London,Canada,-,D,191,84,L
+58355,"Jérémy Barriault","1992-10-16 00:00:00",Longueuil,Canada,-,D,185,91,L
+183259,"Dennis Yan","1997-04-14 00:00:00",Portland,USA,"Vympel Moskva",LW/RW,188,87,L
+45161,"Dillon Donnelly","1993-09-07 00:00:00",Amherst,Canada,-,D,188,88,L
+88621,"Christophe Laflamme","1993-11-16 00:00:00",Montmagny,Canada,-,LW,173,75,L
+283248,"Nate Schnarr","1999-02-25 00:00:00",Waterloo,Canada,"Waterloo MHA",C,191,86,R
+37502,"Vincent Bourgeois","1990-02-14 00:00:00",Eustache,Canada,-,D,183,82,L
+83996,"Chase Witala","1995-05-27 00:00:00",Prince,Canada,-,LW/C,183,79,L
+280231,"Tate Coughlin","1997-07-27 00:00:00",Victoria,Canada,-,RW,188,91,R
+41098,"Dominik Uher","1992-12-31 00:00:00",Frydek,Czech,"HC Frydek-Mistek",C/W,183,92,L
+32883,"Chad Earle","1989-06-13 00:00:00",John,Canada,-,RW,183,93,L
+36721,"Antoine Houde","1990-01-16 00:00:00",Brossard,Canada,-,LW,181,80,L
+32737,"Cody Lindsay","1990-05-29 00:00:00",London,Canada,-,C,173,83,L
+97551,"Jonathan Laser","1994-08-17 00:00:00",Mississauga,Canada,-,D,183,86,L
+45245,"Cody Linteau","1992-10-16 00:00:00",Québec,Canada,-,LW,179,78,L
+207726,"Kristians Rubins","1997-12-11 00:00:00",Riga,Latvia,"Prizma Riga",D,194,96,L
+285732,"William Sirman","1999-11-03 00:00:00",Kingston,Canada,-,LW,178,80,L
+62543,"Cameron Brace","1993-04-18 00:00:00",Toronto,Canada,-,C/RW,178,79,R
+11052,"Mark Santorelli","1988-08-06 00:00:00",Burnaby,Canada,"Burnaby Winter Club",RW/LW,185,85,R
+86699,"Samuel Roussy","1994-01-01 00:00:00",Paspébiac,Canada,-,D,188,2,R
+128197,"Redgie Bois","1994-09-03 00:00:00",Rouyn,Canada,-,D,191,92,L
+37463,"William Plourde","1991-03-17 00:00:00",Rivière,Canada,-,D,186,82,L
+49802,"Connor Sanvido","1993-09-26 00:00:00",Maple,Canada,-,RW/C,178,79,R
+11640,"Jesse Dudás","1988-03-31 00:00:00",Albert,Hungary,-,D,188,98,R
+15737,"Dustin Cameron","1989-04-28 00:00:00",Saskatoon,Canada,-,LW,184,87,L
+251676,"Jake Ramalho","1998-05-25 00:00:00",Ottawa,Canada,"Southend MHA",D,188,93,L
+82494,"Matt Fuller","1993-01-30 00:00:00",London,Canada,"London Jr. Knights",D,183,86,L
+256560,"Simon Bélanger","1998-03-03 00:00:00",Félicien,Canada,-,RW,183,84,R
+62263,"Jesse Lees","1995-09-14 00:00:00",Calgary,Canada,-,D,183,89,R
+45106,"Mathieu Lizotte","1992-03-08 00:00:00",Baie,Canada,-,D,175,76,R
+13786,"Maxime Pomerleau","1988-09-30 00:00:00",LaSalle,Canada,-,D,180,88,R
+232631,"TJ Melancon","1996-07-04 00:00:00",Oshawa,Canada,-,D,188,92,R
+87651,"Zac Mackay","1995-04-06 00:00:00",Swift,Canada,-,C,175,74,L
+45499,"Elgin Pearce","1992-02-07 00:00:00",Port,Canada,-,C,185,79,L
+37153,"Brendan Hurley","1993-05-11 00:00:00",Fort,Canada,-,LW,183,91,L
+128524,"Jérémy Beaudry","1993-12-13 00:00:00",Montmagny,Canada,-,D,178,88,R
+24261,"Mike Looby","1985-01-28 00:00:00",Brampton,Canada,-,D,183,89,L
+275806,"Carson MacKinnon","1999-08-02 00:00:00",Summerside,Canada,-,C,183,84,L
+299741,"Alec Zawatsky","1999-12-15 00:00:00",Winfield,Canada,-,LW,173,75,L
+37135,"Markus McCrea","1992-02-15 00:00:00",Canyon,USA,-,LW,188,88,L
+19058,"Matt Tassone","1989-11-28 00:00:00",Albert,Canada,-,C,188,95,L
+38743,"Anton Cederholm","1995-02-21 00:00:00",Helsingborg,Sweden,"Jonstorps IF",D,188,93,L
+45493,"MacKenzie Johnston","1993-10-15 00:00:00",Swift,Canada,-,D,188,86,L
+202986,"Chase Harrison","1996-10-11 00:00:00",Winnipeg,Canada,-,D,185,84,L
+37614,"Matt Smyth","1989-06-12 00:00:00",Orlando,USA,-,RW,179,78,R
+255520,"Jonathan Legault","1997-12-09 00:00:00",LaSalle,Canada,-,D,185,93,R
+11849,"Richard Pánik","1991-02-07 00:00:00",Martin,Slovakia,"MHC Martin",RW/LW,185,94,L
+166651,"Colin Paradis","1998-04-02 00:00:00",Sherwood,Canada,-,D,185,87,L
+37224,"Jesse Forsberg","1993-08-13 00:00:00",Waldheim,Canada,-,D,185,2,L
+161843,"Brandon Hagel","1998-08-27 00:00:00",Morinville,Canada,-,LW,185,79,L
+14837,"Steve Covington","1986-01-31 00:00:00",Unknown,Canada,-,RW,183,85,R
+76076,"Tyler McCarthy","1992-02-19 00:00:00",Orangeville,Canada,-,D,193,97,R
+240385,"Nolan Foote","2000-11-29 00:00:00",Denver,Canada,"Colorado Thunderbirds",LW,191,85,L
+248562,"Derek Price","1985-02-07 00:00:00",Fruitvale,Canada,-,D,183,88,L
+223512,"Yan Plourde","1998-10-07 00:00:00",Pigeon,Canada,-,C,185,73,L
+78063,"Zac Leslie","1994-01-31 00:00:00",Ottawa,Canada,"Leitrim MHA",D,184,79,L
+36829,"David Halasz","1986-09-08 00:00:00",Kosice,Slovakia,-,D,186,95,L
+275797,"Noah Dobson","2000-01-07 00:00:00",Summerside,Canada,"Summerside & Area MHA",D,192,84,R
+13928,"David Stieler","1988-07-20 00:00:00",Kladno,Czech,"HC Kladno",C,180,87,L
+19372,"Andrej Kudrna","1991-05-11 00:00:00",Nove,Slovakia,-,RW/LW,189,95,L
+37522,"Devon MacAusland","1991-05-23 00:00:00",Moncton,Canada,-,C,175,68,L
+9492,"Eric Hunter","1986-09-11 00:00:00",Winnipeg,Canada,-,C,185,88,L
+27372,"Maxime Mathieu","1986-03-12 00:00:00",Normandin,Canada,-,LW,180,81,L
+354074,"Olivier Plourde","1998-07-16 00:00:00",Eustache,Canada,-,F,180,70,L
+33641,"Victor Terreri","1991-10-08 00:00:00",Mississauga,Canada,-,C,190,0,R
+83460,"Parker Bowles","1995-01-25 00:00:00",Kelowna,Canada,-,LW/C,185,78,L
+258702,"Dom Schmiemann","1999-04-22 00:00:00",Wilcox,Canada,-,D,193,90,L
+19170,"TJ Brodie","1990-06-07 00:00:00",Chatham,Canada,"Dresden MHA",D,185,83,L
+247933,"Max Gerlach","1998-04-04 00:00:00",Burnsville,USA,-,C,175,78,R
+11711,"Mark Derlago","1986-01-17 00:00:00",Brandon,Canada,-,LW,184,90,L
+158124,"Landon Schiller","1995-01-20 00:00:00",Markham,Canada,-,RW,183,84,R
+9617,"Jakub Petruzalek","1985-04-24 00:00:00",Most,Czech,"HC Litvinov",C/RW,176,80,R
+32797,"Kyle Verdino","1991-10-27 00:00:00",Phoenix,USA,-,D/LW,182,92,L
+108883,"Joël Blanchard","1994-03-11 00:00:00",Caraquet,Canada,-,RW,173,83,L
+25632,"Drew Hoff","1988-01-11 00:00:00",Redvers,Canada,-,C,178,79,R
+85296,"Lukas Balmelli","1994-01-03 00:00:00",Mendrisio,Switzerland,"HC Lugano",C,185,85,R
+88711,"Alexandre Tanguay","1993-05-16 00:00:00",Lévis,Canada,-,LW,180,80,L
+14659,"Johnny Lazo","1989-01-08 00:00:00",Winnipeg,Canada,-,C,168,77,R
+21195,"Chris Morehouse","1987-06-28 00:00:00",Saint,Canada,-,C/LW,176,82,L
+252469,"Riley Stillman","1998-03-09 00:00:00",Peterborough,Canada,-,D,185,86,L
+45254,"Gabriel Vallée","1992-01-07 00:00:00",Grande,Canada,-,C,179,75,R
+14454,"Andrew Andricopoulos","1987-04-01 00:00:00",Beverly,USA,-,D,185,91,R
+197195,"Dylan Montcalm","1996-09-26 00:00:00",Drummondville,Canada,-,LW,188,81,L
+335687,"Philippe Fortin","2000-01-13 00:00:00",Québec,Canada,-,D,185,84,L
+18799,"Nicolas Boyer","1990-07-04 00:00:00",Eustache,Canada,-,C,182,83,L
+297994,"Jarret Tyszka","1999-03-15 00:00:00",Langley,Canada,-,D,190,87,L
+100466,"Patrik Machac","1994-04-23 00:00:00",Beroun,Czech,"HC Kladno",C,176,77,L
+33548,"Austin Madaisky","1992-01-30 00:00:00",Surrey,Canada,-,D,185,84,R
+149432,"Julien Pelletier","1996-06-28 00:00:00",Buckingham,Canada,-,LW/C,180,83,L
+23323,"Walker Wintoneak","1989-05-25 00:00:00",Thunder,Canada,-,RW,191,82,R
+37230,"Josh Cowen","1991-01-04 00:00:00",Salmon,Canada,-,RW,188,79,R
+33885,"Josh Ocampo","1991-07-12 00:00:00",Brampton,Canada,-,RW,173,72,R
+93245,"Alex Racino","1993-06-04 00:00:00",Merrill,USA,-,C,190,84,L
+11262,"Graham Potuer","1988-02-18 00:00:00",Deer,Canada,-,D,186,6,R
+23812,"Corey Cowick","1989-08-01 00:00:00",Gloucester,Canada,-,LW/C,191,97,L
+45400,"Matt MacLeod","1993-07-13 00:00:00",Niagara,Canada,-,RW,191,95,R
+9498,"Aaron Gagnon","1986-04-24 00:00:00",Armstrong,Canada,-,C/RW,178,86,R
+15020,"Franklin MacDonald","1985-04-08 00:00:00",Sydney,Canada,-,D,182,90,L
+107899,"Braylon Shmyr","1997-05-16 00:00:00",Calgary,Canada,"Blackfoot MHA",LW,178,74,L
+19362,"Michal Hlinka","1991-03-19 00:00:00",Novy,Czech,"HC Koprivnice",RW,190,91,L
+37086,"Michaël Trudel","1990-05-21 00:00:00",Beauport,Canada,-,D,185,78,L
+32890,"Antoine Létourneau","1992-03-10 00:00:00",Saint,Canada,-,D,170,73,L
+89181,"Brendan Leipsic","1994-05-19 00:00:00",Winnipeg,Canada,"Fort Garry MHA",LW/C,178,82,L
+10877,"Alex Bourret","1986-10-05 00:00:00",Drummondville,Canada,-,RW,178,93,L
+15735,"Stefan Elliott","1991-01-30 00:00:00",Vancouver,Canada,"North Shore Winter Club",D,185,86,R
+12162,"Antoine Messier","1988-11-04 00:00:00",Boucherville,Canada,-,C,180,75,L
+37159,"Bretton Cameron","1989-01-26 00:00:00",Didsbury,Canada,-,RW,180,82,R
+351326,"Carter Souch","2001-10-28 00:00:00",Edmonton,Canada,-,F,175,68,L
+250818,"Myles Zimmer","1985-04-03 00:00:00",Tisdale,Canada,-,F,183,88,L
+283286,"Issac Nurse","1999-03-16 00:00:00",Hamilton,Canada,-,RW,180,84,R
+40998,"Roman Berdnikov","1992-05-18 00:00:00",Omsk,Russia,"Avangard Omsk",RW,181,90,R
+252475,"Mathieu Sévigny","1998-03-12 00:00:00",Québec,Canada,"AHM Cap-Rouge St-Augustin",LW/C,188,83,L
+15705,"Josh Brittain","1990-01-03 00:00:00",Milton,Canada,"Milton MHA",LW,196,3,L
+45167,"Matt Provost","1992-04-19 00:00:00",Oakville,Canada,-,D,181,85,R
+11493,"Jamie Fraser","1985-11-17 00:00:00",Sarnia,Canada,-,D,185,89,L
+97349,"Scott Teskey","1995-05-04 00:00:00",Toronto,Canada,-,RW,183,87,R
+37667,"Josh McFadden","1991-05-23 00:00:00",Guelph,Canada,-,D,185,91,L
+101225,"Jan Mandat","1995-11-18 00:00:00",Jihlava,Czech,"HC Dukla Jihlava",C/LW,184,93,L
+22860,"Alexandre Carrier","1991-02-18 00:00:00",Elzéar,Canada,-,RW,188,92,R
+14012,"Ryan Ellis","1991-01-03 00:00:00",Freelton,Canada,"Belmont Bombers",D,178,82,R
+23325,"Koltyn Miller","1991-03-10 00:00:00",Redvers,Canada,-,D,188,80,L
+49967,"Kenton Helgesen","1994-03-19 00:00:00",Fairview,Canada,-,LW,191,88,L
+275577,"Jérôme Gravel","1999-08-27 00:00:00",Chambord,Canada,-,D,185,93,L
+85036,"Erik Benoit","1993-12-30 00:00:00",Regina,Canada,-,C/LW,180,82,L
+84741,"Tyrel Seaman","1994-01-06 00:00:00",Choiceland,Canada,-,C,187,88,L
+10479,"Daniel Rakos","1987-05-25 00:00:00",Pardubice,Czech,"HC Pardubice",C/LW,188,92,L
+11882,"Todd Griffith","1985-01-27 00:00:00",Welland,Canada,-,F,181,82,L
+37235,"Colin Joe","1988-03-26 00:00:00",Edmonton,Canada,-,D,184,86,L
+243313,"Leon Gawanke","1999-05-31 00:00:00",Berlin,Germany,-,D,186,90,R
+4511,"Patrik Magnusson","1988-03-12 00:00:00",Jönköping,Sweden,HV71,D,204,25,L
+37690,"Jon Carnevale","1991-06-21 00:00:00",Beaverton,Canada,-,RW,183,86,R
+102378,"Ben Betker","1994-09-24 00:00:00",Cranbrook,Canada,-,D,197,3,L
+234352,"Tyler Sensky","1997-02-27 00:00:00",Canton,USA,-,D,180,82,L
+151702,"Francis Robichaud","1995-09-10 00:00:00",Granby,Canada,-,D,183,87,R
+287295,"Cayse Ton","1999-07-28 00:00:00",Liskeard,Canada,"Temiskaming Shores MHA",C,175,82,L
+108056,"Kyle O","1996-01-30 00:00:00",Calgary,Canada,-,C/RW,188,86,R
+245294,"Logan DeNoble","1997-10-15 00:00:00",Peterborough,Canada,-,C/LW,179,88,L
+56054,"Stephen Woodworth","1993-01-21 00:00:00",Middleton,Canada,"Western Valley MHA",D,183,90,L
+337731,"Luke Zazula","2000-05-18 00:00:00",Langley,Canada,-,D,173,77,L
+11122,"David Desharnais","1986-09-14 00:00:00",Laurier,Canada,-,C/LW,170,80,L
+128521,"Cédric Paquette","1993-08-13 00:00:00",Gaspé,Canada,-,C/LW,185,90,L
+128543,"Jessy Morin","1995-05-15 00:00:00",Rivière,Canada,-,RW,178,86,L
+95055,"Yannick Rathgeb","1995-10-24 00:00:00",Langenthal,Switzerland,"SC Langenthal",D,185,88,R
+37492,"Brendan Wright","1990-05-04 00:00:00",Summerside,Canada,-,LW,188,0,R
+269034,"Jordan Kyrou","1998-05-05 00:00:00",Toronto,Canada,"Mississauga Senators MHA",C/RW,183,79,R
+45123,"Gabriel Vermette","1992-01-19 00:00:00",Augustin,Canada,-,D,185,86,L
+15736,"Kirt Hill","1988-01-22 00:00:00",Winnipeg,Canada,-,C,180,77,L
+252451,"Christopher Paquette","1998-03-27 00:00:00",Victoria,Canada,"Greater Kingston MHA",C,188,95,R
+92040,"Taylor Fielding","1994-01-01 00:00:00",Hampton,Canada,-,RW,188,98,R
+69905,"Chris Purves","1987-10-21 00:00:00",Scarborough,Canada,-,D,191,88,L
+23322,"Lindsay Nielsen","1989-04-05 00:00:00",Edmonton,Canada,-,C,181,85,L
+11676,"Jesse Craige","1989-01-11 00:00:00",Edmonton,Canada,-,D,178,79,R
+98183,"Kurtis MacDermid","1994-03-25 00:00:00",Québec,Canada,-,D,195,6,L
+11335,"Kaspars Daugavins","1988-05-18 00:00:00",Riga,Latvia,-,W/C,183,93,L
+37675,"Johnson Andrews","1991-02-15 00:00:00",Niagara,Canada,-,RW,185,93,R
+37440,"Michael Beaudry","1992-04-25 00:00:00",Eustache,Canada,-,C,173,79,L
+88993,"Alexandre Leclerc","1994-02-23 00:00:00",Québec,Canada,-,D,193,2,L
+12126,"Alexandre Imbeault","1986-06-25 00:00:00",Montréal,Canada,-,C,182,77,R
+9496,"Liam Reddox","1986-01-27 00:00:00",Whitby,Canada,-,LW,178,86,L
+239591,"Cole Hunter","1986-09-03 00:00:00",Brandon,Canada,-,LW,191,92,L
+19067,"Mathieu Tousignant","1989-11-21 00:00:00",Étienne,Canada,-,C/LW,183,85,L
+354402,"Cédric Chouinard","1998-10-15 00:00:00",Rosemère,Canada,-,D,173,66,L
+127501,"Dominik Masin","1996-02-01 00:00:00",Mestec,Czech,"SC Kolin",D,188,89,L
+351462,"Curtis Douglas","2000-03-06 00:00:00",Oakville,Canada,-,C,204,13,L
+22865,"Derek Famulare","1989-12-22 00:00:00",Montréal,Canada,-,LW/RW,191,92,L
+59478,"Joel Edmundson","1993-06-28 00:00:00",Brandon,Canada,"Brandon MHA",D,193,98,L
+32760,"Justin Feser","1992-07-29 00:00:00",Deer,Canada,-,C/LW,175,82,L
+86009,"Andreas Athanasiou","1994-08-06 00:00:00",London,Canada,"Toronto Titans MHA",LW/RW,188,85,L
+37712,"John Kavanagh","1991-01-21 00:00:00",Cambridge,Canada,-,C,184,82,R
+11242,"Tyler Melancon","1989-02-11 00:00:00",Stirling,Canada,-,RW,170,81,R
+59731,"Jess Tanguy","1992-04-07 00:00:00",Laval,Canada,-,C,185,70,L
+54223,"Joshua Desmarais","1989-01-15 00:00:00",Montréal,Canada,-,LW,183,13,L
+47261,"Michael Kantor","1992-02-02 00:00:00",York,USA,"Chicago Young Americans",RW,185,89,R
+56669,"Philippe Côté","1987-01-20 00:00:00",Montréal,Canada,-,RW,185,84,R
+45417,"Connor Murphy","1993-03-26 00:00:00",Boston,USA,-,D,193,96,R
+327624,"Daniil Sokolka","1999-01-23 00:00:00",Orsk,Russia,"Yuzhny Ural Orsk",LW,178,73,L
+24283,"Jordan Kochan","1991-05-12 00:00:00",Edmonton,Canada,-,C,178,77,L
+11685,"Brock Nixon","1987-02-04 00:00:00",Russell,Canada,-,LW/C,182,84,L
+11568,"Jordan Smotherman","1986-05-11 00:00:00",Corvallis,USA,"Binghamton Jr. Rangers",LW/RW,191,2,L
+213747,"Éric Léger","1997-04-30 00:00:00",Blainville,Canada,-,LW,178,84,L
+305095,"Bailey Peach","2001-03-08 00:00:00",Falmouth,Canada,-,C/RW,178,79,L
+126395,"Simon Deslauriers","1995-04-01 00:00:00",Trois,Canada,-,D,173,64,L
+155312,"Jeff Moor","1986-06-13 00:00:00",Kettleby,Canada,-,D,191,91,R
+97517,"Devan Praught","1987-09-16 00:00:00",Summerside,Canada,-,RW,187,93,L
+129288,"Olivier Grandmaison","1994-01-15 00:00:00",Trois,Canada,-,LW,180,86,L
+37405,"Maxim Guérin","1990-03-25 00:00:00",Châteauguay,Canada,-,C,174,76,L
+65189,"Frédéric Tanguay","1992-08-05 00:00:00",Justine,Canada,-,LW,178,84,L
+108433,"Evan Polei","1996-02-19 00:00:00",Wetaskiwin,Canada,-,LW,188,4,L
+85028,"Tyson Predinchuk","1995-06-01 00:00:00",Regina,Canada,-,RW/D,193,86,R
+23314,"Neil Manning","1991-05-12 00:00:00",Nanaimo,Canada,-,D,180,84,L
+34842,"Mirko Höfflin","1992-06-18 00:00:00",Freiburg,Germany,"EHC Freiburg",C/W,183,79,L
+256614,"Félix Boivin","1998-03-11 00:00:00",Québec,Canada,-,D,171,81,R
+334797,"Mathieu Boissonneault","2000-04-16 00:00:00",Lyster,Canada,-,C,185,80,L
+11452,"Brodie Dupont","1987-02-17 00:00:00",Lazare,Canada,-,LW/C,188,95,L
+31314,"Nicholas Goyens","1988-07-14 00:00:00",Montréal,Canada,-,D,191,85,L
+84236,"Devon McAndrews","1995-07-21 00:00:00",Edmonton,Canada,-,LW,193,95,L
+10384,"Ricard Blidstrand","1992-04-20 00:00:00",Stockholm,Sweden,AIK,D,189,95,L
+32769,"Gaelan Patterson","1990-08-22 00:00:00",Saskatoon,Canada,-,D,185,95,L
+12525,"Nick Palmieri","1989-07-12 00:00:00",Utica,USA,-,RW,191,0,R
+15182,"Robbie Drummond","1986-02-19 00:00:00",London,Canada,-,C,180,79,R
+15721,"Alex Penner","1986-08-22 00:00:00",Simcoe,Canada,-,D/F,193,3,L
+48328,"Colin Patterson","1985-05-13 00:00:00",Saskatoon,Canada,-,LW,180,81,L
+337737,"Bobby Russell","2000-03-23 00:00:00",Langley,Canada,-,D,183,81,L
+18794,"Hubert Labrie","1991-07-12 00:00:00",Victoriaville,Canada,"AHM Bois-Francs",D,180,86,L
+37672,"Jay Gilbert","1991-08-15 00:00:00",Port,Canada,-,D,191,92,R
+245205,"Kody Gagnon","1997-01-02 00:00:00",Belle,Canada,-,D,190,97,L
+33654,"Nick Trecapelli","1991-09-29 00:00:00",Guelph,Canada,-,D,188,98,R
+273638,"Sean Josling","1999-03-22 00:00:00",Toronto,Canada,-,RW/C,183,81,R
+144909,"Michal Polak","1985-01-11 00:00:00",Praha,Czech,-,C,182,85,L
+32863,"Michael Kirkpatrick","1990-05-09 00:00:00",North,Canada,-,RW/C,180,82,R
+18326,"Rane Carnegie","1985-01-02 00:00:00",Toronto,Canada,-,RW,185,92,R
+223377,"Logan Schmidt","1996-05-05 00:00:00",Kitchener,Canada,-,D,180,79,R
+97515,"Keith Wynn","1987-02-25 00:00:00",Orleans,Canada,-,D,182,84,L
+207915,"Zach Shankar","1997-01-28 00:00:00",Prescott,Canada,-,D,185,91,L
+268926,"Mitchell Byrne","1998-03-04 00:00:00",Brampton,Canada,-,D,183,87,L
+11346,"Bryan Bickell","1986-03-09 00:00:00",Bowmanville,Canada,"Orono Leafs",LW,193,1,L
+62228,"Landon Welykholowa","1996-01-01 00:00:00",Calgary,Canada,-,C,183,86,R
+177208,"Conor Garland","1996-03-11 00:00:00",Scituate,USA,-,RW/LW,178,75,R
+44666,"Ryan Murphy","1993-03-31 00:00:00",Aurora,Canada,"York Simcoe Express",D,180,84,R
+11256,"John Seymour","1987-06-16 00:00:00",Peterborough,Canada,-,LW,190,80,L
+11407,"Denis Tolpeko","1985-01-29 00:00:00",Moskva,Russia,-,LW/RW,183,90,L
+32880,"Nick Huard","1991-03-29 00:00:00",Sudbury,Canada,"West Ferris MHA",C,175,82,L
+78074,"Deric Boudreau","1994-01-16 00:00:00",Gloucester,Canada,-,C,170,61,-
+17500,"Ryan Bourque","1991-01-03 00:00:00",Topsfield,USA,-,C/LW,174,84,L
+356985,"Samuel Bolduc","2000-12-09 00:00:00",Laval,Canada,-,D,193,96,L
+130124,"Billy Hartley","1994-01-20 00:00:00",Kelowna,Canada,-,F,178,76,L
+26585,"Patrick Bernier","1987-06-23 00:00:00",Québec,Canada,-,RW,180,91,R
+258429,"Logan Christensen","1999-01-12 00:00:00",Morden,Canada,-,C/LW,179,82,L
+35702,"Sébastien Savoie","1988-07-18 00:00:00",Laval,Canada,-,C,183,91,R
+12571,"Matt Duchene","1991-01-16 00:00:00",Haliburton,Canada,"Central Ontario Wolves MHA",C,180,88,L
+9339,"Brandon Sutter","1989-02-14 00:00:00",Huntington,Canada,"Chicago Mission",C,190,87,R
+11105,"Tyler Donati","1986-10-17 00:00:00",Toronto,Canada,-,RW/LW,178,88,L
+37606,"Andrew Smith","1991-10-01 00:00:00",Corner,Canada,-,RW,198,0,R
+168679,"Yevgeni Svechnikov","1996-10-31 00:00:00",Yuzhno,Russia,"Motor Barnaul",RW/LW,190,96,L
+45130,"Benjamin Larabie","1991-03-28 00:00:00",Saint,Canada,-,LW,179,80,L
+353835,"Derek Dicaire","1999-08-18 00:00:00",Unknown,Canada,-,F,170,77,L
+56715,"Zach Sim","1988-05-12 00:00:00",Saskatoon,Canada,-,D,180,84,L
+88968,"Frédéric Gamelin","1994-07-11 00:00:00",Polycarpe,Canada,-,C,173,76,L
+48462,"Mitch Moroz","1994-05-03 00:00:00",Edmonton,Canada,-,LW,188,97,L
+37591,"Alexandre Murray","1990-10-15 00:00:00",Alma,Canada,-,LW,179,65,R
+62530,"Kyle Doucet","1985-04-02 00:00:00",Halifax,Canada,-,C,176,82,R
+88662,"William Carrier","1994-12-20 00:00:00",LaSalle,Canada,-,LW/RW,188,96,L
+37175,"Joel Ridgeway","1990-09-04 00:00:00",Grosse,Canada,-,LW,188,79,L
+16591,"Cameron Gaunce","1990-03-19 00:00:00",Sudbury,Canada,-,D,188,93,L
+197560,"Keegan Kolesar","1997-04-08 00:00:00",Brandon,Canada,-,RW,188,3,R
+23105,"Jason McDonough","1989-06-17 00:00:00",Etobicoke,Canada,-,LW,188,0,L
+37449,"Guillaume Tougas","1989-09-26 00:00:00",Hubert,Canada,"Jets de St-Hubert",D,188,98,L
+77778,"Tyler Gale","1989-10-09 00:00:00",Gander,Canada,-,D,188,82,R
+45583,"Steven Janes","1993-02-24 00:00:00",Etobicoke,Canada,-,RW,193,92,L
+9331,"Matt Corrente","1988-03-17 00:00:00",Mississauga,Canada,"Mississauga Senators MHA",D,183,93,R
+37311,"Olivier Hinse","1991-03-02 00:00:00",Sherbrooke,Canada,-,LW/C,188,98,L
+11261,"Frank Grzeszczak","1989-08-31 00:00:00",Plantation,USA,-,D,173,74,L
+58192,"Spencer Anderson","1988-04-09 00:00:00",Hartford,Canada,-,LW,188,93,L
+95039,"Jason Fuchs","1995-09-14 00:00:00",Bern,Switzerland,"HC Lugano",C,175,75,L
+286680,"Ian Blacker","1999-05-27 00:00:00",Oakville,Canada,-,D,191,87,L
+326270,"Ryan Smith","1999-06-04 00:00:00",Stone,Canada,-,C,183,89,L
+129111,"Mathieu Lemay","1994-12-19 00:00:00",Hawkesbury,Canada,-,RW/C,180,79,R
+194119,"Dylan Sadowy","1996-04-02 00:00:00",Brampton,Canada,"Vaughan Kings MHA",LW/RW,185,93,L
+266502,"Matteo Pietroniro","1998-10-20 00:00:00",Boise,Canada,-,D,185,84,L
+62287,"Ben Thomas","1996-05-28 00:00:00",Calgary,Canada,"Simons Valley MHA",D,188,85,R
+96353,"Jamie Klie","1987-03-25 00:00:00",Harrow,Canada,-,D,183,90,R
+9191,"Dustin Boyd","1986-07-16 00:00:00",Winnipeg,Kazakhstan,"Winnipeg Monarchs",C/LW,184,89,L
+360914,"Carter Robertson","2000-01-15 00:00:00",Holland,Canada,-,D,190,82,L
+56403,"Riley Merkley","1987-04-25 00:00:00",Blackie,Canada,-,C,191,84,R
+96352,"Nathan Welton","1986-04-23 00:00:00",Halifax,Canada,-,D,181,84,L
+153669,"Patrick McGrath","1993-03-17 00:00:00",Wilkes,USA,-,RW,178,91,R
+337777,"Max Kryski","2000-05-04 00:00:00",Kelowna,Canada,-,LW,180,84,L
+13418,"Matt Kelly","1985-03-23 00:00:00",Tottenham,Canada,-,D,190,95,L
+128222,"Alexandre Ranger","1995-08-18 00:00:00",LaSalle,Canada,-,RW,180,82,R
+247116,"Cole Candella","1998-02-13 00:00:00",Mississauga,Canada,-,D,188,88,L
+32787,"Kevin Smith","1991-02-16 00:00:00",North,Canada,-,D,185,88,R
+130590,"Lucas Batt","1996-05-04 00:00:00",Lewisporte,Canada,-,LW/RW,183,88,L
+385715,"Bryan Laureigh","2000-06-17 00:00:00",Lacey,USA,-,F,180,96,L
+94469,"Anthony Ast","1995-02-11 00:00:00",Richmond,Canada,-,C/RW,175,84,R
+353863,"Alexis Girard","1999-12-22 00:00:00",Bruno,Canada,-,D,193,86,L
+40293,"Shawn O","1988-05-28 00:00:00",Cole,Canada,-,RW,188,95,R
+210445,"Zack McFadden","1995-09-29 00:00:00",Guelph,Canada,-,D,185,93,R
+37527,"Jeff Bell","1991-01-04 00:00:00",Moncton,Canada,-,D,193,2,L
+116999,"Josh Sterk","1995-01-17 00:00:00",Mississauga,Canada,-,C,180,79,L
+37427,"Kyle Dilosa","1991-08-11 00:00:00",Cheticamp,Canada,-,LW,184,79,L
+102383,"Jason Fram","1995-04-23 00:00:00",Vancouver,Canada,-,D,180,88,R
+37490,"Stuart Lenehan","1990-03-13 00:00:00",Dartmouth,Canada,-,RW,173,75,R
+189364,"Roland McKeown","1996-01-20 00:00:00",Listowel,Canada,"Listowel MHA",D,185,88,R
+57169,"Jayden Hart","1994-12-14 00:00:00",Fort,Canada,"Fort McMurray MHA",C/RW,188,95,R
+99041,"Joseph Blandisi","1994-07-18 00:00:00",Markham,Canada,-,C/LW,183,83,L
+128515,"Christopher Clapperton","1994-02-22 00:00:00",Chandler,Canada,-,LW,175,79,L
+384452,"Nathan Cyr","2000-01-21 00:00:00",Trois,Canada,-,C,191,83,R
+33567,"Taylor Peters","1992-01-24 00:00:00",Delta,Canada,-,C/LW,188,98,L
+8605,"Jiri Tlusty","1988-03-16 00:00:00",Slany,Czech,"HC Kladno",LW/RW,183,93,L
+40307,"Paul Roebothan","1988-01-03 00:00:00",John,Canada,-,RW,181,88,R
+101219,"Ondrej Kopta","1995-04-17 00:00:00",Plzen,Czech,"HC Plzen",LW,190,84,L
+300437,"Nick Deakin","1999-01-28 00:00:00",Georgetown,Canada,-,RW,193,99,L
+4126,"Vyacheslav Trukhno","1987-02-22 00:00:00",Voskresensk,Russia,"Rungsted IK",C/LW,185,92,L
+23324,"Jordan Weal","1992-04-15 00:00:00",Saskatoon,Canada,-,C/W,178,81,R
+118645,"Blake Heinrich","1995-02-17 00:00:00",Cambridge,USA,-,D,180,93,L
+38052,"David Pacan","1991-03-31 00:00:00",Ottawa,Canada,"Ottawa Sting",C,191,94,R
+14501,"Frazer McLaren","1987-10-29 00:00:00",Winnipeg,Canada,-,LW,195,4,L
+45598,"Shayne Rover","1992-01-13 00:00:00",Newmarket,Canada,-,D,191,98,L
+92286,"Guillaume Gélinas","1993-06-14 00:00:00",Québec,Canada,-,D,178,89,L
+361001,"Eric Guest","2000-04-04 00:00:00",Kilworth,Canada,-,C,175,76,L
+31563,"Charlie Sarault","1992-02-20 00:00:00",Fournier,Canada,-,C,178,81,L
+83476,"Bryson Gore","1995-03-13 00:00:00",Lethbridge,Canada,-,C,180,86,R
+23116,"Jordan Mayer","1991-08-24 00:00:00",Kingston,Canada,-,C,178,83,R
+13667,"Michael Neal","1989-04-03 00:00:00",Whitby,Canada,-,LW,188,85,L
+45277,"Guillaume Naud","1992-12-02 00:00:00",Augsburg,Canada,-,D/LW,188,94,R
+317875,"Alex Turko","1999-01-07 00:00:00",London,Canada,-,C,183,83,L
+151766,"Justin Samson","1996-05-01 00:00:00",LaSalle,Canada,-,C,178,82,L
+37302,"Samuel Faille","1989-05-16 00:00:00",Nicéphore,Canada,-,C,183,86,R
+15480,"Kyle Clifford","1991-01-13 00:00:00",Unknown,Canada,"Cambridge MHA",LW,188,96,L
+211402,"Zack Dorval","1998-04-20 00:00:00",Hearst,Canada,"Hearst HLK",C,183,84,L
+101592,"Brandon Potomak","1995-04-25 00:00:00",Aldergrove,Canada,-,LW/D,180,80,R
+97635,"Cory Genovese","1994-10-14 00:00:00",Hespeler,Canada,"Hespeler Shamrocks",D,191,96,L
+44595,"Sacha Guimond","1991-03-28 00:00:00",Ville,Canada,-,D,190,78,L
+283832,"Riley McKay","1999-03-07 00:00:00",Swan,Canada,-,LW,183,92,L
+24287,"Joshua Lazowski","1991-03-14 00:00:00",Leduc,Canada,-,C,176,77,R
+19618,"Tyson Aitcheson","1987-03-01 00:00:00",Stratford,Canada,-,D,188,89,L
+37653,"Andrew Wilson","1991-03-30 00:00:00",Cayuga,Canada,-,D,184,86,L
+63952,"Nicolas Bachand","1986-06-03 00:00:00",Laval,Canada,-,RW,185,82,L
+37404,"Matthew Lachaîne","1988-04-15 00:00:00",Unknown,Canada,-,C,181,82,L
+23122,"Dominic Jalbert","1989-08-02 00:00:00",Hull,Canada,-,D,180,86,L
+103011,"Derek Werenka","1986-03-04 00:00:00",Airdrie,Canada,-,LW,181,82,L
+13583,"Gleason Fournier","1991-09-08 00:00:00",Rimouski,Canada,-,D,183,87,L
+364125,"Brayden Watts","1999-02-21 00:00:00",Bakersfield,USA,-,RW,182,78,R
+37722,"Jamie Haines","1991-06-09 00:00:00",Caron,Canada,"Valley East MHA",C,183,93,L
+213831,"Antoine Marcoux","1996-11-14 00:00:00",Chesterville,Canada,-,C,184,81,L
+384285,"Hugo Savinsky","2000-01-18 00:00:00",Chicoutimi,Canada,-,D,180,86,R
+12175,"Keith Bombaugh","1989-03-09 00:00:00",Falmouth,USA,-,D,186,99,L
+95788,"Shayne Taylor","1989-09-13 00:00:00",Port,Canada,-,D/C,175,79,R
+13839,"Andrew Yogan","1991-12-04 00:00:00",Coconut,USA,-,C/LW,191,93,L
+19612,"Brock Beukeboom","1992-04-01 00:00:00",Greenwich,Canada,"Uxbridge MHA",D,188,0,R
+98476,"Jack Palmer","1995-09-06 00:00:00",Victoria,Canada,-,LW/C,188,89,L
+542042,"Anthony Allepot","2001-04-27 00:00:00",Trois,Canada,-,D,191,86,L
+51279,"Vincent Beaulieu","1988-10-05 00:00:00",Agathe,Canada,-,RW,185,95,R
+92695,"Grant Webermin","1994-02-24 00:00:00",Novi,USA,-,D,185,76,L
+19163,"Shayne Wiebe","1990-01-23 00:00:00",Brandon,Canada,-,C,178,86,L
+199909,"Austin Wellsby","1997-06-30 00:00:00",Kelowna,Canada,-,LW,191,87,R
+207366,"Ben Fanjoy","1997-05-10 00:00:00",Winnipeg,Canada,-,C/RW,188,83,R
+300074,"Cam Hausinger","1999-01-12 00:00:00",Anchorage,USA,-,RW,178,85,R
+76324,"Charles Hudon","1994-06-23 00:00:00",Alma,Canada,"AHM Boisbriand",LW/RW,179,85,L
+286955,"Graeme Clarke","2001-04-24 00:00:00",Ottawa,Canada,"Nepean MHA",RW,183,79,R
+234513,"Francis Thibeault","1998-07-01 00:00:00",Amour,Canada,-,D,188,91,R
+45541,"Saverio Posa","1992-01-05 00:00:00",Grand,USA,-,D,178,80,L
+44938,"Drydn Dow","1992-09-21 00:00:00",Calgary,Canada,-,D,175,77,L
+98018,"Devon Rymarchuk","1994-02-09 00:00:00",Niagara,Canada,-,LW,191,89,L
+56619,"Ian Saab","1992-02-08 00:00:00",Halifax,Canada,-,D,185,88,L
+37256,"Lane Werbowski","1991-08-18 00:00:00",Winnipeg,Canada,-,D,185,84,L
+166658,"Sean Richards","1998-12-15 00:00:00",Albert,Canada,-,LW,180,84,L
+30927,"Scott Tanski","1990-04-19 00:00:00",Athabasca,Canada,-,C/RW/D,185,88,R
+317090,"Matthew Philip","1999-05-31 00:00:00",Ilderton,Canada,-,C/LW,183,84,L
+14662,"Brandon Herrod","1991-09-11 00:00:00",Meadow,Canada,-,RW,183,85,R
+120640,"Chad Butcher","1996-01-25 00:00:00",Kamloops,Canada,-,RW,178,75,R
+45482,"Tim Traber","1993-01-26 00:00:00",Quesnel,Switzerland,-,RW,188,91,R
+120105,"Bryton Sayers","1996-02-11 00:00:00",Prince,Canada,-,D,178,90,R
+38929,"Julius Bergman","1995-11-02 00:00:00",Stockholm,Sweden,"Karlskrona HK",D,186,93,R
+128231,"Pavel Laplante","1995-04-23 00:00:00",Châteauguay,Canada,"AHM Ste-Martine",LW/C,183,83,L
+14365,"Steve Ferry","1988-08-05 00:00:00",Richmond,Canada,-,D,181,79,L
+45116,"Félix Bergeron","1992-02-14 00:00:00",Victoriaville,Canada,-,RW,178,84,R
+264586,"Ryan Foss","1996-01-27 00:00:00",Oakville,Canada,-,LW/C,190,83,L
+12113,"Dale Mitchell","1989-04-09 00:00:00",Mississauga,Canada,"Streetsville MHA",RW,175,93,R
+76345,"Max St","1994-02-11 00:00:00",Trois,Canada,-,C,170,80,L
+33561,"Brent Henke","1990-03-12 00:00:00",Edmonton,Canada,-,W/D,191,88,R
+337771,"Matthew Benson","2000-11-24 00:00:00",Vancouver,Canada,-,D,185,87,R
+37093,"Tommy Samson","1990-03-03 00:00:00",Élie,Canada,-,C,175,74,L
+34805,"Petr Straka","1992-06-15 00:00:00",Plzen,Czech,"HC Plzen",RW/LW,184,84,L
+238488,"Mark Bzowey","1997-03-14 00:00:00",Oakville,Canada,-,C,175,80,L
+56049,"Justin Haché","1994-01-10 00:00:00",Petit,Canada,-,D,188,92,L
+410616,"Maxence Guénette","2001-04-28 00:00:00",Sainte,Canada,"AHM Chaudière-Etchemin",D,185,82,R
+144239,"Jordan Shine","1988-12-14 00:00:00",Wallacetown,Canada,-,LW,188,80,L
+40261,"Alexander Gogolev","1992-05-18 00:00:00",Moskva,Russia,"Krylia Sovetov Moskva",LW,179,75,L
+37723,"Dylan King","1990-07-05 00:00:00",Thessalon,Canada,-,D,186,87,L
+213836,"Samuel Blier","1997-06-13 00:00:00",Plessisville,Canada,-,LW,178,79,L
+19054,"Ian Schultz","1990-02-04 00:00:00",Calgary,Canada,-,RW,188,98,R
+33591,"Sven Bärtschi","1992-10-05 00:00:00",Bern,Switzerland,"SC Langenthal",LW/RW,180,87,L
+216874,"Paul Bittner","1996-11-04 00:00:00",Crookston,USA,-,LW,191,96,L
+33660,"Kyle Tarini","1990-01-16 00:00:00",Sudbury,Canada,-,RW/C,190,84,R
+197876,"Cameron Lizotte","1997-08-24 00:00:00",Falconbridge,Canada,"Nickel Centre MHA",D,188,91,L
+11233,"James DeLory","1988-03-03 00:00:00",Scarborough,Canada,-,D/W,184,96,R
+77760,"Robert Davis","1993-04-01 00:00:00",Truro,Canada,-,LW,185,93,L
+76774,"Daniel Poliziani","1993-05-14 00:00:00",Oakville,Canada,-,D,173,83,R
+171600,"Michael Senseman","1987-10-28 00:00:00",Beaverton,Canada,-,F,185,88,R
+45515,"Harrison Ruopp","1993-03-17 00:00:00",Zehner,Canada,-,D,191,87,R
+76404,"Matt Andreacchi","1992-04-14 00:00:00",Kleinburg,Canada,-,LW,183,84,L
+45176,"Daniel Gayle","1992-03-22 00:00:00",Calgary,Canada,-,LW,183,84,L
+286867,"Gabriel Vilardi","1999-08-16 00:00:00",Kingston,Canada,-,C,191,91,R
+13612,"Sébastien Piché","1988-02-04 00:00:00",Sarre,Canada,-,D,183,91,L
+154475,"Eric Cornel","1996-04-11 00:00:00",Kemptville,Canada,"Kemptville MHA",C/RW,188,90,R
+12119,"Luc Lessard","1988-01-16 00:00:00",Thetford,Canada,-,D,182,81,L
+123938,"Cody Vann","1989-07-04 00:00:00",Winnipeg,Canada,-,D,188,9,L
+67658,"Ian McDonald","1985-03-27 00:00:00",Edmonton,Canada,-,RW,191,93,R
+57086,"Trey Lewis","1993-05-31 00:00:00",Aldoyne,Canada,-,D,180,80,L
+41707,"Phillippe Carey","1987-12-13 00:00:00",Jérôme,Canada,-,D,180,88,R
+37280,"Logan Shaw","1992-10-05 00:00:00",Glace,Canada,-,RW/C,192,94,R
+162905,"Benji Curtis","1996-03-26 00:00:00",Mactaquac,Canada,-,F,180,84,L
+42343,"François Bolduc","1987-05-27 00:00:00",Québec,Canada,-,D,196,2,R
+245113,"Tyler Boston","1997-06-24 00:00:00",Newmarket,Canada,-,C,180,73,L
+95832,"Nicolas Désilets","1985-03-25 00:00:00",Nicolet,Canada,-,D,183,91,R
+45565,"Garrett Meurs","1993-01-12 00:00:00",Ripley,Canada,"Huron-Perth MHA",C/RW,180,82,R
+248364,"Sébastien Taillefer","1997-02-25 00:00:00",Coteaux,Canada,-,D,183,90,L
+18601,"Marcus Foligno","1991-08-10 00:00:00",Buffalo,Canada,"Sudbury MHA",LW,191,5,L
+32785,"Troy Rutkowski","1992-04-29 00:00:00",Edmonton,Canada,"South Side Athletic Club",D,188,98,R
+18098,"Dominik Pacovsky","1990-06-08 00:00:00",Praha,Czech,"HC Sparta Praha",LW/RW,181,92,L
+36732,"Antoine Goyette","1991-08-09 00:00:00",Louis,Canada,-,D,179,76,R
+267717,"Riley MacRae","1998-03-28 00:00:00",Dundas,Canada,-,LW,188,90,L
+33159,"Andrew Gibbons","1986-08-12 00:00:00",Oshawa,Canada,-,RW,189,85,R
+18918,"David Victor","1985-10-17 00:00:00",Unknown,Canada,-,D,190,93,L
+19050,"Julien Demers","1989-11-25 00:00:00",Ottawa,Canada,-,D,188,99,L
+227640,"Mathieu Joseph","1997-02-09 00:00:00",Laval,Canada,"AMH Chambly",RW/LW,185,86,L
+150120,"Mathieu Desautels","1995-04-11 00:00:00",Green,Canada,"Alexandria MHA",D,180,92,R
+279031,"Dawson Holt","1999-02-16 00:00:00",Saskatoon,Canada,-,RW/C,180,88,R
+89102,"Danny Anger","1988-08-04 00:00:00",Woodslee,Canada,-,RW,180,86,R
+254627,"Tyler Higgins","1998-08-02 00:00:00",Beaconsfield,Canada,-,D,195,4,L
+76690,"Scott Laughton","1994-05-30 00:00:00",Oakville,Canada,"Toronto Marlboros",C/LW,185,86,L
+37575,"Yoan Pinette","1992-02-18 00:00:00",Sept,Canada,-,RW,178,81,R
+224829,"Lane Bauer","1996-05-02 00:00:00",Anchorage,USA,-,C,180,87,L
+316109,"Caleb Everett","2000-01-20 00:00:00",Pleasant,USA,-,D,188,84,R
+18806,"Benjamin Rubin","1989-01-25 00:00:00",Montréal,Canada,-,LW,186,85,L
+254764,"Domenico Argento","1998-02-02 00:00:00",Montréal,Canada,-,D,191,95,L
+45411,"Alan Quine","1993-02-25 00:00:00",Belleville,Canada,"Cumberland MHA",C/W,183,92,L
+108648,"Nikita Zadorov","1995-04-16 00:00:00",Moskva,Russia,"CSKA Moskva",D,196,4,L
+232706,"Orca Wiesblatt","2000-06-02 00:00:00",Calgary,Canada,"Kelowna MHA",RW,179,79,R
+12118,"Geoff Walker","1987-12-09 00:00:00",Charlottetown,Canada,-,RW,191,2,R
+37228,"Brett Ferguson","1990-03-06 00:00:00",Vibank,Canada,-,LW/C,184,88,L
+99033,"Nick Halagian","1995-02-03 00:00:00",Catharines,Canada,-,LW,185,88,L
+273987,"Gera Poddubnyi","1999-06-09 00:00:00",Sarov,Russia,"HK Sarov",C/LW,189,84,L
+33871,"Ben Alavie","1990-01-31 00:00:00",Richmond,Canada,-,D,185,88,R
+102053,"Dan Desrochers","1995-08-22 00:00:00",North,Canada,"West Ferris MHA",C,185,84,L
+15262,"Simon Grønvaldt","1991-01-30 00:00:00",Rødovre,Denmark,"Rødovre SIK",D,188,85,R
+30437,"Brendan Rowinski","1990-01-09 00:00:00",Winnipeg,Canada,-,C,180,87,L
+253935,"Will Lochead","1998-03-30 00:00:00",London,Canada,-,D,183,89,L
+21196,"Kenzie Sheppard","1987-04-11 00:00:00",Sydney,Canada,-,LW,181,89,L
+194606,"Lane Cormier","1997-02-11 00:00:00",Hopewell,Canada,-,RW,185,86,R
+11326,"Trevor Kell","1986-06-23 00:00:00",Thunder,Canada,-,RW,182,83,R
+11130,"Danick Bouchard","1986-02-02 00:00:00",Lorraine,Canada,-,RW/LW,176,89,R
+45100,"Alexis Bernier","1992-03-17 00:00:00",Boucherville,Canada,-,D,181,80,L
+285046,"Dawson Barteaux","2000-01-12 00:00:00",Foxwarren,Canada,-,D,185,85,R
+354044,"Constandino Kambeitz","2000-01-25 00:00:00",Parker,USA,-,RW,183,91,R
+37445,"Martin D","1990-11-11 00:00:00",Sullivan,Canada,-,LW,176,76,L
+78073,"David Weckworth","1993-06-02 00:00:00",Ottawa,Canada,-,D/F,180,73,R
+9186,"Steve Downie","1987-04-03 00:00:00",Newmarket,Canada,"York Simcoe Express",RW,180,87,R
+13606,"Josh Kidd","1988-11-16 00:00:00",Sundridge,Canada,-,D,193,0,R
+241523,"Andrew Shennan","1985-02-19 00:00:00",Clair,Canada,-,RW,183,93,R
+151539,"Francis Perron","1996-04-18 00:00:00",Laval,Canada,-,LW,183,82,L
+84077,"Kolton Dixon","1995-03-09 00:00:00",Deer,Canada,-,D,193,86,L
+199906,"Jordan Henderson","1997-03-26 00:00:00",Surrey,Canada,-,D,183,79,L
+251679,"Sam Meisenheimer","1998-01-10 00:00:00",Viking,Canada,-,RW,177,79,L
+47635,"Alex Roach","1993-04-19 00:00:00",Schongau,Canada,-,D,195,2,L
+11535,"Tyler Kennedy","1986-07-15 00:00:00",Sault,Canada,"Soo Major Hockey Assotation",C/RW,180,84,R
+37542,"Steeven Jacques","1991-06-07 00:00:00",Gardeur,Canada,-,C,170,72,L
+120200,"Ty Mappin","1996-01-25 00:00:00",Deer,Canada,-,C,180,79,R
+316114,"Arthur Kaliyev","2001-06-26 00:00:00",Tashkent,USA,-,LW,188,86,L
+20535,"Brent Ottmann","1988-01-17 00:00:00",Martensville,Canada,-,RW,185,80,R
+11704,"Ken Petkau","1987-03-16 00:00:00",Surrey,Canada,-,RW,186,87,R
+65582,"Tayler Thompson","1993-05-10 00:00:00",Bredenbury,Canada,-,C,185,82,R
+128256,"Nikolas Brouillard","1995-02-07 00:00:00",Hyacinthe,Canada,-,D,180,76,L
+23098,"Guillaume Lépine","1987-03-07 00:00:00",Montréal,Canada,-,D,193,95,L
+86137,"Rasmus Andersson","1996-10-27 00:00:00",Malmö,Sweden,"HC Lugano",D,182,97,R
+199941,"Ethan Price","1997-01-17 00:00:00",Lincoln,USA,-,RW,178,85,R
+128911,"Michael Gagnon","1994-04-08 00:00:00",Hébertville,Canada,-,C,175,74,L
+37649,"Kevin Hudes","1989-04-30 00:00:00",Thornhill,Canada,-,RW,191,88,L
+33870,"Derek Gregorack","1989-02-12 00:00:00",Ajax,Canada,-,LW,189,88,L
+159520,"Cody Donaghey","1996-05-10 00:00:00",John,Canada,-,D,185,86,R
+12160,"Benjamin Breault","1988-02-21 00:00:00",Pembroke,Canada,-,C,179,86,L
+31558,"Scott Howe","1992-02-25 00:00:00",Marietta,USA,-,LW,185,74,R
+11723,"Troy Bodie","1985-01-25 00:00:00",Portage,Canada,-,RW/LW,195,3,R
+449203,"Alexandre De","2000-02-15 00:00:00",Blainville,Canada,-,D,180,73,R
+31557,"Peter Stevens","1989-02-10 00:00:00",Suffern,USA,-,D/RW,191,98,L
+245141,"Kyle Rhodes","1997-12-25 00:00:00",Ashburn,USA,-,D,188,94,R
+376443,"Xavier Simoneau","2001-05-19 00:00:00",Saint,Canada,-,C,171,78,L
+200329,"Evan Weinger","1997-04-18 00:00:00",Angeles,USA,-,RW,183,88,R
+102384,"Arvin Atwal","1995-11-26 00:00:00",Surrey,Canada,-,D,183,89,R
+171035,"Zach Wilkie","1997-02-24 00:00:00",Villa,USA,-,D,183,89,L
+98593,"Mickey MacDonald","1989-05-25 00:00:00",Oakville,Canada,-,C,178,82,L
+278079,"Daven Castonguay","1998-05-21 00:00:00",Terrebonne,Canada,-,D,180,73,L
+37548,"Tommy Déry","1991-03-17 00:00:00",Raymond,Canada,-,RW,173,77,R
+157497,"Guillaume Mailloux","1988-05-07 00:00:00",Montréal,Canada,-,LW,188,4,L
+128511,"Élie Bérubé","1995-05-25 00:00:00",Cabano,Canada,-,D,178,82,L
+97662,"Sébastien Sylvestre","1993-10-07 00:00:00",Boucherville,Canada,-,C,185,86,L
+11112,"Jan Mursak","1988-01-20 00:00:00",Maribor,Slovenia,"HK Maribor",C/RW,181,83,R
+10430,"Drew Doughty","1989-12-08 00:00:00",London,Canada,"London MHA",D,185,91,R
+218480,"Dan Gyenes","1987-05-20 00:00:00",Woodstock,Canada,-,D,183,93,R
+37065,"Cameron Critchlow","1991-12-18 00:00:00",Fredericton,Canada,-,LW,175,78,L
+54084,"Levi Bews","1994-04-10 00:00:00",Longview,Canada,-,RW,184,86,R
+84112,"Clayton Kirichenko","1996-02-28 00:00:00",Sherwood,Canada,-,D,185,88,R
+279041,"Carson Sass","1999-05-22 00:00:00",Melville,Canada,-,D,185,85,L
+59563,"Chase Clayton","1994-05-11 00:00:00",Abbotsford,Canada,-,C,180,84,L
+84742,"Tyson Dallman","1993-10-12 00:00:00",Prince,Canada,-,C,183,73,L
+39637,"Scott McKay","1992-06-11 00:00:00",Calgary,Canada,-,D,178,77,L
+204927,"Devon Paliani","1996-10-10 00:00:00",LaSalle,Canada,-,C,178,77,R
+45268,"Anthony Goulet","1992-02-11 00:00:00",Georges,Canada,-,D,183,72,L
+17637,"Tom Kühnhackl","1992-01-21 00:00:00",Landshut,Germany,"EV Landshut",RW/LW,187,89,L
+147987,"Justin Piquette","1987-03-01 00:00:00",Timmins,Canada,-,LW,188,86,L
+216144,"Tyler Hinam","1999-05-27 00:00:00",Cole,Canada,-,RW,185,88,R
+37557,"Ben MacAskill","1989-06-26 00:00:00",Antigonish,Canada,-,D/F,186,83,L
+15741,"Michael Stickland","1989-06-05 00:00:00",Deer,Canada,-,RW,181,82,L
+284930,"Isaiah Gallo","1999-03-09 00:00:00",Brossard,Canada,-,C,178,79,R
+89075,"Renaud Des","1986-02-25 00:00:00",Sorel,Canada,-,LW,188,98,-
+201538,"Anthony Gagnon","1999-02-22 00:00:00",Montréal,Canada,-,RW,180,76,R
+191113,"John Piccinich","1996-06-12 00:00:00",Paramus,USA,-,RW,183,86,R
+84150,Unknown,"1993-02-17 00:00:00",Toronto,Canada,-,C,191,93,L
+384443,"Shawn Element","2000-04-23 00:00:00",Victoriaville,Canada,-,C,183,86,L
+12504,"Logan MacMillan","1989-05-07 00:00:00",Charlottetown,Canada,-,F/D,185,80,L
+383130,"Vladislav Mikhalchuk","1999-10-16 00:00:00",Minsk,Belarus,-,RW,190,85,R
+88706,"Ryan Culkin","1993-12-15 00:00:00",Montréal,Canada,-,D,188,91,L
+73198,"Étienne Morier","1986-10-27 00:00:00",Beford,Canada,-,LW,183,80,L
+266583,"Jacob Hudson","2000-12-02 00:00:00",Antigonish,Canada,-,C,173,82,L
+209217,"Dallas Hines","1998-02-05 00:00:00",Marwayne,Canada,-,D,190,89,L
+120799,"Rodney Southam","1996-08-09 00:00:00",Saskatoon,Canada,-,RW/C,183,84,R
+313522,"Kelton Hatcher","1999-04-19 00:00:00",Haddonfield,USA,-,D,190,86,L
+13573,"Steven Cacciotti","1987-02-23 00:00:00",Rivière,Canada,-,LW,183,90,L
+232612,"Thomas Schemitsch","1996-10-26 00:00:00",Thornhill,Canada,-,D,193,91,R
+201547,"Maxim Trépanier","1999-05-15 00:00:00",Jean,Canada,-,LW,180,79,L

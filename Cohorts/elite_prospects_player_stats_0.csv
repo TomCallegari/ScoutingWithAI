@@ -1,0 +1,1436 @@
+ep_id,season,team,league,games_played,goals,assists,penalty_min,plus_minus
+11101,2006-07,Seattle Thunderbirds,WHL,72,16,11,89,3
+11101,2007-08,Tri-City Americans,WHL,26,8,8,14,0
+40288,2003-04,Cornwall Thunder Midget AAA,NBPEIMHL,0,0,0,0,0
+40288,2004-05,Charlottetown Abbies,MJAHL,1,0,0,0,0
+40288,2005-06,Prince Edward Island Rocket,QMJHL,61,6,4,26,-11
+40288,2006-07,Charlottetown Abbies,MJAHL,30,13,15,46,0
+40288,2006-07,Prince Edward Island Rocket,QMJHL,17,0,3,4,-1
+40288,2007-08,Charlottetown Abbies,MJAHL,41,20,31,52,0
+40288,2008-09,Summerside Western Capitals,MJAHL,29,19,20,64,0
+106101,2009-10,Valley Wildcats,NSMMHL,33,7,17,50,0
+106101,2010-11,Valley Wildcats,NSMMHL,35,8,16,34,0
+106101,2010-11,Amherst Ramblers,MJAHL,9,1,0,0,0
+106101,2011-12,Yarmouth Mariners,MJAHL,18,3,6,6,0
+106101,2011-12,Bridgewater Lumberjacks,MJAHL,27,10,20,18,0
+106101,2011-12,Moncton Wildcats,QMJHL,13,0,2,4,-5
+106101,2012-13,Bridgewater Lumberjacks,MJAHL,44,19,21,19,0
+106101,2013-14,"Bridgewater Lumberjacks 
+“C”",MJAHL,16,7,3,16,0
+106101,2013-14,Yarmouth Mariners,MJAHL,38,6,21,23,0
+106101,2014-15,Yarmouth Mariners,MJAHL,43,26,27,47,0
+106101,2015-16,Queen's Univ.,USports,25,5,4,8,0
+106101,2016-17,Queen's Univ.,USports,15,0,1,4,0
+106101,2017-18,Queen's Univ.,USports,6,1,0,0,0
+155239,2010-11,Honeybaked U16,T1EHL U16,33,2,5,18,0
+155239,2011-12,Des Moines Buccaneers,USHL,3,0,0,2,-1
+155239,2011-12,Compuware U18,HPHL U18,0,0,0,0,0
+155239,2011-12,Plymouth Whalers,OHL,11,0,1,22,-6
+155239,2012-13,Plymouth Whalers,OHL,35,0,5,57,11
+155239,2013-14,Plymouth Whalers,OHL,62,3,11,127,-11
+155239,2014-15,Plymouth Whalers,OHL,58,9,9,157,-14
+155239,2015-16,Alaska Aces,ECHL,22,5,5,36,0
+155239,2016-17,Alaska Aces,ECHL,34,0,7,41,0
+155239,2017-18,Utah Grizzlies,ECHL,58,2,12,82,-9
+155239,2018-19,Cincinnati Cyclones,ECHL,58,6,13,82,24
+268659,2013-14,Barrie Colts Minor Midget AAA,ETAMMHL,30,11,16,38,0
+268659,2014-15,"Barrie Colts Midget AAA 
+“A”",ETAHL,50,16,25,172,0
+268659,2014-15,Stouffville Spirit,OJHL,5,0,1,0,0
+268659,2015-16,Barrie Colts,OHL,28,1,3,13,10
+268659,2016-17,Barrie Colts,OHL,29,5,9,31,-10
+268659,2016-17,Oshawa Generals,OHL,33,7,11,50,10
+268659,2017-18,"Oshawa Generals 
+“A”",OHL,67,16,35,64,13
+268659,2018-19,Oshawa Generals,OHL,35,8,19,44,5
+268659,2018-19,Niagara IceDogs,OHL,30,3,26,30,-4
+23464,2003-04,Amos Forestiers,QMAAA,37,4,10,66,0
+23464,2004-05,"Amos Forestiers 
+“A”",QMAAA,41,5,25,92,0
+23464,2005-06,Gatineau Olympiques,QMJHL,56,1,13,72,8
+23464,2006-07,Gatineau Olympiques,QMJHL,33,0,9,76,10
+23464,2006-07,Prince Edward Island Rocket,QMJHL,33,4,11,55,13
+23464,2007-08,"Prince Edward Island Rocket 
+“A”",QMJHL,40,0,11,80,-1
+23464,2007-08,Rimouski Océanic,QMJHL,24,3,6,28,5
+23464,2008-09,Rouyn-Noranda Huskies,QMJHL,62,17,45,104,-25
+23464,2009-10,Dalhousie Univ.,USports,27,2,10,46,-13
+23464,2010-11,Dalhousie Univ.,USports,25,2,13,62,2
+23464,2011-12,Dalhousie Univ.,USports,24,3,6,57,-6
+23464,2012-13,Dalhousie Univ.,USports,11,1,3,25,-6
+23464,2013-14,Dalhousie Univ.,USports,0,0,0,0,0
+33935,2011-12,Tri-City Americans,WHL,64,11,16,33,0
+33935,2012-13,Tri-City Americans,WHL,66,21,45,36,9
+33935,2016-17,Hartford Wolf Pack,AHL,44,2,4,20,-12
+33935,2017-18,Greenville Swamp Rabbits,ECHL,2,1,1,0,2
+213821,2011-12,Trois-Lacs Eagles Bantam AA,LSLBAA,28,4,2,10,0
+213821,2011-12,École De L'Odyssée M17 Maj,LHPS M17 Majeur,26,4,3,0,0
+213821,2012-13,Saint-Eustache Vikings,QMAAA,38,9,17,58,0
+213821,2013-14,Baie-Comeau Drakkar,QMJHL,54,6,19,47,15
+213821,2014-15,Baie-Comeau Drakkar,QMJHL,44,10,24,99,-3
+213821,2015-16,"Baie-Comeau Drakkar 
+“A”",QMJHL,25,8,8,54,-12
+213821,2015-16,Gatineau Olympiques,QMJHL,28,5,12,38,10
+213821,2016-17,Gatineau Olympiques,QMJHL,26,7,14,38,0
+213821,2016-17,Charlottetown Islanders,QMJHL,35,9,17,35,33
+213821,2017-18,San Antonio Rampage,AHL,58,5,12,59,-16
+213821,2017-18,Colorado Eagles,ECHL,5,1,0,0,-2
+213821,2018-19,Colorado Eagles,AHL,55,6,15,53,-3
+213821,2019-20,Colorado Eagles,AHL,0,0,0,0,0
+45573,2008-09,Newmarket Hurricanes,OJHL,48,16,19,72,0
+45573,2009-10,Newmarket Hurricanes,CCHL,11,3,4,37,0
+45573,2009-10,Peterborough Petes,OHL,43,3,3,89,-4
+45573,2010-11,Peterborough Petes,OHL,2,0,0,12,-2
+45573,2010-11,Newmarket Hurricanes,OJHL,12,7,4,22,0
+45573,2010-11,Mississauga St. Michael's Majors,OHL,38,4,8,90,4
+45573,2011-12,Mississauga St. Michael's Majors,OHL,59,31,17,70,4
+45573,2012-13,Ryerson Univ.,USports,12,8,6,84,0
+45573,2013-14,Ryerson Univ.,USports,26,21,24,45,0
+45573,2014-15,Rockford IceHogs,AHL,22,3,0,11,-3
+45573,2014-15,Indy Fuel,ECHL,30,3,9,30,-10
+45573,2015-16,Brampton Beast,ECHL,3,0,1,6,3
+120107,2010-11,Prince Albert Mintos,SMHL,4,0,0,2,0
+120107,2011-12,Prince Albert Mintos,SMHL,31,16,23,22,0
+120107,2012-13,Moose Jaw Warriors,WHL,41,1,3,6,-9
+120107,2013-14,Moose Jaw Warriors,WHL,65,3,9,22,-6
+120107,2014-15,Lethbridge Hurricanes,WHL,19,2,1,7,-7
+120107,2014-15,Swift Current Broncos,WHL,13,0,0,2,-2
+120107,2015-16,Melfort Mustangs,SJHL,51,10,16,63,0
+120107,2016-17,Melfort Mustangs,SJHL,46,17,23,80,0
+120107,2018-19,Hague Royals,FCHL,14,8,25,4,0
+193114,2010-11,Pembroke High,USHS-MA,0,0,0,0,0
+193114,2011-12,Cape Breton Tradesmen,NSMMHL,35,5,12,24,0
+193114,2012-13,Cape Breton Tradesmen,NSMMHL,35,4,21,30,0
+193114,2013-14,Summerside Western Capitals,MJAHL,47,9,24,46,0
+193114,2013-14,Halifax Mooseheads,QMJHL,3,1,0,0,1
+193114,2014-15,Halifax Mooseheads,QMJHL,40,4,27,17,4
+193114,2015-16,Halifax Mooseheads,QMJHL,32,10,16,25,-10
+193114,2015-16,Shawinigan Cataractes,QMJHL,28,5,14,21,25
+193114,2016-17,"Shawinigan Cataractes 
+“C”",QMJHL,47,15,25,20,23
+193114,2017-18,San Jose Barracuda,AHL,46,4,9,32,-13
+193114,2018-19,San Jose Barracuda,AHL,66,7,13,42,4
+193114,2019-20,Charlotte Checkers,AHL,0,0,0,0,0
+13595,2003-04,Brandon Wheat Kings Midget AAA,MMHL,4,0,0,0,0
+13595,2004-05,Brandon Wheat Kings Midget AAA,MMHL,40,17,19,34,0
+13595,2004-05,Winkler Flyers,MJHL,4,1,1,2,0
+13595,2005-06,Calgary Hitmen,WHL,59,3,2,42,3
+13595,2006-07,Calgary Hitmen,WHL,72,7,15,76,-1
+13595,2007-08,Calgary Hitmen,WHL,72,16,26,87,14
+13595,2008-09,Calgary Hitmen,WHL,68,31,41,93,41
+13595,2009-10,Houston Aeros,AHL,56,4,4,70,-9
+13595,2010-11,Minnesota Wild,NHL,4,1,1,0,1
+13595,2010-11,Houston Aeros,AHL,78,12,10,80,-4
+13595,2011-12,Minnesota Wild,NHL,11,1,2,11,1
+13595,2011-12,Houston Aeros,AHL,51,4,8,43,-1
+13595,2012-13,"Houston Aeros 
+“A”",AHL,64,9,9,31,4
+13595,2013-14,Minnesota Wild,NHL,1,0,0,0,0
+13595,2013-14,"Iowa Wild 
+“A”",AHL,68,12,16,36,0
+13595,2014-15,Toronto Marlies,AHL,13,0,1,8,-4
+13595,2014-15,Orlando Solar Bears,ECHL,22,5,9,12,3
+13595,2014-15,Bridgeport Sound Tigers,AHL,21,4,2,4,1
+13595,2015-16,"Idaho Steelheads 
+“C”",ECHL,70,19,15,40,-13
+240108,2012-13,Waterloo Wolves Minor Midget AAA,AHMMPL,2,0,0,0,0
+240108,2013-14,Waterloo Wolves Minor Midget AAA,AHMMPL,28,8,20,95,0
+240108,2013-14,Waterloo Wolves Minor Midget AAA,Midget,69,15,38,158,35
+240108,2013-14,Waterloo Siskins,GOJHL,0,0,0,0,0
+240108,2014-15,Windsor Spitfires,OHL,59,0,4,60,-25
+240108,2015-16,Windsor Spitfires,OHL,64,5,12,103,7
+240108,2016-17,Windsor Spitfires,OHL,35,4,13,62,2
+240108,2017-18,"Kitchener Rangers 
+“A”",OHL,61,15,27,111,6
+240108,2018-19,Manitoba Moose,AHL,73,6,16,70,-9
+240108,2019-20,Manitoba Moose,AHL,0,0,0,0,0
+10431,2002-03,Sicamous Eagles,Midget,65,44,82,42,0
+10431,2002-03,Vancouver Giants,WHL,3,0,0,0,0
+10431,2003-04,Beaver Valley NiteHawks,KIJHL,48,10,22,70,0
+10431,2003-04,Trail Smoke Eaters,BCHL,2,0,1,0,0
+10431,2003-04,Vancouver Giants,WHL,2,0,0,0,0
+10431,2004-05,Vancouver Giants,WHL,64,2,11,44,-10
+10431,2005-06,"Vancouver Giants 
+“A”",WHL,71,15,40,61,18
+10431,2006-07,"Vancouver Giants 
+“A”",WHL,59,17,34,88,7
+10431,2007-08,Milwaukee Admirals,AHL,76,11,25,40,-11
+10431,2008-09,Milwaukee Admirals,AHL,76,11,41,47,-1
+10431,2009-10,Nashville Predators,NHL,61,6,15,16,15
+10431,2009-10,Milwaukee Admirals,AHL,6,2,5,4,0
+10431,2010-11,Nashville Predators,NHL,80,8,21,30,10
+10431,2011-12,Toronto Maple Leafs,NHL,57,5,16,22,-1
+10431,2011-12,Toronto Maple Leafs,NHL,45,4,25,8,4
+10431,2013-14,Toronto Maple Leafs,NHL,79,5,28,30,-20
+10431,2014-15,Toronto Maple Leafs,NHL,55,6,26,26,-7
+10431,2014-15,Nashville Predators,NHL,23,1,3,2,0
+10431,2015-16,Buffalo Sabres,NHL,59,4,13,26,-5
+10431,2016-17,Buffalo Sabres,NHL,68,3,16,34,-5
+10431,2017-18,Chicago Blackhawks,NHL,23,1,6,8,-1
+10431,2017-18,"Rockford IceHogs 
+“A”",AHL,37,9,19,10,9
+283690,2013-14,Saint John Sea Dogs Bantam AAA,NBBAAAHL,26,2,10,14,0
+283690,2014-15,Saint John Vito's Midget AAA,NBPEIMMHL,31,2,4,6,0
+283690,2015-16,Saint John Vito's Midget AAA,NBPEIMMHL,32,2,7,28,0
+283690,2016-17,Saint John Vito's Midget AAA,NBPEIMMHL,33,7,19,12,0
+283690,2016-17,Campbellton Tigers,MJAHL,4,0,0,12,0
+283690,2017-18,Saint John Sea Dogs,QMJHL,55,0,4,18,-24
+283690,2018-19,Southern Sting,NBJHL,16,6,9,44,0
+119462,2009-10,Balgonie Prairie Storm Bantam AA,SBAAHL,24,26,18,8,0
+119462,2010-11,Notre Dame Hounds Bantam AAA,SSMHL,22,25,34,16,0
+119462,2010-11,Notre Dame Hounds Midget AAA,SMHL,4,1,0,0,0
+119462,2011-12,Notre Dame Argos Midget AA SS,SSMHL,35,21,27,30,0
+119462,2011-12,Notre Dame Hounds Midget AAA,SMHL,10,1,2,4,0
+119462,2012-13,Moose Jaw Generals,SMHL,44,26,27,36,0
+119462,2012-13,Moose Jaw Warriors,WHL,4,1,0,4,1
+119462,2013-14,Moose Jaw Warriors,WHL,65,6,12,18,-13
+119462,2014-15,Moose Jaw Warriors,WHL,34,1,4,4,-3
+119462,2015-16,Lethbridge Hurricanes,WHL,39,3,9,4,5
+119462,2015-16,Notre Dame Hounds,SJHL,25,12,16,49,0
+119462,2016-17,Notre Dame Hounds,SJHL,57,37,42,46,0
+119462,2017-18,Univ. of Regina,USports,28,4,5,10,0
+119462,2018-19,Univ. of Regina,USports,28,4,7,16,0
+78324,2007-08,Ottawa Valley Titans Mn Mdgt AAA,OEMMHL,27,3,11,18,0
+78324,2008-09,Smiths Falls Bears,CJHL,59,13,13,6,0
+78324,2009-10,Smiths Falls Bears,CJHL,62,25,31,12,0
+78324,2010-11,"Smiths Falls Bears 
+“A”",CHL T1,61,40,41,14,0
+78324,2011-12,Québec Remparts,QMJHL,57,18,23,8,15
+78324,2012-13,"Sherbrooke Phoenix 
+“A”",QMJHL,64,22,37,16,-22
+78324,2013-14,Carleton Univ.,USports,28,14,22,4,0
+78324,2014-15,Carleton Univ.,USports,22,8,18,24,0
+78324,2015-16,"Carleton Univ. 
+“A”",USports,28,16,23,6,0
+78324,2016-17,Carleton Univ.,USports,24,12,21,4,0
+78324,2016-17,Syracuse Crunch,AHL,12,0,1,2,0
+37973,2005-06,Team Illinois Bantam Minor AAA,T1EMBHL,28,5,9,18,0
+37973,2006-07,Team Illinois Bantam Major AAA,T1EBHL,30,3,7,29,0
+37973,2007-08,Chicago Young Americans U18,T1EHL U18,25,1,5,16,0
+37973,2008-09,Tri-City Storm,USHL,50,0,3,43,-24
+37973,2009-10,Kitchener Rangers,OHL,48,0,2,15,2
+37973,2010-11,Kitchener Rangers,OHL,1,0,0,0,0
+37973,2010-11,Sudbury Wolves,OHL,66,2,12,67,-3
+37973,2011-12,"Sudbury Wolves 
+“A”",OHL,66,2,24,107,17
+37973,2012-13,"Sudbury Wolves 
+“A”",OHL,67,7,20,97,-23
+37973,2013-14,Greenville Road Warriors,ECHL,14,0,2,22,-5
+37973,2013-14,Idaho Steelheads,ECHL,44,4,15,75,-5
+37973,2014-15,Idaho Steelheads,ECHL,33,3,9,81,-1
+37973,2014-15,Syracuse Crunch,AHL,36,1,4,72,7
+37973,2015-16,Syracuse Crunch,AHL,10,0,0,17,-2
+37973,2015-16,Greenville Swamp Rabbits,ECHL,30,2,5,72,-9
+37973,2016-17,Idaho Steelheads,ECHL,60,4,11,97,-7
+37973,2017-18,Idaho Steelheads,ECHL,46,4,15,85,14
+37973,2017-18,Idaho Steelheads,ECHL,29,6,10,24,5
+284005,2012-13,Chicago Mission Bantam Minor AAA,HPMBHL,18,19,14,14,0
+284005,2013-14,Chicago Mission Bantam Major AAA,HPBHL,17,17,9,67,0
+284005,2014-15,Chicago Mission U16,HPHL U16,23,9,8,42,0
+284005,2015-16,Saginaw Spirit,OHL,54,4,7,8,-6
+284005,2016-17,Saginaw Spirit,OHL,66,10,21,36,2
+284005,2017-18,Saginaw Spirit,OHL,68,27,23,30,-17
+284005,2018-19,Saginaw Spirit,OHL,52,31,32,18,11
+284005,2019-20,Saginaw Spirit,OHL,0,0,0,0,0
+158032,2009-10,Gloucester Rangers Min Midget AA,OEMMHL AA,26,7,10,44,0
+158032,2010-11,Gloucester Rangers Midget AA,OEMHL AA,28,14,7,40,0
+158032,2011-12,Winchester Hawks,EOJHL,38,14,9,78,0
+158032,2011-12,Nepean Raiders,CCHL,3,0,0,2,0
+158032,2012-13,Gatineau Olympiques,QMJHL,8,0,0,4,0
+158032,2012-13,Winchester Hawks,EOJHL,13,4,5,96,0
+158032,2012-13,Nepean Raiders,CCHL,14,2,1,33,0
+158032,2013-14,Mississauga Steelheads,OHL,47,1,4,123,-9
+158032,2014-15,Nepean Raiders,CCHL,48,8,16,85,0
+158032,2015-16,Carleton Univ.,USports,2,0,0,4,0
+213461,2010-11,West Island Royals Bantam AA,LSLBAA,27,12,13,14,0
+213461,2011-12,West Island Royals Bantam AA,LSLBAA,23,18,16,22,0
+213461,2011-12,Lac St-Louis Tigres Espoir,QMEAA,3,2,2,0,0
+213461,2012-13,Lac St-Louis Lions,QMAAA,34,15,10,6,0
+213461,2013-14,Lac St-Louis Lions,QMAAA,40,40,28,20,0
+213461,2013-14,Halifax Mooseheads,QMJHL,3,0,1,0,-3
+213461,2014-15,Halifax Mooseheads,QMJHL,63,9,21,28,-1
+213461,2015-16,"Halifax Mooseheads 
+“A”",QMJHL,68,31,46,22,-23
+213461,2016-17,"Halifax Mooseheads 
+“A”",QMJHL,68,32,55,20,-1
+213461,2017-18,"Halifax Mooseheads 
+“C”",QMJHL,61,32,43,48,23
+213461,2018-19,Cleveland Monsters,AHL,20,1,4,2,-2
+213461,2018-19,Jacksonville IceMen,ECHL,24,12,13,4,3
+213461,2019-20,Cleveland Monsters,AHL,0,0,0,0,0
+300060,2013-14,Rocky Mountain Roughriders 16U,Midget,18,5,4,4,0
+300060,2014-15,Rocky Mountain Roughriders 16U,Midget,18,3,8,14,0
+300060,2015-16,Everett Silvertips,WHL,60,4,6,11,4
+300060,2016-17,Everett Silvertips,WHL,62,4,13,16,2
+24653,2006-07,Niagara Falls Thunder Mn Mdgt,SCTAMM,69,64,75,76,0
+24653,2007-08,Guelph Storm,OHL,56,7,14,43,2
+24653,2008-09,Guelph Storm,OHL,67,22,36,36,3
+24653,2009-10,Guelph Storm,OHL,61,39,54,54,19
+24653,2010-11,"Guelph Storm 
+“A”",OHL,62,42,53,60,3
+24653,2010-11,Milwaukee Admirals,AHL,4,0,1,0,-2
+24653,2011-12,Milwaukee Admirals,AHL,74,16,24,32,-2
+24653,2012-13,Nashville Predators,NHL,16,3,4,2,0
+24653,2012-13,Milwaukee Admirals,AHL,50,11,30,28,8
+24653,2013-14,Nashville Predators,NHL,7,0,0,6,-2
+24653,2013-14,Milwaukee Admirals,AHL,65,17,32,38,-8
+24653,2014-15,Nashville Predators,NHL,62,8,8,18,-4
+24653,2015-16,New York Islanders,NHL,2,0,0,2,0
+24653,2015-16,Bridgeport Sound Tigers,AHL,46,16,17,30,11
+24653,2015-16,San Antonio Rampage,AHL,4,1,0,2,-6
+24653,2016-17,Edmonton Oilers,NHL,3,0,0,4,-1
+24653,2016-17,"Bakersfield Condors 
+“A”",AHL,40,13,37,18,12
+24653,2016-17,New York Rangers,NHL,2,0,0,0,-2
+24653,2016-17,Hartford Wolf Pack,AHL,16,6,10,6,-5
+9337,2002-03,North Shore WC Bantam A1-T1,Bantam,53,90,70,0,0
+9337,2003-04,North Delta Flyers,PIJHL,40,17,28,46,0
+9337,2003-04,Surrey Eagles,BCHL,2,0,0,0,0
+9337,2003-04,Kootenay Ice,WHL,3,0,1,2,2
+9337,2004-05,Kootenay Ice,WHL,68,8,10,37,6
+9337,2005-06,Kootenay Ice,WHL,69,28,32,52,17
+9337,2006-07,Kootenay Ice,WHL,39,19,34,42,20
+9337,2007-08,Kootenay Ice,WHL,31,9,18,26,1
+9337,2008-09,Montréal Canadiens,NHL,7,0,0,2,-1
+9337,2008-09,Hamilton Bulldogs,AHL,73,22,36,58,6
+9337,2009-10,Montréal Canadiens,NHL,13,0,0,6,-2
+9337,2009-10,Hamilton Bulldogs,AHL,57,16,28,22,11
+9337,2010-11,"Hamilton Bulldogs 
+“A”",AHL,47,11,29,32,-2
+9337,2010-11,Atlanta Thrashers,NHL,12,1,1,9,-7
+9337,2010-11,Chicago Wolves,AHL,2,0,1,0,0
+9337,2011-12,Winnipeg Jets,NHL,9,1,4,0,3
+9337,2011-12,St. John's IceCaps,AHL,43,8,17,35,-7
+9337,2011-12,Anaheim Ducks,NHL,6,0,1,2,1
+9337,2012-13,St. John's IceCaps,AHL,74,11,29,52,-17
+129112,2010-11,Saint-Eustache Vikings,QMAAA,41,9,8,62,0
+129112,2011-12,Saint-Eustache Vikings,QMAAA,38,15,28,52,0
+129112,2011-12,Québec Remparts,QMJHL,1,0,0,0,-1
+129112,2012-13,André-Laurendeau Boomerang,QCHL,32,10,13,44,18
+129112,2013-14,Collège Lionel-Groulx Nordiques,QCHL,35,35,39,46,35
+129112,2014-15,Drummondville Voltigeurs,QMJHL,30,9,7,31,-4
+129112,2014-15,Blainville-Boisbriand Armada,QMJHL,31,7,12,18,-1
+129112,2015-16,"Terrebonne Cobras 
+“A”",QJAAAHL,54,46,78,110,32
+129112,2018-19,Cap-de-la-Madeleine CloutierClim,LHSAAAQ,13,16,9,32,0
+38026,2006-07,PAC Timberwolves Bantam AAA,AMBHL,32,6,10,66,0
+38026,2008-09,St. Albert Raiders Midget AAA,AMHL,31,9,25,91,0
+38026,2009-10,Shawinigan Cataractes,QMJHL,45,7,15,29,-2
+38026,2010-11,Shawinigan Cataractes,QMJHL,7,0,4,4,7
+38026,2010-11,Spruce Grove Saints,AJHL,35,8,4,56,0
+38026,2011-12,Spruce Grove Regals,CapJHL,25,10,8,243,0
+38026,2012-13,Spruce Grove Regals,CapJHL,10,3,17,78,0
+38026,2012-13,Whitecourt Wolverines,AJHL,25,2,11,111,0
+38026,2015-16,Big Valley Oil Kings,NCHL,3,1,4,20,0
+38026,2016-17,Morinville Kings,NCHL,6,0,5,34,0
+38026,2017-18,Morinville Kings,NCHL,3,0,3,2,0
+197267,2011-12,St. John's Maple Leafs Mdgt AAA,NLMMHL,26,20,40,24,0
+197267,2012-13,The Hill Academy U16 Prep,Midget,64,48,0,0,81
+197267,2013-14,Truro Bearcats,MJAHL,52,21,27,38,0
+197267,2014-15,Moncton Wildcats,QMJHL,59,12,13,56,2
+197267,2015-16,Moncton Wildcats,QMJHL,1,0,0,0,0
+197267,2015-16,Victoriaville Tigres,QMJHL,61,8,11,34,-12
+197267,2016-17,Truro Bearcats,MJAHL,50,47,41,38,0
+197267,2017-18,Ryerson Univ.,USports,23,1,3,10,0
+197267,2018-19,CB Blues,NSHL-Sr.,10,11,8,21,0
+197267,2018-19,Southern Shore Breakers,NSHL-Sr.,5,2,3,6,0
+11749,2001-02,Niagara Falls Canucks Bantam AAA,SCTAB,30,10,14,26,0
+11749,2002-03,Chatham Jr. Maroons,WOHL,41,6,7,19,0
+11749,2003-04,Chatham Jr. Maroons,WOHL,0,0,0,0,0
+11749,2004-05,Mississauga IceDogs,OHL,66,11,14,45,17
+11749,2005-06,Mississauga IceDogs,OHL,66,26,28,47,-15
+11749,2006-07,Mississauga IceDogs,OHL,60,32,42,51,17
+11749,2006-07,Hartford Wolf Pack,AHL,2,0,0,0,-1
+11749,2007-08,Hartford Wolf Pack,AHL,41,7,7,44,5
+11749,2007-08,Charlotte Checkers,ECHL,20,3,10,28,-3
+11749,2008-09,Hartford Wolf Pack,AHL,67,12,25,66,17
+11749,2009-10,Hartford Wolf Pack,AHL,50,6,13,53,8
+11749,2009-10,Grand Rapids Griffins,AHL,17,1,4,22,7
+11749,2010-11,Grand Rapids Griffins,AHL,60,6,14,101,-12
+11749,2011-12,Connecticut Whale,AHL,74,5,11,61,-4
+11749,2013-14,South Carolina Stingrays,ECHL,18,7,11,10,7
+11749,2013-14,Hamilton Bulldogs,AHL,26,1,5,30,-4
+39749,2003-04,Gatineau L'Intrépide,QMAAA,1,0,0,0,0
+39749,2004-05,Gatineau L'Intrépide,QMAAA,39,14,14,62,0
+39749,2005-06,Valleyfield Braves,QJAAAHL,46,2,5,77,0
+39749,2005-06,Gatineau Olympiques,QMJHL,12,2,0,2,3
+39749,2006-07,Terrebonne Cobras,QJAAAHL,35,2,5,66,0
+39749,2007-08,Vaudreuil-Dorion Mustangs,QJAAAHL,52,24,31,155,-48
+39749,2008-09,Vaudreuil-Dorion Mustangs,QJAAAHL,46,28,46,141,0
+39749,2011-12,1000 Islands Privateers,FHL,1,1,0,0,-1
+39749,2012-13,Louiseville Bellemare,LHSAM,21,10,17,43,0
+189016,2009-10,Sudbury Wolves Minor Bantam AAA,NDMHLB,0,0,0,0,0
+189016,2010-11,Nickel City Sons Bantam AAA,NOBHL,40,19,18,32,0
+189016,2011-12,Copper Cliff Redmen Minor Midget,NDMHL,26,24,26,62,0
+189016,2012-13,Sault Ste. Marie Greyhounds,OHL,58,5,0,32,0
+189016,2013-14,Sault Ste. Marie Greyhounds,OHL,51,3,8,32,9
+189016,2014-15,Sault Ste. Marie Greyhounds,OHL,4,0,1,7,2
+189016,2014-15,Ottawa 67's,OHL,57,10,7,38,4
+189016,2015-16,Ottawa 67's,OHL,66,10,14,28,-4
+189016,2016-17,Ottawa 67's,OHL,2,0,0,2,-2
+189016,2016-17,Caledonia Corvairs,GOJHL,40,19,49,90,0
+106154,2007-08,Sherwood Falcons Bantam AAA,PEIBAAA,24,11,10,50,0
+106154,2008-09,Sherwood Falcons Bantam AAA,PEIBAAA,28,12,13,68,0
+106154,2010-11,Charlottetown Islanders Mdgt AAA,NBPEIMMHL,34,20,37,109,0
+106154,2010-11,Summerside Western Capitals,MJAHL,2,2,1,4,0
+106154,2011-12,Summerside Western Capitals,MJAHL,23,12,17,55,0
+106154,2011-12,Moncton Wildcats,QMJHL,38,2,5,55,-18
+106154,2012-13,Moncton Wildcats,QMJHL,53,12,15,96,5
+106154,2013-14,"Victoriaville Tigres 
+“A”",QMJHL,60,10,15,139,0
+106154,2014-15,"Charlottetown Islanders 
+“A”",QMJHL,44,18,14,124,8
+106154,2014-15,Bridgeport Sound Tigers,AHL,2,0,0,0,0
+106154,2015-16,New York Islanders,NHL,1,0,0,4,0
+106154,2015-16,Bridgeport Sound Tigers,AHL,39,1,3,79,-2
+106154,2015-16,Missouri Mavericks,ECHL,13,4,7,23,5
+106154,2016-17,Bridgeport Sound Tigers,AHL,62,8,7,135,-9
+106154,2017-18,New York Islanders,NHL,24,3,3,62,0
+106154,2017-18,Bridgeport Sound Tigers,AHL,38,3,8,113,-5
+106154,2018-19,New York Islanders,NHL,17,1,3,23,3
+106154,2019-20,New York Islanders,NHL,0,0,0,0,0
+122880,2004-05,Baie-Comeau Drakkar,QMJHL,54,3,11,50,-12
+122880,2005-06,Baie-Comeau Drakkar,QMJHL,35,2,9,62,-8
+15398,2003-04,St. Albert Sabres Bantam AAA,AMBHL,38,9,12,84,0
+15398,2004-05,St. Albert Crusaders Midget AA,NAMHL,32,4,10,77,0
+15398,2004-05,St. Albert Raiders Midget AAA,AMHL,8,0,0,2,0
+15398,2005-06,St. Albert Raiders Midget AAA,AMHL,35,3,15,64,0
+15398,2005-06,Moose Jaw Warriors,WHL,2,0,0,2,0
+15398,2006-07,Moose Jaw Warriors,WHL,54,0,8,75,1
+15398,2007-08,Moose Jaw Warriors,WHL,58,4,16,68,11
+15398,2008-09,Moose Jaw Warriors,WHL,69,5,29,111,-40
+15398,2009-10,Moose Jaw Warriors,WHL,59,10,30,81,-4
+15398,2009-10,Rockford IceHogs,AHL,2,0,1,0,2
+15398,2010-11,Rockford IceHogs,AHL,73,3,14,76,9
+15398,2011-12,Rockford IceHogs,AHL,76,3,14,130,-4
+15398,2012-13,Chicago Blackhawks,NHL,1,0,0,2,1
+15398,2012-13,"Rockford IceHogs 
+“A”",AHL,73,3,22,126,16
+15398,2013-14,Vancouver Canucks,NHL,64,1,15,32,5
+15398,2014-15,Vancouver Canucks,NHL,54,3,8,35,9
+15398,2015-16,Washington Capitals,NHL,1,0,0,2,-1
+15398,2015-16,Hershey Bears,AHL,60,4,12,69,14
+15398,2016-17,San Antonio Rampage,AHL,15,1,3,29,7
+15398,2016-17,Cleveland Monsters,AHL,33,1,7,40,12
+15398,2017-18,Bakersfield Condors,AHL,46,2,6,44,1
+15398,2018-19,Bakersfield Condors,AHL,65,5,15,76,20
+40266,2008-09,Colorado Thunderbirds U18,Midget,72,48,0,0,0
+40266,2009-10,Portland Winterhawks,WHL,40,1,3,4,-7
+40266,2010-11,Portland Winterhawks,WHL,59,3,7,38,0
+40266,2011-12,Portland Winterhawks,WHL,33,1,6,22,-9
+40266,2011-12,Seattle Thunderbirds,WHL,34,10,7,14,-25
+40266,2012-13,Seattle Thunderbirds,WHL,72,18,28,39,-6
+40266,2013-14,Seattle Thunderbirds,WHL,43,8,12,26,-5
+40266,2013-14,Lethbridge Hurricanes,WHL,25,0,2,11,-26
+40266,2014-15,Univ. of Guelph,USports,11,5,5,6,0
+40266,2015-16,Univ. of Guelph,USports,14,5,5,4,0
+40266,2016-17,Univ. of Guelph,USports,28,12,20,12,0
+40266,2017-18,Univ. of Guelph,USports,28,8,9,4,0
+40266,2018-19,Univ. of Guelph,USports,20,2,9,2,0
+418542,2014-15,Toronto Jr. Canadiens Bantam AAA,GTBHL,30,21,18,16,0
+418542,2015-16,Toronto Jr. Canadi. Mn Mdgt AAA,GTMMHL,33,12,28,28,0
+418542,2016-17,Kingston Frontenacs,OHL,65,4,7,18,-12
+418542,2017-18,Kingston Frontenacs,OHL,35,6,7,13,-1
+418542,2017-18,London Knights,OHL,28,4,7,10,1
+418542,2018-19,London Knights,OHL,19,1,7,4,4
+418542,2018-19,Owen Sound Attack,OHL,28,9,8,4,-9
+88677,2005-06,Victory Honda Bantam Minor AAA,T1EMBHL,28,0,3,22,0
+88677,2006-07,Compuware Bantam Major AAA,T1EBHL,31,1,4,26,0
+88677,2009-10,St. Mary's High,USHS-MI,31,0,0,0,0
+88677,2010-11,Moncton Wildcats,QMJHL,68,14,24,76,-26
+88677,2011-12,Moncton Wildcats,QMJHL,33,0,5,31,-13
+88677,2011-12,Victoriaville Tigres,QMJHL,29,2,4,42,-3
+88677,2012-13,Florida Everblades,ECHL,43,0,8,12,1
+88677,2013-14,Syracuse Crunch,AHL,1,0,0,0,-3
+88677,2013-14,Florida Everblades,ECHL,3,0,0,6,0
+88677,2013-14,Brampton Beast,CHL,50,2,8,108,-6
+88677,2014-15,Wichita Thunder,ECHL,70,1,16,178,-6
+88677,2015-16,"Wichita Thunder 
+“A”",ECHL,68,0,10,132,-22
+88677,2016-17,Fort Wayne Komets,ECHL,61,1,8,73,8
+88677,2017-18,Wheeling Nailers,ECHL,68,5,11,142,2
+88677,2018-19,Reading Royals,ECHL,17,1,3,55,4
+88677,2018-19,Greenville Swamp Rabbits,ECHL,37,0,4,55,-2
+80447,2008-09,MLAC Bantam AAA,AMBHL,33,12,13,22,0
+80447,2008-09,MLAC Minor Midget AAA,AMMHL,1,0,0,2,0
+80447,2009-10,MLAC Minor Midget AAA,AMMHL,34,50,42,48,0
+80447,2009-10,MLAC Maple Leafs Midget AAA,AMHL,8,0,0,0,0
+80447,2010-11,MLAC Maple Leafs Midget AAA,AMHL,34,23,18,62,0
+80447,2010-11,Medicine Hat Tigers,WHL,4,0,0,0,-2
+80447,2011-12,Medicine Hat Tigers,WHL,46,1,2,13,-4
+80447,2012-13,Seattle Thunderbirds,WHL,71,13,27,30,-36
+80447,2013-14,Seattle Thunderbirds,WHL,12,3,5,14,3
+80447,2013-14,Lethbridge Hurricanes,WHL,49,16,25,58,-29
+80447,2014-15,Lethbridge Hurricanes,WHL,27,3,20,37,-19
+80447,2014-15,Red Deer Rebels,WHL,44,21,27,24,13
+80447,2015-16,Northern AB Inst. of Tech.,ACAC,30,16,26,26,0
+80447,2016-17,Lacombe Generals,Chinook HL,21,6,24,26,0
+80447,2017-18,Univ. of Calgary,USports,11,5,8,29,0
+80447,2018-19,Univ. of Calgary,USports,28,19,15,40,0
+164249,2011-12,Pursuit of Excellence 16U,NAPHL 16U,0,0,0,0,0
+164249,2011-12,Pursuit of Excellence 16U,NAPHL 16U,9,5,4,17,0
+164249,2012-13,Nelson Leafs,KIJHL,32,22,10,56,0
+164249,2012-13,Trail Smoke Eaters,BCHL,3,0,0,0,0
+164249,2012-13,Moose Jaw Warriors,WHL,39,2,4,38,-11
+164249,2013-14,Moose Jaw Warriors,WHL,63,6,5,57,-4
+164249,2014-15,Prince Albert Raiders,WHL,8,0,0,13,-5
+164249,2014-15,Vernon Vipers,BCHL,35,10,15,62,0
+164249,2015-16,Vernon Vipers,BCHL,56,21,12,97,0
+164249,2016-17,SAIT (Southern AB Inst. of Tech),ACAC,25,9,4,42,0
+164249,2017-18,SAIT (Southern AB Inst. of Tech),ACAC,19,7,12,44,0
+164249,2018-19,SAIT (Southern AB Inst. of Tech),ACAC,28,16,18,48,0
+26352,2007-08,Nipawin Hawks,SJHL,19,0,1,4,0
+26352,2008-09,Nipawin Hawks,SJHL,11,5,2,4,0
+26352,2008-09,Spokane Chiefs,WHL,47,3,2,17,-4
+26352,2009-10,Spokane Chiefs,WHL,71,12,20,45,1
+26352,2010-11,Spokane Chiefs,WHL,55,10,18,44,5
+26352,2011-12,Calgary Hitmen,WHL,11,3,0,9,2
+26352,2011-12,Moose Jaw Warriors,WHL,58,32,17,42,5
+26352,2012-13,Chicago Wolves,AHL,6,0,0,2,1
+26352,2012-13,Missouri Mavericks,CHL,53,30,21,10,7
+26352,2013-14,Utah Grizzlies,ECHL,6,0,0,2,-3
+26352,2013-14,Fort Wayne Komets,ECHL,55,6,14,21,-7
+26352,2014-15,Wichita Thunder,ECHL,58,17,26,58,-4
+26352,2014-15,Manchester Monarchs,AHL,4,0,0,0,-1
+26352,2015-16,Wichita Thunder,ECHL,65,16,18,32,-22
+26352,2015-16,Ontario Reign,AHL,1,0,0,0,0
+26352,2016-17,Wheeling Nailers,ECHL,8,1,1,6,0
+26352,2016-17,"Elmira Jackals 
+“A”",ECHL,63,30,15,50,-32
+26352,2017-18,Rapid City Rush,ECHL,57,21,20,43,-14
+26352,2017-18,Adirondack Thunder,ECHL,11,3,3,2,-3
+26352,2018-19,Redvers Rockets,BSHL,16,29,18,23,0
+418351,2015-16,London Jr. Knights Bantam AAA,AHBPL,0,0,0,0,0
+418351,2016-17,London Jr. Knights Min Mdgt AAA,AHMMPL,33,18,33,14,0
+418351,2017-18,Saginaw Spirit,OHL,63,3,8,17,-14
+418351,2018-19,Saginaw Spirit,OHL,36,6,13,14,-1
+418351,2018-19,Mississauga Steelheads,OHL,30,6,13,27,-10
+12556,2002-03,Cumberland Barons Maj. Bantam AA,OEBHL AA,0,0,0,0,0
+12556,2003-04,Notre Dame Hounds Bntm AA,SBAAHL,20,4,14,20,0
+12556,2004-05,Cumberland Grads,CJHL,36,0,2,30,0
+12556,2005-06,Cumberland Grads,CJHL,47,5,10,59,0
+12556,2006-07,Shawinigan Cataractes,QMJHL,60,11,27,66,-11
+12556,2007-08,Shawinigan Cataractes,QMJHL,52,5,29,41,-13
+12556,2008-09,"Shawinigan Cataractes 
+“C”",QMJHL,62,12,38,48,41
+12556,2009-10,"Val-d'Or Foreurs 
+“A”",QMJHL,67,11,30,69,-6
+12556,2010-11,Univ. of Moncton,USports,25,5,4,34,-9
+12556,2011-12,Univ. of Moncton,USports,26,4,10,46,5
+12556,2012-13,Univ. of Moncton,USports,28,1,12,46,-2
+12556,2013-14,Univ. of Moncton,USports,28,5,9,24,-4
+12556,2015-16,Thetford Mines Assurancia,LNAH,7,2,2,4,5
+67665,1999-00,Fort Saskatchewan Rang. Bntm AAA,AMBHL,35,31,28,40,0
+67665,2000-01,Fort Saskatchewan Rang. Bntm AAA,AMBHL,38,27,44,101,0
+67665,2000-01,Kootenay Ice,WHL,2,0,0,0,1
+67665,2001-02,Kootenay Ice,WHL,59,10,12,50,4
+67665,2002-03,Kootenay Ice,WHL,71,9,15,52,-4
+67665,2003-04,Kootenay Ice,WHL,72,21,39,83,-14
+67665,2004-05,Kootenay Ice,WHL,71,24,47,112,14
+67665,2005-06,Kootenay Ice,WHL,69,22,35,90,10
+67665,2006-07,Univ. of Alberta,USports,34,12,11,43,0
+67665,2007-08,Univ. of Alberta,USports,19,3,3,4,0
+67665,2008-09,Univ. of Alberta,USports,28,4,6,10,5
+67665,2009-10,Univ. of Alberta,USports,28,9,9,20,9
+67665,2009-10,Elmira Jackals,ECHL,28,4,8,16,-2
+67665,2011-12,Missouri Mavericks,CHL,66,18,36,69,-5
+67665,2012-13,Evansville Icemen,ECHL,24,5,4,26,-14
+67665,2012-13,Orlando Solar Bears,ECHL,37,6,11,14,-6
+67665,2013-14,Fort Saskatchewan Chiefs,Chinook HL,10,3,3,14,0
+67665,2014-15,Fort Saskatchewan Chiefs,Chinook HL,3,1,0,2,0
+286608,2013-14,Humboldt Broncos Peewee AA,C4PL,21,84,38,40,0
+286608,2013-14,Humboldt Broncos Peewee AA,Peewee,56,175,99,76,0
+286608,2013-14,Humboldt Broncos Bantam AA,SBAAHL,6,2,5,0,0
+286608,2014-15,Humboldt Broncos Bantam AA,SBAAHL,31,35,27,56,0
+286608,2014-15,Humboldt Broncos Bantam AA,Bantam,45,46,41,70,0
+286608,2014-15,Prince Albert Mintos,SMHL,1,1,0,0,0
+286608,2015-16,Humboldt Broncos Bantam AA,SBAAHL,30,60,65,46,0
+286608,2015-16,Prince Albert Mintos,SMHL,1,0,0,0,0
+286608,2016-17,Prince Albert Mintos,SMHL,44,37,39,46,0
+286608,2016-17,Swift Current Broncos,WHL,4,0,0,0,-2
+286608,2017-18,Swift Current Broncos,WHL,38,1,6,17,-11
+286608,2017-18,Lethbridge Hurricanes,WHL,33,6,7,8,13
+286608,2018-19,Lethbridge Hurricanes,WHL,68,15,24,20,3
+286608,2019-20,Lethbridge Hurricanes,WHL,0,0,0,0,0
+15228,2019-20,Montréal Juniors,QMJHL,20,2,11,8,1
+15228,2009-10,Montréal Juniors,QMJHL,9,1,3,0,3
+15228,2009-10,Shawinigan Cataractes,QMJHL,20,2,2,10,-5
+15228,2009-10,Drummondville Voltigeurs,QMJHL,14,2,1,4,-2
+60726,2007-08,Saskatoon Outlaws Bantam AA,SBAAHL,60,66,70,82,63
+60726,2008-09,Saskatoon Generals Bantam AA,SBAAHL,0,0,0,0,0
+60726,2008-09,Saskatoon Blazers,SMHL,9,2,1,2,0
+60726,2009-10,Saskatoon Contacts,SMHL,42,17,37,34,0
+60726,2010-11,Regina Pats,WHL,60,7,12,6,6
+60726,2011-12,Regina Pats,WHL,55,22,20,24,-1
+60726,2012-13,Regina Pats,WHL,46,14,31,37,-1
+60726,2013-14,Regina Pats,WHL,69,30,59,65,27
+60726,2013-14,Hershey Bears,AHL,2,1,0,0,2
+60726,2014-15,Hershey Bears,AHL,54,7,7,10,2
+60726,2015-16,Washington Capitals,NHL,9,0,0,2,-3
+60726,2015-16,Hershey Bears,AHL,46,7,21,26,-3
+60726,2016-17,Washington Capitals,NHL,4,0,0,0,0
+60726,2016-17,Hershey Bears,AHL,72,10,28,42,9
+60726,2017-18,Washington Capitals,NHL,67,6,12,8,13
+60726,2017-18,Hershey Bears,AHL,6,5,1,2,-6
+60726,2018-19,Washington Capitals,NHL,64,5,6,0,-13
+201245,2011-12,Brandon Wheat Kings Bantam AA,WBAAA,29,24,7,48,0
+201245,2012-13,Brandon Wheat Kings Midget AAA,MMHL,42,8,30,30,0
+201245,2013-14,Brandon Wheat Kings Midget AAA,MMHL,40,28,35,42,0
+201245,2013-14,Brandon Wheat Kings,WHL,1,1,0,0,0
+201245,2014-15,Brandon Wheat Kings,WHL,53,1,17,15,6
+201245,2015-16,Brandon Wheat Kings,WHL,53,13,18,37,15
+201245,2016-17,"Brandon Wheat Kings 
+“A”",WHL,49,19,26,75,8
+201245,2017-18,"Brandon Wheat Kings 
+“C”",WHL,35,12,25,43,19
+201245,2017-18,Victoria Royals,WHL,25,13,14,22,6
+201245,2017-18,Manitoba Moose,AHL,0,0,0,0,0
+201245,2018-19,San Antonio Rampage,AHL,46,4,4,24,-12
+201245,2018-19,Tulsa Oilers,ECHL,6,0,1,4,0
+201245,2019-20,San Antonio Rampage,AHL,0,0,0,0,0
+32758,2005-06,Notre Dame Hounds Bantam AAA,SBAAHL,11,9,11,4,0
+32758,2006-07,Notre Dame Hounds Bantam AAA,SBAAHL,22,30,33,12,0
+32758,2007-08,Notre Dame Hounds Midget AAA,SMHL,44,32,30,37,0
+32758,2008-09,Tri-City Americans,WHL,60,8,16,24,4
+32758,2009-10,Tri-City Americans,WHL,72,21,52,26,6
+32758,2010-11,Tri-City Americans,WHL,38,8,16,26,-8
+32758,2010-11,Calgary Hitmen,WHL,25,5,12,10,-5
+32758,2011-12,Calgary Hitmen,WHL,54,14,24,19,8
+32758,2012-13,"Calgary Hitmen 
+“A”",WHL,70,32,48,30,32
+32758,2018-19,Chicago Wolves,AHL,64,26,34,12,22
+67082,2002-03,Belmont Bombers,JDHL,40,3,11,12,0
+67082,2003-04,St. Thomas Stars,WOHL,48,0,9,19,0
+67082,2004-05,St. Thomas Stars,WOHL,48,7,16,27,0
+67082,2004-05,Saginaw Spirit,OHL,4,0,1,0,2
+67082,2005-06,Saginaw Spirit,OHL,55,5,8,38,0
+67082,2006-07,Saginaw Spirit,OHL,47,3,9,40,8
+67082,2007-08,Saginaw Spirit,OHL,50,4,9,29,6
+67082,2008-09,Wilfrid Laurier Univ.,USports,17,0,5,10,0
+67082,2009-10,Wilfrid Laurier Univ.,USports,6,0,0,2,0
+67082,2010-11,Wilfrid Laurier Univ.,USports,28,2,8,12,0
+67082,2011-12,Wilfrid Laurier Univ.,USports,4,0,0,4,0
+286578,2013-14,Estevan Bruins Bantam AA,SBAAHL,31,35,33,12,0
+286578,2014-15,Estevan Bruins Bantam AA,SBAAHL,29,36,31,30,0
+286578,2014-15,Moose Jaw Generals,SMHL,5,0,0,4,0
+286578,2015-16,Moose Jaw Generals,SMHL,42,16,20,16,0
+286578,2015-16,Estevan Bruins,SJHL,1,1,0,0,0
+286578,2015-16,Prince Albert Raiders,WHL,2,0,1,0,1
+286578,2016-17,Prince Albert Raiders,WHL,69,11,15,16,-10
+286578,2017-18,Prince Albert Raiders,WHL,72,21,52,6,-5
+286578,2018-19,Prince Albert Raiders,WHL,67,29,44,12,32
+286578,2019-20,Prince Albert Raiders,WHL,0,0,0,0,0
+56044,2010-11,Spokane Chiefs,WHL,22,4,4,11,-5
+56044,2011-12,Spokane Chiefs,WHL,68,20,22,38,7
+56044,2012-13,Spokane Chiefs,WHL,11,0,4,4,2
+56044,2012-13,Brandon Wheat Kings,WHL,27,4,10,6,-8
+37089,2006-07,Châteauguay Patriotes,QMAAA,43,13,14,28,0
+37089,2007-08,Longueuil Collège-Français,QJAAAHL,51,12,17,79,-2
+37089,2008-09,Baie-Comeau Drakkar,QMJHL,56,6,9,49,-8
+37089,2009-10,Baie-Comeau Drakkar,QMJHL,40,4,3,35,-12
+37089,2009-10,Longueuil Collège-Français,QJAAAHL,12,6,8,4,1
+37089,2010-11,Longueuil Collège-Français,QJAAAHL,42,25,38,95,16
+37089,2011-12,McGill Univ.,USports,20,2,1,32,0
+37089,2012-13,McGill Univ.,USports,26,2,6,29,0
+37089,2013-14,McGill Univ.,USports,24,4,6,22,0
+37089,2014-15,McGill Univ.,USports,22,2,4,14,0
+382867,2015-16,Collège Notre-Dame Albatros,QMAAA,39,3,4,20,-8
+382867,2016-17,Collège Notre-Dame Albatros,QMAAA,37,20,13,42,10
+382867,2016-17,Shawinigan Cataractes,QMJHL,2,0,0,0,0
+382867,2017-18,Shawinigan Cataractes,QMJHL,36,0,5,6,-13
+382867,2018-19,Shawinigan Cataractes,QMJHL,13,0,0,4,-11
+382867,2018-19,Terrebonne Cobras,QJAAAHL,7,6,3,4,1
+382867,2018-19,Acadie-Bathurst Titan,QMJHL,29,1,11,8,-15
+382867,2019-20,Chicoutimi Saguenéens,QMJHL,0,0,0,0,0
+31079,2005-06,Notre Dame Hounds Bantam AAA,SSMHL,27,8,25,18,0
+31079,2006-07,Notre Dame Hounds Midget AAA,SMHL,41,5,13,72,0
+31079,2006-07,Kootenay Ice,WHL,3,0,0,0,-1
+31079,2007-08,Kootenay Ice,WHL,65,2,9,63,12
+31079,2008-09,Kootenay Ice,WHL,67,10,26,140,-4
+31079,2009-10,Kootenay Ice,WHL,64,17,40,121,-5
+31079,2010-11,"Kootenay Ice 
+“C”",WHL,59,21,51,95,25
+31079,2011-12,Buffalo Sabres,NHL,25,1,7,15,-1
+31079,2011-12,Rochester Americans,AHL,45,5,25,31,15
+31079,2012-13,Rochester Americans,AHL,62,5,31,50,-1
+31079,2013-14,Buffalo Sabres,NHL,12,0,0,6,1
+31079,2013-14,Rochester Americans,AHL,38,7,22,45,9
+31079,2013-14,Manchester Monarchs,AHL,14,3,4,18,5
+31079,2014-15,Los Angeles Kings,NHL,71,2,22,52,11
+31079,2015-16,Los Angeles Kings,NHL,81,2,12,92,11
+31079,2016-17,Los Angeles Kings,NHL,49,2,2,54,1
+31079,2017-18,Vegas Golden Knights,NHL,76,5,10,52,26
+31079,2018-19,Vegas Golden Knights,NHL,81,4,12,52,11
+31079,2019-20,Vegas Golden Knights,NHL,0,0,0,0,0
+45108,2008-09,Collège Esther-Blondin Phénix,QMAAA,41,1,6,104,0
+45108,2009-10,Baie-Comeau Drakkar,QMJHL,62,0,5,52,-27
+45108,2010-11,Baie-Comeau Drakkar,QMJHL,48,1,6,70,-20
+45108,2011-12,Baie-Comeau Drakkar,QMJHL,44,0,3,42,-1
+45108,2012-13,Baie-Comeau Drakkar,QMJHL,66,1,18,74,44
+45108,2013-14,Baie-Comeau Drakkar,QMJHL,67,3,10,81,25
+45108,2014-15,McGill Univ.,USports,10,0,1,10,0
+45108,2015-16,McGill Univ.,USports,9,1,2,20,0
+45108,2016-17,McGill Univ.,USports,8,0,0,18,0
+287497,2013-14,Regina Pat Blues Bantam AA,SBAAHL,31,5,9,14,0
+287497,2014-15,Regina Monarchs Bantam AA,SBAAHL,29,16,12,48,0
+287497,2015-16,Regina Pat Canadians,SMHL,44,3,10,28,0
+287497,2016-17,Regina Pat Canadians Midget AAA,SMHL,44,10,25,54,0
+287497,2016-17,Vancouver Giants,WHL,8,1,2,6,-6
+287497,2017-18,Vancouver Giants,WHL,60,5,16,52,-1
+287497,2018-19,Vancouver Giants,WHL,67,5,14,93,29
+287497,2019-20,Vancouver Giants,WHL,0,0,0,0,0
+37832,2007-08,Toronto Nationals Minor Mdgt AAA,GTMMHL,51,1,10,46,0
+37832,2007-08,Crestwood Prep,OFSAA,0,0,0,0,0
+37832,2008-09,Little Caesars U18,T1EHL U18,30,3,7,31,0
+37832,2008-09,Chicago Steel,USHL,29,0,4,47,-6
+37832,2009-10,Chicago Steel,USHL,29,0,10,43,1
+37832,2009-10,Sioux Falls Stampede,USHL,24,2,2,32,2
+37832,2010-11,Northeastern Univ.,NCAA,38,4,9,57,15
+37832,2011-12,Saginaw Spirit,OHL,31,6,5,24,4
+37832,2011-12,Niagara IceDogs,OHL,28,6,15,23,27
+37832,2012-13,Dallas Stars,NHL,16,0,2,14,-5
+37832,2012-13,Texas Stars,AHL,59,6,27,29,19
+37832,2013-14,Dallas Stars,NHL,7,0,0,2,-3
+37832,2013-14,Texas Stars,AHL,69,5,18,31,8
+37832,2014-15,Dallas Stars,NHL,36,1,7,8,0
+37832,2014-15,Texas Stars,AHL,35,4,12,12,26
+37832,2015-16,Dallas Stars,NHL,19,0,2,21,-5
+37832,2015-16,Texas Stars,AHL,8,0,2,2,4
+37832,2016-17,Dallas Stars,NHL,41,5,2,37,-4
+37832,2017-18,Dallas Stars,NHL,21,1,2,18,-6
+37832,2017-18,Pittsburgh Penguins,NHL,47,4,10,69,13
+37832,2018-19,Pittsburgh Penguins,NHL,36,4,7,37,5
+37832,2018-19,Dallas Stars,NHL,21,0,1,8,0
+37832,2019-20,Dallas Stars,NHL,0,0,0,0,0
+195762,2010-11,Harbour Storm Major Bantam,NSMBHL,30,2,8,16,0
+195762,2011-12,Harbour Storm Major Bantam,NSMBHL,35,20,22,46,0
+195762,2012-13,Halifax Titans (Taylar Made),NSMMHL,35,12,12,22,0
+195762,2013-14,Halifax McDonald's,NSMMHL,34,16,22,36,0
+195762,2014-15,Cape Breton Screaming Eagles,QMJHL,40,3,7,59,-13
+195762,2015-16,Cape Breton Screaming Eagles,QMJHL,64,10,5,79,-6
+195762,2016-17,Cape Breton Screaming Eagles,QMJHL,31,3,5,46,-7
+195762,2016-17,Charlottetown Islanders,QMJHL,25,1,3,21,-3
+195762,2017-18,Miramichi Timberwolves,MJAHL,42,24,23,96,0
+195762,2018-19,Dalhousie Univ.,USports,30,4,7,22,0
+95833,2000-01,Lévis Commandeurs,QMAAA,4,1,2,0,0
+95833,2001-02,Lévis Commandeurs,QMAAA,36,26,38,54,0
+95833,2002-03,Drummondville Voltigeurs,QMJHL,57,8,22,80,-42
+95833,2003-04,Drummondville Voltigeurs,QMJHL,58,18,33,57,-7
+95833,2004-05,Drummondville Voltigeurs,QMJHL,47,26,28,41,5
+95833,2005-06,"Drummondville Voltigeurs 
+“C”",QMJHL,56,32,50,109,18
+95833,2006-07,"Drummondville Voltigeurs 
+“C”",QMJHL,67,17,29,111,-25
+95833,2007-08,Univ. of Québec-Trois-Rivières,USports,28,11,19,82,0
+95833,2008-09,Univ. of Québec-Trois-Rivières,USports,28,17,26,72,0
+95833,2009-10,"Univ. of Québec-Trois-Rivières 
+“C”",USports,24,13,21,56,0
+95833,2010-11,"Univ. of Québec-Trois-Rivières 
+“C”",USports,19,5,6,34,0
+95833,2011-12,"Univ. of Québec-Trois-Rivières 
+“C”",USports,25,8,22,62,0
+37597,2007-08,Crabtree Draveurs,QMAAA,3,0,0,4,0
+37597,2008-09,Collège Esther-Blondin Phénix,QMAAA,27,14,26,76,0
+37597,2008-09,Chicoutimi Saguenéens,QMJHL,28,2,2,13,-11
+37597,2009-10,Chicoutimi Saguenéens,QMJHL,21,0,0,15,-4
+37597,2009-10,Joliette Traffic,QJAAAHL,5,0,2,9,1
+37597,2010-11,Chicoutimi Saguenéens,QMJHL,10,1,2,27,0
+37597,2010-11,Rouyn-Noranda Huskies,QMJHL,21,2,3,21,-9
+37597,2011-12,Terrebonne Cobras,QJAAAHL,2,0,0,0,-4
+226615,2011-12,Shattuck St. Mary's Midget AA,Midget,37,1,16,34,0
+226615,2012-13,Shattuck St. Mary's Midget AA,Midget,43,8,22,20,0
+226615,2013-14,Indiana Ice,USHL,35,0,5,20,6
+226615,2014-15,London Knights,OHL,64,7,9,49,4
+226615,2015-16,London Knights,OHL,67,3,9,85,44
+226615,2016-17,London Knights,OHL,27,1,5,32,10
+226615,2016-17,Ottawa 67's,OHL,28,4,6,28,2
+226615,2016-17,Texas Stars,AHL,3,0,0,2,-2
+226615,2017-18,Idaho Steelheads,ECHL,52,0,5,86,4
+226615,2018-19,Brampton Beast,ECHL,45,5,11,66,6
+45120,2008-09,Notre Dame Hounds Midget AAA,SMHL,36,4,11,32,0
+45120,2009-10,Chicoutimi Saguenéens,QMJHL,53,6,8,42,-8
+45120,2010-11,Chicoutimi Saguenéens,QMJHL,66,9,13,70,-23
+45120,2011-12,Chicoutimi Saguenéens,QMJHL,44,4,13,43,3
+45120,2012-13,"Chicoutimi Saguenéens 
+“A”",QMJHL,51,6,14,74,-12
+45120,2013-14,"Drummondville Voltigeurs 
+“A”",QMJHL,9,1,1,16,-2
+45120,2014-15,Ste-Marie Giovannina,LHBBF,7,3,7,6,0
+45120,2015-16,St-Damien Plastique Moore,LHCS,17,10,14,43,0
+45120,2015-16,Ste-Marie Giovannina,LHBBF,1,0,0,0,0
+45120,2016-17,St-Damien Plastique Moore,LHCS,14,10,10,10,0
+45120,2017-18,St-Damien Plastique Moore,LHCS,8,5,4,4,0
+45120,2018-19,St-Damien Plastique Moore,LHCS,2,0,2,4,0
+69305,2004-05,Lévis Commandeurs,QMAAA,2,0,0,0,0
+69305,2005-06,Amos Forestiers,QMAAA,38,11,8,96,0
+69305,2005-06,Val-d'Or Foreurs,QMJHL,4,0,0,7,-1
+69305,2006-07,Vaudreuil-Dorion Mustangs,QJAAAHL,43,4,5,181,0
+69305,2007-08,Québec AssurExperts,QJAAAHL,15,2,6,29,-4
+69305,2007-08,Valleyfield Braves,QJAAAHL,20,6,18,75,3
+69305,2007-08,Québec Remparts,QMJHL,11,1,0,24,-1
+69305,2008-09,Princeville Titans,QJAAAHL,19,4,11,69,-13
+69305,2009-10,Saint-Georges-de-Beauce CRS Express,LNAH,6,0,0,19,-1
+69305,2010-11,Saint-Georges-de-Beauce COOL-FM,LNAH,13,0,0,95,1
+69305,2011-12,Saint-Georges-de-Beauce COOL-FM,LNAH,36,0,1,215,-3
+69305,2012-13,Saint-Georges-de-Beauce COOL-FM,LNAH,26,0,4,273,-3
+69305,2013-14,Saint-Georges-de-Beauce COOL-FM,LNAH,38,6,4,232,-1
+69305,2014-15,Trois-Rivières CNS,LNAH,29,3,5,229,-6
+69305,2015-16,Trois-Rivières Blizzard CNS,LNAH,25,3,4,119,5
+69305,2015-16,Jonquière Marquis,LNAH,12,0,2,74,-3
+69305,2016-17,Jonquière Marquis,LNAH,33,1,4,87,-4
+69305,2017-18,Jonquière Marquis,LNAH,7,4,1,16,-1
+69305,2017-18,Saint-Georges-de-Beauce COOL-FM,LNAH,21,4,11,129,5
+69305,2018-19,Saint-Georges-de-Beauce COOL-FM,LNAH,36,3,12,186,-4
+155382,2012-13,Baie-Comeau Drakkar,QMJHL,67,40,35,60,29
+155382,2013-14,Baie-Comeau Drakkar,QMJHL,53,23,40,70,32
+155382,2014-15,Baie-Comeau Drakkar,QMJHL,16,6,12,22,0
+155382,2014-15,Gatineau Olympiques,QMJHL,26,15,13,38,4
+155382,2015-16,Ontario Reign,AHL,43,7,7,20,7
+155382,2015-16,Charlotte Checkers,AHL,2,0,0,0,-4
+155382,2016-17,Carolina Hurricanes,NHL,2,1,0,0,1
+155382,2016-17,Charlotte Checkers,AHL,66,16,18,57,6
+155382,2017-18,Carolina Hurricanes,NHL,10,3,4,2,4
+155382,2017-18,Charlotte Checkers,AHL,63,33,21,45,-13
+155382,2018-19,Carolina Hurricanes,NHL,13,0,3,0,-1
+155382,2018-19,Charlotte Checkers,AHL,6,2,0,16,-1
+155382,2018-19,Edmonton Oilers,NHL,5,0,0,2,-1
+155382,2018-19,Vegas Golden Knights,NHL,10,2,0,0,-3
+155382,2019-20,Vegas Golden Knights,NHL,0,0,0,0,0
+54190,2001-02,Wellington Dukes,OPJHL,33,7,8,26,0
+54190,2002-03,Vaughan Vipers,OPJHL,4,1,2,12,0
+54190,2002-03,Toronto St. Michael's Majors,OHL,50,4,7,45,-8
+54190,2003-04,Toronto St. Michael's Majors,OHL,61,15,11,71,3
+54190,2004-05,Toronto St. Michael's Majors,OHL,9,1,0,2,-1
+54190,2004-05,Belleville Bulls,OHL,53,6,10,29,-11
+54190,2005-06,Kingston Frontenacs,OHL,58,17,20,46,4
+54190,2008-09,Univ. of Prince Edward Island,USports,28,1,3,20,-5
+54190,2009-10,Univ. of Prince Edward Island,USports,28,1,4,12,-7
+9244,2003-04,Kitchener Rangers,OHL,68,3,12,278,2
+9244,2004-05,Kitchener Rangers,OHL,43,0,4,231,0
+9244,2005-06,Kitchener Rangers,OHL,52,1,9,216,18
+9244,2006-07,Chicago Wolves,AHL,50,2,7,184,12
+9244,2007-08,Atlanta Thrashers,NHL,7,0,0,42,-2
+9244,2007-08,Chicago Wolves,AHL,58,1,7,229,21
+9244,2008-09,Atlanta Thrashers,NHL,50,0,5,132,-14
+9244,2008-09,Chicago Wolves,AHL,11,1,2,21,8
+9244,2009-10,Atlanta Thrashers,NHL,23,0,2,36,2
+9244,2009-10,Chicago Wolves,AHL,6,0,0,10,-4
+9244,2010-11,Chicago Wolves,AHL,49,0,9,165,-5
+9244,2010-11,Providence Bruins,AHL,10,0,2,24,-1
+9244,2011-12,Wilkes-Barre/Scranton Penguins,AHL,3,0,0,7,-4
+9244,2011-12,Portland Pirates,AHL,24,2,4,92,8
+175894,2015-16,Saginaw Spirit,OHL,65,1,26,28,-23
+175894,2016-17,Saginaw Spirit,OHL,59,3,6,40,-5
+84245,2009-10,SSAC Bantam AA 1,EMHA,29,13,18,62,0
+84245,2009-10,SSAC Lions Bantam AAA,AMBHL,1,0,0,2,0
+84245,2010-11,SSAC Lions Bantam AAA,AMBHL,33,6,12,48,0
+84245,2010-11,SSAC Bulldogs Minor Midget AAA,AMMHL,1,1,1,4,0
+84245,2011-12,SSAC Athletics Midget AAA,AMHL,31,3,15,80,0
+84245,2012-13,Bonnyville Pontiacs,AJHL,43,1,6,57,0
+84245,2012-13,Edmonton Oil Kings,WHL,5,0,0,6,2
+84245,2013-14,Edmonton Oil Kings,WHL,63,9,21,88,26
+84245,2014-15,Edmonton Oil Kings,WHL,65,6,7,58,-8
+84245,2015-16,"Edmonton Oil Kings 
+“A”",WHL,72,9,31,88,-3
+84245,2015-16,Milwaukee Admirals,AHL,1,0,0,0,-3
+84245,2016-17,"Edmonton Oil Kings 
+“C”",WHL,39,14,29,55,-3
+84245,2016-17,Everett Silvertips,WHL,32,4,11,33,-4
+84245,2017-18,Kalamazoo Wings,ECHL,60,15,33,87,4
+84245,2017-18,Utica Comets,AHL,1,0,0,0,-1
+354159,2014-15,Saint-Eustache Vikings,QMAAA,42,23,30,10,14
+354159,2015-16,Saint-Eustache Vikings,QMAAA,45,38,38,6,27
+354159,2016-17,Val-d'Or Foreurs,QMJHL,68,19,22,10,-7
+354159,2017-18,"Val-d'Or Foreurs 
+“A”",QMJHL,37,10,20,10,-10
+354159,2017-18,Victoriaville Tigres,QMJHL,31,10,19,13,10
+354159,2018-19,"Victoriaville Tigres 
+“C”",QMJHL,60,29,26,20,-16
+354159,2019-20,Univ. of Québec-Trois-Rivières,USports,0,0,0,0,0
+438091,2015-16,Mississauga Senators Bantam AAA,GTBHL,0,0,0,0,0
+438091,2015-16,Mississauga Senators Mn Mdgt AAA,GTMMHL,0,0,0,0,0
+438091,2016-17,Mississauga Senators Mn Mdgt AAA,GTMMHL,0,15,0,0,0
+438091,2017-18,Sudbury Wolves,OHL,51,6,8,14,-4
+438091,2018-19,Sudbury Wolves,OHL,34,1,8,12,-1
+438091,2018-19,Sarnia Sting,OHL,26,2,4,8,-11
+76158,2009-10,Brampton Battalion Min. Mdgt AAA,SCTAMM,0,0,0,0,0
+76158,2009-10,Dixie Beehives,CCHL,4,0,0,2,0
+76158,2010-11,Barrie Colts,OHL,64,3,9,78,-26
+76158,2011-12,Barrie Colts,OHL,16,1,2,16,4
+76158,2011-12,Windsor Spitfires,OHL,39,3,9,37,2
+76158,2012-13,Windsor Spitfires,OHL,18,0,6,31,-5
+76158,2012-13,Peterborough Petes,OHL,44,4,15,38,3
+76158,2013-14,Peterborough Petes,OHL,66,14,25,85,1
+76158,2014-15,Mississauga Steelheads,OHL,66,20,19,100,-12
+76158,2014-15,Brampton Beast,ECHL,10,2,1,4,-11
+76158,2015-16,Ryerson Univ.,USports,28,6,7,40,0
+76158,2016-17,Ryerson Univ.,USports,22,0,16,20,0
+76504,2008-09,Toronto Nationals Minor Mdgt AAA,GTMMHL,73,12,33,6,0
+76504,2009-10,Orangeville Crushers,CCHL,46,16,13,9,0
+76504,2010-11,Orangeville Flyers,OJHL,10,3,2,6,0
+76504,2010-11,Huntsville Otters,OJHL,20,6,13,9,0
+76504,2011-12,Georgetown Raiders,OJHL,45,21,31,11,0
+76504,2012-13,Barrie Colts,OHL,62,9,17,31,9
+76504,2013-14,"Barrie Colts 
+“A”",OHL,68,26,23,38,-11
+76504,2014-15,Brampton Beast,ECHL,59,9,15,29,-32
+76504,2015-16,Evansville IceMen,ECHL,72,22,20,54,2
+76504,2016-17,"Elmira Jackals 
+“A”",ECHL,37,2,10,40,-30
+76504,2016-17,Rochester Americans,AHL,2,0,0,2,-2
+76504,2016-17,Tulsa Oilers,ECHL,12,3,4,2,-4
+76504,2017-18,Fort Wayne Komets,ECHL,9,4,1,2,3
+76504,2017-18,Jacksonville IceMen,ECHL,54,8,15,59,-18
+76504,2018-19,Jacksonville IceMen,ECHL,29,3,1,14,-6
+76504,2018-19,Reading Royals,ECHL,6,1,0,2,-1
+76504,2018-19,Atlanta Gladiators,ECHL,18,2,2,16,-2
+245610,2012-13,Toronto Marlboros Bantam AAA,GTBHL,0,0,0,0,0
+245610,2013-14,Toronto Marlboros Mn Mdgt AAA,GTMMHL,31,25,27,28,0
+245610,2014-15,Erie Otters,OHL,58,21,6,13,-8
+245610,2015-16,Erie Otters,OHL,67,24,49,18,19
+245610,2016-17,Erie Otters,OHL,58,42,67,37,67
+245610,2017-18,"Erie Otters 
+“A”",OHL,30,15,29,16,10
+245610,2017-18,Sault Ste. Marie Greyhounds,OHL,28,18,21,14,14
+245610,2018-19,Syracuse Crunch,AHL,70,18,28,34,14
+245610,2019-20,Syracuse Crunch,AHL,0,0,0,0,0
+267781,2013-14,"Guelph Jr. Gryphons Min Mdgt AAA 
+“A”",SCTAMM,37,5,13,52,0
+267781,2014-15,Kitchener Dutchmen,GOJHL,38,2,5,110,0
+267781,2014-15,Kitchener Rangers,OHL,6,0,0,11,-3
+267781,2015-16,Kitchener Rangers,OHL,9,0,3,10,-1
+267781,2015-16,Oshawa Generals,OHL,33,0,1,67,-6
+267781,2016-17,Oshawa Generals,OHL,50,1,6,110,5
+267781,2017-18,Oshawa Generals,OHL,52,0,4,99,10
+267781,2018-19,Windsor Spitfires,OHL,55,1,6,84,13
+267630,2013-14,Beauce-Appalaches Bantam AAA,QBAAA,29,23,15,62,0
+267630,2014-15,"Lévis Commandeurs 
+“A”",QMAAA,42,15,29,30,28
+267630,2015-16,Lévis Commandeurs,QMAAA,34,15,30,30,13
+267630,2015-16,Blainville-Boisbriand Armada,QMJHL,14,2,1,2,-5
+267630,2016-17,Blainville-Boisbriand Armada,QMJHL,63,6,15,32,7
+267630,2017-18,Blainville-Boisbriand Armada,QMJHL,40,8,11,20,14
+267630,2018-19,Blainville-Boisbriand Armada,QMJHL,38,3,6,26,-2
+267630,2018-19,Victoriaville Tigres,QMJHL,28,6,15,15,8
+45566,2008-09,Clarington Toros Midget AAA,ETAHL,0,0,0,0,0
+45566,2009-10,Bowmanville Eagles,CCHL,22,17,13,24,9
+45566,2009-10,Plymouth Whalers,OHL,16,2,1,4,0
+45566,2010-11,Plymouth Whalers,OHL,66,19,29,67,4
+45566,2011-12,Plymouth Whalers,OHL,57,29,28,111,6
+45566,2012-13,Lake Erie Monsters,AHL,23,1,3,72,-5
+45566,2012-13,Plymouth Whalers,OHL,32,17,19,34,14
+45566,2013-14,Lake Erie Monsters,AHL,63,4,8,167,1
+45566,2014-15,Lake Erie Monsters,AHL,51,6,6,137,-16
+45566,2014-15,Fort Wayne Komets,ECHL,12,10,6,15,7
+45566,2015-16,Stockton Heat,AHL,22,3,4,71,0
+45566,2015-16,Adirondack Thunder,ECHL,33,12,20,114,17
+45566,2016-17,Charlotte Checkers,AHL,36,0,4,53,-5
+45566,2016-17,Florida Everblades,ECHL,11,6,7,29,3
+45566,2017-18,Charlotte Checkers,AHL,4,0,0,2,0
+45566,2017-18,Florida Everblades,ECHL,63,25,42,153,34
+152763,2013-14,Saint John Sea Dogs,QMJHL,0,0,0,0,0
+152763,2014-15,Saint John Sea Dogs,QMJHL,64,7,8,40,-6
+275863,2013-14,North West Bulls Bantam AAA,NBBAAAHL,28,10,5,6,0
+275863,2015-16,Fredericton Caps Midget AAA,NBPEIMMHL,34,3,17,2,0
+275863,2016-17,Cape Breton Screaming Eagles,QMJHL,51,5,16,10,1
+275863,2017-18,Cape Breton Screaming Eagles,QMJHL,67,7,30,16,-8
+275863,2018-19,Cape Breton Screaming Eagles,QMJHL,63,7,23,16,14
+301392,2013-14,Beauce-Appalaches Midget Espoir,QMEAA,0,0,0,0,0
+301392,2014-15,"Beauce-Appalaches Midget Espoir 
+“C”",QMEAA,0,0,0,0,0
+301392,2014-15,Lévis Commandeurs,QMAAA,18,0,1,28,1
+301392,2015-16,Lévis Commandeurs,QMAAA,43,1,11,130,17
+301392,2015-16,Shawinigan Cataractes,QMJHL,1,0,0,0,0
+301392,2016-17,Saint-Jérôme Panthères,QJAAAHL,23,1,3,30,-2
+301392,2016-17,Shawinigan Cataractes,QMJHL,7,0,0,2,0
+301392,2017-18,Chicoutimi Saguenéens,QMJHL,52,0,6,50,-13
+301392,2018-19,Grande Prairie Storm,AJHL,52,3,20,336,0
+301392,2019-20,York Univ.,USports,0,0,0,0,0
+3693,2007-08,Medicine Hat Tigers,WHL,34,8,3,20,4
+92063,2007-08,Thunder Bay Kings Bantam AAA,Bantam,58,7,18,50,0
+92063,2008-09,Thunder Bay Kings Bantam AAA,Bantam,43,31,18,44,0
+92063,2009-10,Thunder Bay Kings Mn Midget AAA,Midget,62,41,54,68,0
+92063,2009-10,Thunder Bay Kings Midget AAA,NLHL,4,1,1,2,0
+92063,2010-11,Kingston Frontenacs,OHL,51,2,6,32,0
+92063,2011-12,Kingston Frontenacs,OHL,63,8,11,120,-16
+92063,2012-13,Kingston Frontenacs,OHL,10,1,0,16,-6
+92063,2012-13,Sudbury Wolves,OHL,43,2,5,57,-8
+92063,2013-14,Sudbury Wolves,OHL,54,5,4,63,-12
+92063,2014-15,Lakehead Univ.,USports,19,2,7,18,0
+92063,2015-16,Lakehead Univ.,USports,19,1,1,8,0
+31556,2005-06,Aurora Tigers,OPJHL,38,0,6,29,0
+31556,2006-07,Aurora Tigers,OPJHL,47,2,22,72,0
+31556,2007-08,Moncton Wildcats,QMJHL,70,2,24,60,-18
+31556,2008-09,Barrie Colts,OHL,67,2,25,43,5
+31556,2011-12,Univ. of Western Ontario,USports,25,3,14,12,0
+31556,2012-13,Univ. of Western Ontario,USports,26,2,8,12,0
+31556,2013-14,San Francisco Bulls,ECHL,2,0,0,0,-2
+31556,2013-14,Tulsa Oilers,CHL,3,0,0,0,-1
+31556,2013-14,Arizona Sundogs,CHL,6,0,1,4,-3
+129527,2000-01,Medicine Hat Tigers,WHL,1,0,0,0,-2
+129527,2001-02,Medicine Hat Tigers,WHL,3,0,1,0,1
+129527,2002-03,Medicine Hat Tigers,WHL,70,6,13,134,1
+129527,2003-04,Medicine Hat Tigers,WHL,61,1,3,154,10
+129527,2004-05,Medicine Hat Tigers,WHL,21,1,2,54,7
+129527,2004-05,Brandon Wheat Kings,WHL,13,2,5,36,3
+129527,2005-06,Brandon Wheat Kings,WHL,61,6,19,191,9
+129527,2006-07,Cincinnati Cyclones,ECHL,14,0,2,28,-5
+129527,2006-07,Fresno Falcons,ECHL,36,1,2,124,-4
+129527,2009-10,Oak Lake/Brandon Icemen,NCHL-MB,20,18,32,79,0
+129527,2014-15,Carberry Plainsmen,THHL,15,6,22,63,0
+189461,2011-12,Lambton Jr. Sting Minor Midget,AHMMPL,18,18,3,29,0
+189461,2011-12,Sarnia Legionnaires,GOJHL,5,0,2,0,0
+189461,2012-13,Windsor Spitfires,OHL,49,3,5,41,-3
+189461,2013-14,Windsor Spitfires,OHL,15,2,5,6,2
+189461,2013-14,Kingston Frontenacs,OHL,28,10,7,23,-1
+189461,2014-15,Kingston Frontenacs,OHL,47,7,12,28,-3
+189461,2015-16,Kingston Frontenacs,OHL,63,9,13,40,-4
+189461,2016-17,Chicoutimi Saguenéens,QMJHL,27,11,5,10,2
+189461,2016-17,"Drummondville Voltigeurs 
+“C”",QMJHL,26,9,17,15,-2
+189461,2017-18,Dalhousie Univ.,USports,12,3,3,15,0
+45506,2007-08,Calgary Bisons Bantam AAA,AMBHL,33,26,34,12,0
+45506,2009-10,Lethbridge Hurricanes,WHL,56,3,7,26,-16
+45506,2010-11,Lethbridge Hurricanes,WHL,58,6,15,27,-14
+45506,2011-12,Lethbridge Hurricanes,WHL,61,14,31,37,-24
+45506,2012-13,Tri-City Americans,WHL,15,2,5,4,0
+45506,2013-14,Tri-City Americans,WHL,51,15,23,20,5
+45506,2014-15,Univ. of Calgary,USports,28,2,3,4,-2
+45506,2015-16,Univ. of Calgary,USports,1,1,0,0,0
+369524,2014-15,Winnipeg Sharks City Midget,WCML,32,16,21,24,0
+369524,2015-16,Winnipeg Thrashers Midget AAA,MMHL,33,23,25,26,0
+369524,2015-16,Selkirk Steelers,MJHL,1,0,0,0,0
+369524,2016-17,Everett Silvertips,WHL,48,6,2,6,4
+369524,2017-18,Everett Silvertips,WHL,30,2,2,8,0
+369524,2017-18,Flin Flon Bombers,SJHL,19,11,9,20,0
+369524,2018-19,"Flin Flon Bombers 
+“A”",SJHL,55,43,35,24,0
+18047,2006-07,Notre Dame Hounds Midget AAA,SMHL,37,25,16,34,0
+18047,2008-09,Niagara IceDogs,OHL,59,23,18,24,5
+18047,2009-10,Niagara IceDogs,OHL,67,9,10,14,-18
+254268,2012-13,Chatham-Kent Cyclones M Mdgt AAA,AHMMPL,2,1,0,2,0
+254268,2013-14,"Chatham-Kent Cyclones M Mdgt AAA 
+“A”",AHMMPL,32,9,13,60,0
+254268,2013-14,Chatham Maroons,GOJHL,5,0,0,0,0
+254268,2014-15,LaSalle Vipers,GOJHL,37,21,17,43,0
+254268,2015-16,Mississauga Steelheads,OHL,57,3,6,28,-2
+254268,2016-17,Mississauga Steelheads,OHL,45,16,7,30,3
+254268,2017-18,Mississauga Steelheads,OHL,11,2,3,8,-1
+254268,2017-18,Oshawa Generals,OHL,43,8,12,20,7
+254268,2018-19,Penticton Vees,BCHL,37,9,12,46,0
+254268,2019-20,Univ. of Western Ontario,USports,0,0,0,0,0
+32801,2005-06,Medicine Hat Tigers,WHL,26,0,1,14,11
+32801,2006-07,Medicine Hat Tigers,WHL,57,1,7,69,6
+32801,2007-08,Medicine Hat Tigers,WHL,55,3,7,89,7
+32801,2008-09,Everett Silvertips,WHL,11,1,4,19,-1
+23118,2003-04,Oshawa Legionaires,OPJHL,46,9,20,39,0
+23118,2004-05,Oshawa Legionaires,OPJHL,46,13,22,64,0
+23118,2004-05,Guelph Storm,OHL,2,0,0,0,0
+23118,2005-06,Oshawa Legionaires,OPJHL,21,4,8,16,0
+23118,2005-06,Guelph Storm,OHL,2,0,0,0,0
+23118,2006-07,Acadie-Bathurst Titan,QMJHL,67,7,22,62,-9
+23118,2007-08,Acadie-Bathurst Titan,QMJHL,56,16,12,30,11
+23118,2008-09,"Acadie-Bathurst Titan 
+“C”",QMJHL,66,29,41,90,-14
+23118,2009-10,Acadia Univ.,USports,28,12,19,18,11
+23118,2010-11,Acadia Univ.,USports,11,2,4,4,1
+23118,2011-12,Acadia Univ.,USports,28,8,9,24,-10
+23118,2012-13,Acadia Univ.,USports,24,2,3,22,-1
+23118,2013-14,Mount Pearl Blades,NLSHL,10,5,6,0,0
+4131,2003-04,Prince Albert Raiders,WHL,71,16,24,18,9
+4131,2004-05,Prince Albert Raiders,WHL,67,24,28,14,-6
+4131,2005-06,Prince Albert Raiders,WHL,66,20,15,22,-14
+4131,2005-06,Omaha Ak-Sar-Ben Knights,AHL,7,0,0,2,0
+4131,2006-07,Omaha Ak-Sar-Ben Knights,AHL,13,1,3,0,-4
+4131,2006-07,Las Vegas Wranglers,ECHL,59,14,18,16,9
+4131,2007-08,Las Vegas Wranglers,ECHL,70,18,18,14,16
+4131,2008-09,Quad City Flames,AHL,45,4,2,10,1
+4131,2010-11,Idaho Steelheads,ECHL,50,16,16,12,-11
+4131,2011-12,Lloydminster Border Kings,Chinook HL,6,1,3,2,0
+4131,2011-12,Shellbrook Elks,FCHL,12,10,11,0,0
+4131,2012-13,Shellbrook Elks,FCHL,19,14,35,2,0
+19045,2005-06,Mille-Îles Seigneurs Mdgt Espoir,QMEAA,35,2,8,0,0
+19045,2005-06,Laurentides Vikings,QMAAA,5,0,0,4,0
+19045,2006-07,Laurentides Vikings,QMAAA,44,6,7,58,0
+19045,2007-08,Cape Breton Screaming Eagles,QMJHL,69,1,6,27,-1
+19045,2008-09,Cape Breton Screaming Eagles,QMJHL,61,3,12,15,11
+19045,2009-10,Cape Breton Screaming Eagles,QMJHL,65,4,25,31,21
+19045,2009-10,San Antonio Rampage,AHL,2,0,1,0,1
+19045,2010-11,San Antonio Rampage,AHL,4,0,0,2,-1
+19045,2010-11,Las Vegas Wranglers,ECHL,52,0,1,43,2
+19045,2011-12,Portland Pirates,AHL,43,2,4,29,10
+19045,2012-13,Portland Pirates,AHL,65,3,16,47,-6
+19045,2013-14,Portland Pirates,AHL,62,3,9,49,-15
+19045,2014-15,Chicago Wolves,AHL,69,4,11,33,5
+19045,2015-16,Adirondack Thunder,ECHL,70,9,21,42,-7
+19045,2015-16,Albany Devils,AHL,2,0,0,0,0
+19045,2016-17,Adirondack Thunder,ECHL,15,4,15,4,5
+19045,2016-17,Syracuse Crunch,AHL,56,3,10,57,14
+19045,2017-18,Adirondack Thunder,ECHL,48,4,25,17,10
+19045,2017-18,Springfield Thunderbirds,AHL,7,0,1,17,-6
+19045,2017-18,Syracuse Crunch,AHL,4,0,0,4,0
+19045,2017-18,Utica Comets,AHL,4,0,1,2,-2
+472663,2013-14,Collège St-Hilaire M17 Maj,LHPS M17 Majeur,30,6,9,6,0
+472663,2014-15,Collège St-Bernard M17 Maj,LHPS M17 Majeur,30,13,22,22,0
+472663,2015-16,"Collège St-Bernard M17 Maj 
+“C”",LHPS M17 Majeur,25,16,21,6,0
+472663,2016-17,Rimouski Océanic,QMJHL,58,4,6,42,-15
+472663,2017-18,Rimouski Océanic,QMJHL,50,2,5,27,-4
+472663,2018-19,Granby Inouk,QJAAAHL,47,32,69,25,58
+18596,2005-06,Eastview High (MN),USHS-MN,25,1,6,32,0
+18596,2006-07,Eastview High (MN),USHS-MN,20,4,0,0,0
+18596,2006-07,Team Southwest,UMHSEHL,11,4,0,0,0
+18596,2007-08,Eastview High (MN),USHS-MN,24,6,6,76,0
+18596,2007-08,Team Southwest,UMHSEHL,12,2,0,0,0
+18596,2007-08,Indiana Ice,USHL,12,1,2,12,5
+18596,2008-09,Univ. of North Dakota,NCAA,9,0,1,28,-3
+18596,2009-10,Univ. of North Dakota,NCAA,30,0,2,28,4
+18596,2010-11,"Kamloops Blazers 
+“A”",WHL,70,4,10,96,-16
+18596,2010-11,Portland Pirates,AHL,4,0,0,6,-2
+18596,2011-12,Rochester Americans,AHL,20,0,4,20,2
+18596,2011-12,Gwinnett Gladiators,ECHL,32,5,8,28,-4
+18596,2012-13,Rochester Americans,AHL,3,0,0,0,0
+18596,2012-13,Gwinnett Gladiators,ECHL,65,2,13,44,18
+18596,2013-14,Orlando Solar Bears,ECHL,63,2,15,45,-3
+18596,2014-15,Bakersfield Condors,ECHL,25,0,5,14,3
+18596,2014-15,Utah Grizzlies,ECHL,37,2,3,28,11
+18596,2015-16,Utah Grizzlies,ECHL,47,2,11,35,6
+18596,2015-16,Atlanta Gladiators,ECHL,21,0,2,18,-7
+96328,2002-03,Red Deer Rebels,WHL,9,0,3,8,-3
+96328,2003-04,Red Deer Rebels,WHL,41,1,6,19,0
+96328,2003-04,Regina Pats,WHL,26,1,10,25,-3
+96328,2004-05,Regina Pats,WHL,72,10,30,58,-25
+96328,2005-06,Regina Pats,WHL,69,25,31,58,6
+96328,2006-07,"Regina Pats 
+“A”",WHL,71,20,48,78,-3
+96328,2007-08,Univ. of Saskatchewan,USports,28,8,12,22,0
+96328,2008-09,Univ. of Saskatchewan,USports,26,8,12,24,0
+96328,2009-10,Univ. of Saskatchewan,USports,28,4,22,4,0
+96328,2010-11,Univ. of Saskatchewan,USports,28,8,15,36,0
+96328,2011-12,Univ. of Saskatchewan,USports,28,16,17,26,14
+96328,2012-13,Cupar Canucks,HHL,0,0,0,0,0
+96328,2014-15,Bethune Bulldogs,HHL,15,16,21,14,0
+96328,2015-16,Bethune Bulldogs,HHL,17,23,25,12,0
+96328,2016-17,Bethune Bulldogs,HHL,16,24,33,6,0
+96328,2018-19,Lacombe Generals,ACHW,7,4,2,2,0
+299579,2013-14,Okanagan Hockey Academy Btm Prep,OMAHA,42,5,10,10,0
+299579,2014-15,"Okanagan Hockey Academy Bantam Prep 
+“C”",CSSBHL,15,8,8,23,0
+299579,2014-15,Okanagan Hockey Acad. White Prep,CSSHL,4,2,0,0,0
+299579,2015-16,Okanagan Hockey Acad. White Prep,CSSHL,33,15,27,51,0
+299579,2015-16,Vancouver Giants,WHL,6,0,0,0,-2
+299579,2016-17,Vancouver Giants,WHL,53,7,2,44,-12
+299579,2017-18,Vancouver Giants,WHL,64,8,6,31,-19
+15629,2005-06,Moncton Wildcats,QMJHL,40,5,3,20,3
+15629,2006-07,Moncton Wildcats,QMJHL,50,18,11,43,1
+15629,2007-08,"Moncton Wildcats 
+“A”",QMJHL,61,25,32,41,-16
+15629,2008-09,"Moncton Wildcats 
+“C”",QMJHL,68,29,36,55,16
+15629,2009-10,St. Thomas Univ.,USports,28,4,10,20,-14
+15629,2010-11,St. Thomas Univ.,USports,21,5,6,2,-11
+15629,2011-12,St. Thomas Univ.,USports,13,1,6,6,-6
+15629,2012-13,St. Thomas Univ.,USports,1,0,0,0,0
+91684,2008-09,Toronto Marlboros Bantam AAA,GTBHL,0,0,0,0,0
+91684,2009-10,Toronto Marlboros Mn Mdgt AAA,GTMMHL,81,31,41,80,0
+91684,2010-11,Soo Thunderbirds,NOJHL,39,19,25,80,0
+91684,2010-11,Sault Ste. Marie Greyhounds,OHL,10,0,1,0,-2
+91684,2011-12,Rouyn-Noranda Huskies,QMJHL,37,7,6,24,0
+91684,2012-13,Toronto Lakeshore Patriots,OJHL,28,7,12,50,0
+91684,2012-13,Orangeville Flyers,OJHL,16,7,15,36,0
+91684,2012-13,PEAC Piranhas U18,CAHS,13,3,4,55,5
+91684,2013-14,Orangeville Flyers,OJHL,26,15,12,63,0
+91684,2013-14,St. Michael's Buzzers,OJHL,26,10,14,34,0
+91684,2014-15,Kanata Lasers,CCHL,2,1,1,0,0
+91684,2014-15,Cornwall Colts,CCHL,55,23,30,57,0
+91684,2015-16,Queen's Univ.,USports,22,5,4,14,0
+91684,2016-17,Queen's Univ.,USports,19,3,1,14,0
+91684,2017-18,Queen's Univ.,USports,2,0,0,0,0
+91684,2018-19,York Univ.,USports,12,3,1,6,0
+64899,2001-02,Sun County Panthers Bantam AAA,AHBPL,49,37,48,27,0
+64899,2002-03,Tecumseh Chiefs,WOHL,46,13,12,22,0
+64899,2003-04,Windsor Spitfires,OHL,25,0,6,4,5
+64899,2004-05,Windsor Spitfires,OHL,62,3,6,37,-12
+64899,2005-06,Windsor Spitfires,OHL,64,7,12,51,5
+64899,2006-07,Surrey Eagles,BCHL,39,11,26,41,0
+64899,2006-07,Coquitlam Express,BCHL,24,6,9,30,0
+64899,2007-08,Carleton Univ.,USports,28,11,26,32,0
+64899,2008-09,Carleton Univ.,USports,19,3,11,4,0
+64899,2009-10,Carleton Univ.,USports,28,5,11,18,0
+76776,2008-09,"Mississauga Reps Min Midget AAA 
+“C”",GTMMHL,28,12,30,24,0
+76776,2009-10,Mississauga Reps Midget AAA,GTHL,29,13,27,20,0
+76776,2009-10,Streetsville Derbys,CCHL,2,0,0,2,0
+76776,2010-11,Windsor Spitfires,OHL,38,19,14,12,5
+76776,2010-11,Barrie Colts,OHL,27,7,14,18,-11
+76776,2011-12,Barrie Colts,OHL,21,7,6,12,-7
+76776,2011-12,Saginaw Spirit,OHL,31,13,14,22,5
+76776,2012-13,"Saginaw Spirit 
+“A”",OHL,68,44,53,84,37
+76776,2013-14,"Saginaw Spirit 
+“C”",OHL,48,26,34,44,14
+76776,2014-15,St. Francis Xavier Univ.,USports,20,6,9,28,5
+76776,2015-16,"St. Francis Xavier Univ. 
+“A”",USports,28,14,21,60,0
+76776,2016-17,"St. Francis Xavier Univ. 
+“C”",USports,30,13,15,40,0
+76776,2017-18,"Univ. of Ottawa 
+“C”",USports,19,5,17,16,0
+76776,2018-19,"Univ. of Ottawa 
+“C”",USports,25,8,25,50,0
+11264,2001-02,Toronto Marlboros Bantam AAA,GTBHL,0,0,0,0,0
+11264,2002-03,Toronto Nationals Minor Mdgt AAA,GTMMHL,26,5,15,56,14
+11264,2003-04,Brampton Battalion,OHL,66,0,7,64,7
+11264,2004-05,Brampton Battalion,OHL,61,1,6,147,12
+11264,2005-06,Brampton Battalion,OHL,65,3,9,202,4
+11264,2006-07,"Brampton Battalion 
+“A”",OHL,36,2,12,113,-3
+11264,2006-07,Owen Sound Attack,OHL,26,1,7,66,-6
+11264,2006-07,Toronto Marlies,AHL,3,0,1,2,0
+11264,2007-08,Toronto Marlies,AHL,54,1,9,68,15
+11264,2007-08,Columbia Inferno,ECHL,13,0,4,19,12
+11264,2008-09,Toronto Maple Leafs,NHL,10,1,1,21,-2
+11264,2008-09,Toronto Marlies,AHL,65,1,10,103,17
+11264,2009-10,Toronto Marlies,AHL,74,2,7,142,-19
+11264,2010-11,Hershey Bears,AHL,14,0,0,22,-2
+11264,2011-12,Hershey Bears,AHL,6,0,1,9,-1
+11264,2011-12,South Carolina Stingrays,ECHL,56,1,5,110,4
+11264,2012-13,Toledo Walleye,ECHL,68,1,13,121,9
+11264,2013-14,"Toledo Walleye 
+“A”",ECHL,10,0,0,15,-8
+11264,2014-15,Brampton Beast,ECHL,14,0,1,26,-7
+34799,2009-10,Prince Edward Island Rocket,QMJHL,66,13,28,91,-3
+34799,2010-11,"Prince Edward Island Rocket 
+“A”",QMJHL,61,7,32,59,0
+34799,2011-12,Chicago Wolves,AHL,46,1,8,27,8
+34799,2012-13,Chicago Wolves,AHL,24,1,7,27,8
+34799,2012-13,Kalamazoo Wings,ECHL,34,4,4,37,1
+34799,2013-14,Utica Comets,AHL,2,0,0,2,0
+34799,2013-14,Kalamazoo Wings,ECHL,16,1,1,16,4
+11603,2005-06,Yorkton Harvest,SMHL,0,0,0,0,0
+11603,2006-07,Tri-City Americans,WHL,60,9,13,30,17
+11603,2007-08,Tri-City Americans,WHL,72,23,51,60,22
+11603,2008-09,Tri-City Americans,WHL,54,19,26,38,17
+11603,2009-10,Tri-City Americans,WHL,66,20,36,56,3
+11603,2010-11,"Tri-City Americans 
+“C”",WHL,63,20,48,61,9
+11603,2011-12,Univ. of Alberta,USports,28,5,15,12,12
+11603,2012-13,Univ. of Alberta,USports,27,8,14,22,14
+11603,2013-14,"Univ. of Alberta 
+“A”",USports,23,10,14,14,9
+11603,2014-15,"Univ. of Alberta 
+“C”",USports,27,9,13,27,20
+11603,2015-16,"Univ. of Alberta 
+“C”",USports,28,14,16,16,0
+11603,2015-16,Idaho Steelheads,ECHL,7,2,1,2,1
+33558,2004-05,Saskatoon Bandits Bantam AA,SBAAHL,24,10,5,12,0
+33558,2005-06,Saskatoon Maniacs Bantam AA,SBAAHL,0,0,0,0,0
+33558,2006-07,Saskatoon Blazers,SMHL,42,11,10,38,0
+33558,2007-08,Saskatoon Blazers,SMHL,44,32,36,71,0
+33558,2007-08,Kindersley Klippers,SJHL,1,0,0,0,0
+33558,2007-08,Kamloops Blazers,WHL,1,0,0,0,0
+33558,2008-09,Kamloops Blazers,WHL,65,10,7,16,-13
+33558,2009-10,Kamloops Blazers,WHL,68,13,9,16,-12
+33558,2010-11,Kamloops Blazers,WHL,9,0,2,2,2
+33558,2010-11,Saskatoon Blades,WHL,61,30,31,16,20
+33558,2011-12,Saskatoon Blades,WHL,62,23,36,34,9
+33558,2012-13,Tulsa Oilers,CHL,15,1,3,0,-8
+33558,2012-13,Univ. of Saskatchewan,USports,6,0,1,1,0
+33558,2013-14,Louisiana IceGators,SPHL,29,11,14,16,8
+33558,2013-14,Elmira Jackals,ECHL,18,2,4,0,-6
+33558,2014-15,Peoria Rivermen,SPHL,52,22,14,20,-4
+33558,2014-15,Kalamazoo Wings,ECHL,2,0,1,0,1
+33558,2015-16,Peoria Rivermen,SPHL,17,4,3,12,-3
+33558,2015-16,Macon Mayhem,SPHL,38,13,27,4,-1
+33558,2016-17,Macon Mayhem,SPHL,50,21,27,29,11
+33558,2017-18,Macon Mayhem,SPHL,54,27,42,16,18
+33558,2017-18,Wichita Thunder,ECHL,2,0,0,2,1
+33558,2017-18,Atlanta Gladiators,ECHL,1,0,0,0,1
+33558,2018-19,"Macon Mayhem 
+“A”",SPHL,51,27,27,22,18
+45282,2007-08,"Bois-Francs Cascades Bantam AA 
+“C”",ESMBAA,0,0,0,0,0
+45282,2008-09,Trois-Rivières Estacades,QMAAA,44,8,19,32,0
+45282,2009-10,Victoriaville Tigres,QMJHL,61,10,18,54,19
+45282,2010-11,"Victoriaville Tigres 
+“C”",QMJHL,64,23,44,59,17
+45282,2011-12,"Victoriaville Tigres 
+“C”",QMJHL,62,18,53,61,11
+45282,2011-12,Rockford IceHogs,AHL,7,0,2,10,-5
+45282,2012-13,"Victoriaville Tigres 
+“C”",QMJHL,29,14,30,28,-1
+45282,2012-13,Moncton Wildcats,QMJHL,27,9,32,22,17
+45282,2012-13,Rockford IceHogs,AHL,5,0,0,2,-1
+45282,2013-14,Rockford IceHogs,AHL,72,6,20,40,11
+45282,2014-15,Chicago Blackhawks,NHL,2,0,0,0,0
+45282,2014-15,Rockford IceHogs,AHL,70,13,25,38,20
+45282,2015-16,Chicago Blackhawks,NHL,30,1,4,6,-3
+45282,2015-16,Rockford IceHogs,AHL,6,1,1,4,-2
+45282,2015-16,Montréal Canadiens,NHL,21,3,2,8,-2
+45282,2016-17,Montréal Canadiens,NHL,82,13,27,35,5
+45282,2017-18,Montréal Canadiens,NHL,52,8,17,34,0
+45282,2018-19,Montréal Canadiens,NHL,81,12,41,39,17
+45282,2019-20,Montréal Canadiens,NHL,0,0,0,0,0
+265118,2014-15,Sudbury Wolves,OHL,67,6,11,20,-23
+11308,2002-03,Vernon Vipers,BCHL,48,1,4,24,0
+11308,2003-04,Kamloops Blazers,WHL,70,0,8,54,8
+11308,2004-05,Kamloops Blazers,WHL,13,0,0,10,-3
+11308,2004-05,Vancouver Giants,WHL,45,2,2,34,-1
+11308,2005-06,Vancouver Giants,WHL,7,0,1,2,-3
+11308,2005-06,Portland Winter Hawks,WHL,60,6,13,74,-18
+11308,2006-07,"Portland Winter Hawks 
+“A”",WHL,70,5,21,107,-40
+11308,2006-07,Arizona Sundogs,CHL,3,1,0,0,2
+11308,2007-08,Univ. of British Columbia,USports,27,1,9,24,0
+11308,2008-09,Univ. of British Columbia,USports,28,2,7,16,0
+11308,2009-10,Univ. of British Columbia,USports,23,0,3,16,0
+11308,2010-11,Univ. of British Columbia,USports,24,1,3,6,0
+101099,2008-09,SSAC Lions Bantam AAA,AMBHL,33,27,18,18,0
+101099,2009-10,St. Albert Flyers Minor Mdgt AAA,AMMHL,34,35,23,16,0
+101099,2010-11,St. Albert Raiders Midget AAA,AMHL,34,22,20,14,0
+101099,2010-11,Spruce Grove Saints,AJHL,2,0,0,0,0
+101099,2011-12,Spruce Grove Saints,AJHL,15,9,2,8,0
+101099,2011-12,Everett Silvertips,WHL,33,0,2,15,-5
+101099,2012-13,Calgary Hitmen,WHL,40,7,8,23,9
+101099,2012-13,Regina Pats,WHL,20,3,2,25,-3
+101099,2013-14,Regina Pats,WHL,10,1,0,15,-4
+101099,2013-14,Spruce Grove Saints,AJHL,38,17,18,19,0
+101099,2014-15,Spruce Grove Saints,AJHL,11,6,0,16,0
+45549,2008-09,Toronto Jr. Canadi. Mn Mdgt AAA,GTMMHL,57,28,38,58,0
+45549,2009-10,Soo Thunderbirds,NOJHL,31,19,12,73,0
+45549,2009-10,Sault Ste. Marie Greyhounds,OHL,7,1,0,13,0
+45549,2010-11,Sault Ste. Marie Greyhounds,OHL,11,4,3,21,0
+45549,2011-12,Sarnia Sting,OHL,15,0,2,4,3
+45549,2011-12,Strathroy Rockets,GOJHL,11,6,5,31,0
+45549,2012-13,Summerside Western Capitals,MJAHL,29,7,7,46,0
+45549,2012-13,Metro Shipbuilders,MJAHL,16,12,1,23,0
+45549,2013-14,Valley Wildcats,MJAHL,30,16,7,10,0
+45549,2013-14,Amherst Ramblers,MJAHL,21,10,10,6,0
+45549,2014-15,Seguin Huskies,GMHL,8,1,6,10,0
+92682,2009-10,Brantford 99ers Minor Midget AAA,AHMMPL,27,19,11,41,0
+92682,2010-11,Niagara IceDogs,OHL,38,2,1,13,-5
+92682,2011-12,Niagara IceDogs,OHL,63,12,8,51,-1
+92682,2012-13,Niagara IceDogs,OHL,39,3,12,46,-6
+92682,2012-13,Erie Otters,OHL,27,0,3,4,-17
+92682,2013-14,Erie Otters,OHL,41,6,7,69,1
+92682,2014-15,"Erie Otters 
+“A”",OHL,8,2,5,7,4
+92682,2014-15,London Knights,OHL,22,0,3,10,-10
+92682,2015-16,Ryerson Univ.,USports,21,5,3,26,0
+27945,2011-12,Erie Otters,OHL,48,11,21,20,-40
+384290,2014-15,Beauce-Appalaches Bantam AAA,QBAAA,27,9,12,33,0
+384290,2014-15,Beauce-Appalaches Midget Espoir,QMEAA,2,0,0,2,0
+384290,2015-16,Lévis Commandeurs,QMAAA,45,9,7,16,-8
+384290,2016-17,Lévis Commandeurs,QMAAA,32,8,13,10,2
+384290,2017-18,Charlottetown Islanders,QMJHL,50,1,5,15,-13
+284913,2013-14,TGV Pentagone Bantam AA,QBAA,0,0,0,0,0
+284913,2014-15,Collège Notre-Dame Albatros,QMAAA,42,7,17,12,11
+284913,2015-16,Sherbrooke Phoenix,QMJHL,58,1,4,10,-3
+284913,2016-17,Sherbrooke Phoenix,QMJHL,66,7,3,6,-19
+284913,2017-18,Miramichi Timberwolves,MJAHL,29,9,23,8,0
+284913,2017-18,Rimouski Océanic,QMJHL,21,4,4,6,4
+284913,2018-19,Rimouski Océanic,QMJHL,17,3,0,7,0
+284913,2018-19,Miramichi Timberwolves,MJAHL,21,8,11,20,0
+85322,2012-13,Blainville-Boisbriand Armada,QMJHL,46,5,9,35,25
+85322,2015-16,Lehigh Valley Phantoms,AHL,27,0,1,10,-11
+85322,2015-16,Reading Royals,ECHL,2,0,0,0,-1
+9189,2002-03,Collège Antoine-Girouard Gaulois,QMAAA,42,2,10,34,0
+9189,2003-04,"Collège Antoine-Girouard Gaulois 
+“A”",QMAAA,39,12,41,94,0
+9189,2004-05,Val-d'Or Foreurs,QMJHL,70,13,19,79,-16
+9189,2005-06,Val-d'Or Foreurs,QMJHL,60,25,43,156,4
+9189,2006-07,"Val-d'Or Foreurs 
+“C”",QMJHL,40,14,38,74,19
+9189,2006-07,Pittsburgh Penguins,NHL,7,2,0,4,-3
+9189,2006-07,Wilkes-Barre/Scranton Penguins,AHL,0,0,0,0,0
+9189,2007-08,Pittsburgh Penguins,NHL,63,6,11,23,-1
+9189,2007-08,Wilkes-Barre/Scranton Penguins,AHL,10,1,6,4,0
+9189,2008-09,Pittsburgh Penguins,NHL,74,10,23,24,-7
+9189,2009-10,Pittsburgh Penguins,NHL,73,3,24,51,1
+9189,2010-11,Pittsburgh Penguins,NHL,82,8,42,101,15
+9189,2011-12,Pittsburgh Penguins,NHL,51,10,32,34,21
+9189,2012-13,Pittsburgh Penguins,NHL,35,5,33,8,16
+9189,2013-14,Pittsburgh Penguins,NHL,37,11,11,16,-8
+9189,2014-15,Pittsburgh Penguins,NHL,69,11,43,79,12
+9189,2015-16,Pittsburgh Penguins,NHL,71,16,51,66,9
+9189,2016-17,Pittsburgh Penguins,NHL,41,5,29,32,2
+9189,2017-18,"Pittsburgh Penguins 
+“A”",NHL,79,9,42,56,-9
+9189,2018-19,"Pittsburgh Penguins 
+“A”",NHL,65,16,40,48,13
+9189,2019-20,"Pittsburgh Penguins 
+“A”",NHL,0,0,0,0,0
+33650,2006-07,Compuware Bantam Major AAA,T1EBHL,31,4,11,58,0
+33650,2007-08,Compuware U16,T1EHL U16,31,1,8,41,0
+33650,2008-09,Plymouth Whalers,OHL,12,0,2,4,4
+33650,2008-09,Compuware U18,T1EHL U18,27,0,5,74,0
+33650,2009-10,Plymouth Whalers,OHL,68,3,9,116,10
+33650,2010-11,Plymouth Whalers,OHL,66,6,19,87,16
+33650,2011-12,Plymouth Whalers,OHL,64,5,25,46,20
+33650,2012-13,Plymouth Whalers,OHL,58,2,15,49,31
+33650,2013-14,Charlotte Checkers,AHL,10,1,0,0,-2
+33650,2013-14,Florida Everblades,ECHL,53,2,13,55,0
+33650,2014-15,Charlotte Checkers,AHL,15,0,1,6,-6
+33650,2014-15,Florida Everblades,ECHL,3,0,1,0,0
+33650,2014-15,Stockton Thunder,ECHL,43,5,11,23,-13
+33650,2016-17,Univ. of Prince Edward Island,USports,29,3,9,4,0
+33650,2017-18,Univ. of Prince Edward Island,USports,18,1,3,24,0
+33650,2018-19,Univ. of Prince Edward Island,USports,30,1,3,14,0
+335688,2014-15,Bois-Francs Cascades Bantam AAA,QBAAA,0,0,0,0,0
+335688,2015-16,Trois-Rivières Estacades,QMAAA,45,16,25,32,-4
+335688,2016-17,Trois-Rivières Estacades,QMAAA,35,30,20,36,19
+335688,2016-17,Victoriaville Tigres,QMJHL,10,1,2,2,-3
+335688,2017-18,Drummondville Voltigeurs,QMJHL,64,24,22,25,20
+335688,2018-19,Drummondville Voltigeurs,QMJHL,59,19,15,27,19
+335688,2019-20,Charlottetown Islanders,QMJHL,0,0,0,0,0
+11645,2002-03,Prince Albert Raiders,WHL,5,0,0,2,-1
+11645,2003-04,Prince Albert Raiders,WHL,40,0,3,19,1
+11645,2004-05,Prince Albert Raiders,WHL,67,3,19,66,2
+11645,2005-06,Prince Albert Raiders,WHL,72,2,28,104,-26
+11645,2006-07,"Prince Albert Raiders 
+“A”",WHL,72,10,34,96,-9
+11645,2007-08,Prince Albert Raiders,WHL,25,1,19,32,-10
+11645,2007-08,Lethbridge Hurricanes,WHL,29,3,21,19,12
+11645,2008-09,Las Vegas Wranglers,ECHL,23,4,6,21,1
+11645,2008-09,Norfolk Admirals,AHL,3,0,0,0,-4
+11645,2008-09,Providence Bruins,AHL,11,0,0,7,1
+11645,2008-09,San Antonio Rampage,AHL,25,1,4,31,-4
+11645,2009-10,San Antonio Rampage,AHL,46,2,4,22,-8
+11645,2010-11,San Antonio Rampage,AHL,56,1,8,62,-17
+11645,2011-12,Las Vegas Wranglers,ECHL,50,7,20,53,14
+11645,2013-14,"Las Vegas Wranglers 
+“A”",ECHL,42,11,14,29,-11
+11645,2013-14,Texas Stars,AHL,2,0,1,0,1
+11645,2013-14,Hershey Bears,AHL,1,0,0,2,1
+11645,2014-15,"Ontario Reign 
+“A”",ECHL,38,4,12,34,9
+97506,2002-03,Magog Cantonniers,QMAAA,2,0,0,0,0
+97506,2003-04,Magog Cantonniers,QMAAA,32,8,17,44,0
+97506,2004-05,Magog Cantonniers,QMAAA,36,24,30,77,0
+97506,2004-05,Victoriaville Tigres,QMJHL,1,0,0,0,-3
+97506,2005-06,Collège Champlain Cougars,QJAAAHL,15,6,9,41,0
+97506,2005-06,Saint John Sea Dogs,QMJHL,26,3,5,18,-13
+97506,2006-07,Granby Inouk,QJAAAHL,42,19,53,34,0
+97506,2007-08,Granby Inouk,QJAAAHL,50,43,73,56,18
+97506,2008-09,Univ. of Moncton,USports,24,10,6,14,4
+97506,2009-10,Univ. of Moncton,USports,16,0,4,22,-9
+97506,2010-11,Univ. of Moncton,USports,22,2,6,24,-6
+283908,2013-14,Little Caesars U16,HPHL U16,25,5,13,42,0
+283908,2014-15,London Knights,OHL,16,1,0,8,-2
+283908,2014-15,Springfield Jr. Blues,NAHL,21,3,3,65,-2
+283908,2015-16,Moncton Wildcats,QMJHL,52,23,27,81,-10
+283908,2016-17,Moncton Wildcats,QMJHL,29,4,18,45,-10
+283908,2016-17,Chicoutimi Saguenéens,QMJHL,32,4,10,29,-3
+283908,2017-18,Chicoutimi Saguenéens,QMJHL,68,39,47,54,11
+283908,2018-19,Tucson Roadrunners,AHL,4,0,1,0,-1
+283908,2018-19,Norfolk Admirals,ECHL,7,0,3,12,-3
+128499,2010-11,Collège Esther-Blondin Phénix,QMAAA,42,4,9,14,0
+128499,2011-12,Collège Esther-Blondin Phénix,QMAAA,32,10,11,39,0
+128499,2011-12,Victoriaville Tigres,QMJHL,2,0,1,0,1
+128499,2012-13,Montréal-Est Rangers,QJAAAHL,14,0,4,12,-20
+128499,2012-13,Chicoutimi Saguenéens,QMJHL,35,2,4,10,-3
+128499,2012-13,Shawinigan Cataractes,QMJHL,1,0,0,0,0
+128499,2013-14,Montréal-Est Rangers,QJAAAHL,52,8,11,27,-28
+128499,2014-15,Lachine Maroons,QJAAAHL,23,3,6,4,-16
+128499,2018-19,St-Gabriel Loups,LHSR,7,0,4,0,0

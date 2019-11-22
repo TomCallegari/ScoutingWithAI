@@ -1,0 +1,40 @@
+ages = []
+teams = []
+leagues = []
+age_test = []
+
+high_gp = 0
+
+for row in df.iterrows():    
+
+    if row[1]['age'] not in age_test:
+        
+        age_test.append(row[1]['age'])
+
+        age = row[1]['age']
+        team = row[1]['team']
+        league = row[1]['league']
+
+        high_gp = int(row[1]['games_played'])
+        
+        ages.append(age)
+        teams.append(team)
+        leagues.append(league)
+
+    elif row[1]['age'] in age_test:
+        
+        if int(row[1]['games_played']) > high_gp:
+
+            age = row[1]['age']
+            team = row[1]['team']
+            league = row[1]['league']
+
+            high_gp = int(row[1]['games_played'])
+        
+            ages = ages[:-1]
+            teams = teams[:-1]
+            leagues = leagues[:-1]
+            
+            ages.append(age)
+            teams.append(team)
+            leagues.append(league)

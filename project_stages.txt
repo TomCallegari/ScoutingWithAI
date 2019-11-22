@@ -1,0 +1,82 @@
+				Presentation Stages - Scouting Wth AI
+
+Title Page
+
+Intro	
+
+	“It’s not a science, it’s definitely an art.”
+
+	Kevin Cheveldayoff, Winnipeg Jets GM
+
+	“The hardest part is the judging truly doesn’t come for years to come. 
+	The big thing about the draft is it’s all based on projections. It’s 
+	the ability to project and show some blind faith on players that show 
+	some attributes that you think can be developed."
+
+
+	- What is the NHL Draft?
+	- What players are available?
+	- Why is it important?
+	- Why scout with AI?
+
+https://nationalpost.com/sports/hockey/nhl/its-not-about-first-round-picks-successful-teams-find-gems-in-later-rounds-of-nhl-draft
+
+ Problem Breakdown
+
+	- What is the CHL
+	- What data is available?
+	- Need to collect enough data to approximate a players projection to some point in future time.
+	- What data can be used?
+	- How to organize the data?
+
+Data Collection & Storage
+	- Web Scraping
+		- Eliteprospects.com
+			- Scrape player profile URL's
+			- Scrape each player profile
+
+	- Deposit raw data into MongoDB
+
+	- Technologies
+		- Python
+			- Beautiful Soup
+			- Pandas
+
+Extraction / Cleaning
+	- Pull from MongoDB
+	- Transform / Reshape to Tidy Data
+	- Wrangle age of each player for each season
+	- Reshape qualitative, quantitative and merge with meta
+
+Feature Engineering
+	- Create response variable
+	- Refactor: birth_region and position
+	- Subset needed columns
+	- Impute NaN's
+	- Scouting text - NLP / Sentiment Analysis
+		- Stop words, Word count, Avg word length, Character count, Upper words
+		- Stemming, lemmatization and Sentiment analysis
+	- Final dataset
+
+Modeling
+	- Deep NN (Tensorflow.Keras)
+	- Feed forward dense
+	- Input layer, 5 hidden layers (1000 units), output layer with softmax
+
+Results
+	- f1-scores
+	- Weighted average
+
+Debrief / Future Considerations
+	- Debrief
+		- What would I do differently?
+			- Cleaner NLP (names, mispellings, hockey intuition)
+			- Use Scrapy and not BeautifulSoup
+			- Scrape other sites to fill in blank data (hopefully)
+			- Find more scouting blurbs
+	- Future considerations
+		- Increased data completeness and addtional scouting blurbs
+		- Psychological data (family history, education, personality profiles, etc.)
+			- There is quite a bit of noise in the model, some of which could 
+			  potentially be explained with quantified mental / psychological data 
+			  or some useful proxy.
