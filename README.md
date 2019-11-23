@@ -1,4 +1,4 @@
-![alt text](title_page.PNG "Exoplanets")
+![alt text](title_page.PNG "Title Page")
 
 
 # Scouting With AI
