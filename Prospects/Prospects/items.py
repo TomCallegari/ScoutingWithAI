@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from scrapy import Item, Field
+import scrapy
 
 
 class MetaItems(scrapy.Item):
