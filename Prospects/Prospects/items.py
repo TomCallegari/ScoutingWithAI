@@ -1,12 +1,11 @@
 # -*- coding: utf-8 -*-
 
-import scrapy
+from scrapy import Item, Field
 
 
-class MetaDataItem(scrapy.Item):
+class MetaItems(scrapy.Item):
 
-    """ Data structure to store basic player 
-    meta data """
+    """Item class to store player meta data"""
     
     ep_id = scrapy.Field()
     full_name = scrapy.Field()
@@ -18,15 +17,57 @@ class MetaDataItem(scrapy.Item):
     height = scrapy.Field()
     weight = scrapy.Field()
     shoots = scrapy.Field()
+    draft = scrapy.Field()
+    cap_hit = scrapy.Field()
+    scout_text = scrapy.Field()
 
-class PlayerStatsItem(scrapy.Item):
+class CareerRegularItems(scrapy.Item):
 
-    """Data structure to store player statistics"""
+    """Item class to store player statistics"""
 
     ep_id = scrapy.Field()
     season = scrapy.Field()
     team = scrapy.Field()
     league = scrapy.Field()
+    games_played = scrapy.Field()
+    goals = scrapy.Field()
+    assists = scrapy.Field()
+    penalty_min = scrapy.Field()
+    plus_minus = scrapy.Field()
+
+class CareerPostSeasonItems(scrapy.Item):
+
+    """Item class to store player career postseason statistics"""
+
+    ep_id = scrapy.Field()
+    season = scrapy.Field()
+    games_played = scrapy.Field()
+    goals = scrapy.Field()
+    assists = scrapy.Field()
+    penalty_min = scrapy.Field()
+    plus_minus = scrapy.Field()
+
+class CareerInternationalItems(scrapy.Item):
+
+    """Item class to store player international tournament statistics"""
+
+    ep_id = scrapy.Field()
+    season = scrapy.Field()
+    tour_level = scrapy.Field()
+    games_played = scrapy.Field()
+    goals = scrapy.Field()
+    assists = scrapy.Field()
+    penalty_min = scrapy.Field()
+    plus_minus = scrapy.Field()
+
+class CareerAlternateTournamentItems(scrapy.Item):
+
+    """Item class to store player career alternate tournament statistics"""
+
+    ep_id = scrapy.Field()
+    season = scrapy.Field()
+    team = scrapy.Field()
+    level = scrapy.Field()
     games_played = scrapy.Field()
     goals = scrapy.Field()
     assists = scrapy.Field()
