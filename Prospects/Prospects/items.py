@@ -21,7 +21,7 @@ class MetaItems(scrapy.Item):
     cap_hit = scrapy.Field()
     scout_text = scrapy.Field()
 
-class CareerRegularItems(scrapy.Item):
+class RegularItems(scrapy.Item):
 
     """Item class to store player statistics"""
 
@@ -35,7 +35,7 @@ class CareerRegularItems(scrapy.Item):
     penalty_min = scrapy.Field()
     plus_minus = scrapy.Field()
 
-class CareerPostSeasonItems(scrapy.Item):
+class PostItems(scrapy.Item):
 
     """Item class to store player career postseason statistics"""
 
@@ -47,7 +47,7 @@ class CareerPostSeasonItems(scrapy.Item):
     penalty_min = scrapy.Field()
     plus_minus = scrapy.Field()
 
-class CareerInternationalItems(scrapy.Item):
+class InterItems(scrapy.Item):
 
     """Item class to store player international tournament statistics"""
 
@@ -60,7 +60,7 @@ class CareerInternationalItems(scrapy.Item):
     penalty_min = scrapy.Field()
     plus_minus = scrapy.Field()
 
-class CareerAlternateTournamentItems(scrapy.Item):
+class TourItems(scrapy.Item):
 
     """Item class to store player career alternate tournament statistics"""
 

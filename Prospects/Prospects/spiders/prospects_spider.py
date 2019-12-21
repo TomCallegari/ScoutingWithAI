@@ -1,9 +1,10 @@
-
-import scrapy
 import pickle
 from itertools import islice, chain, repeat
 import re
-from Prospects.items import MetaDataItem, PlayerStatsItem
+
+import scrapy
+from Prospects.items import MetaItems, RegularItems, PostItems, InterItems, TourItems
+from scrapy.loader import ItemLoader
 
 with open('listfile.data', 'rb') as filehandle:
     urls_list = pickle.load(filehandle)
@@ -32,16 +33,12 @@ class PlayerSpider(scrapy.Spider):
 
     start_urls = popup_urls
 
-    def _parse_meta_data_item(self, response):
+    def _parse_metaItem(self, response):
 
-        ep_id = response.xpath('meta[@property="og:url"]')['content'].text()
-        full_name = response.xpath('//span[@id="fontHeader"]/text()').get()
-        date_of_birth = response.xpath('//*[@id="ads-fullpage-site"]/p/table[2]/tbody/tr/td[1]/table/tbody/tr[1]/td[2]/a/text()').get()
+        lmeta = ItemLoader(item=MetaItems(), response=response)
 
-        metadataitem = MetaDataItem()
-        metadataitem['full_name'] = full_name,
-        metadataitem['date_of_birth'] = date_of_birth,
-        metadataitem['ep_id'] = ep_id
+        lmeta.add_xpath('full_name', '//*[@id="fontHeader"]')
+        lmeta.add_xpath('date_of_birth', '//*[@id="ads-fullpage-site"]/p/table[2]/tbody/tr/td[1]/table/tbody/tr[1]/td[2]/a')
 
-        yield metadataitem
+        return lmeta.load_item()
 
