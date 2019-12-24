@@ -40,7 +40,7 @@ meta_items_list = []
 
 # User-agent header for www.eliteprospects.com/robots.txt web logs
 headers = {
-    "user-Agent": "Student project for Uoft - School of Continuing Studies - Data Analytics.  I can be contacted at thomascallegari@yahoo.com"
+    "user-Agent": "Personal web-scraping script.  I can be contacted at thomascallegari@yahoo.com"
 }
 
 # Create a variable for output printing
@@ -54,7 +54,8 @@ player_stats = pd.DataFrame()
 for player in players_url:
 
     # Pull html soup from profile
-    response = get(player) # Add headers=headers to add user-agent header for each request
+    response = get(player,
+                headers=headers) # Add headers=headers to add user-agent header for each request
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # Pull Eliteprospects ID from urls
