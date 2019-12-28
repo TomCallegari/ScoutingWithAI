@@ -13,7 +13,7 @@ from itertools import islice, chain, repeat
 import pymongo
 
 # Create connection to MongoDB
-conn = 'mongodb://localhost:27017'
+conn = 'mongodb://localhost:27018'
 client = pymongo.MongoClient(conn)
 
 # Create Eliteprospects DB
@@ -54,8 +54,7 @@ player_stats = pd.DataFrame()
 for player in players_url:
 
     # Pull html soup from profile
-    response = get(player,
-                headers=headers) # Add headers=headers to add user-agent header for each request
+    response = get(player, headers=headers) # Add headers=headers to add user-agent header for each request
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # Pull Eliteprospects ID from urls
@@ -70,82 +69,86 @@ for player in players_url:
     
     # Meta data
     meta_table = soup.find('div', class_='table-view')
-    for item in meta_table.find_all('div', class_='col-xs-8 fac-lbl-dark'):
-        items = item.text.strip()
-        meta_items_list.append(items)
-    
-    # Append empty meta variable lists
-    raw_birth_date = meta_items_list[0]
-    raw_hometown = meta_items_list[2]
-    raw_country = meta_items_list[3]
-    youth_team = meta_items_list[4]
-    position = meta_items_list[5]
-    raw_height = meta_items_list[6]
-    raw_weight = meta_items_list[7]
-    shoots = meta_items_list[8]
+    try:
+        for item in meta_table.find_all('div', class_='col-xs-8 fac-lbl-dark'):
+            items = item.text.strip()
+            meta_items_list.append(items)
 
-    # Scouting text
-    try:        
-        scout_text = meta_section.find('div', class_='dtl-txt').text.strip()        
-    except:        
-        scout_text = np.nan
+            # Append empty meta variable lists
+            raw_birth_date = meta_items_list[0]
+            raw_hometown = meta_items_list[2]
+            raw_country = meta_items_list[3]
+            youth_team = meta_items_list[4]
+            position = meta_items_list[5]
+            raw_height = meta_items_list[6]
+            raw_weight = meta_items_list[7]
+            shoots = meta_items_list[8]
 
-    # Modify date_of_birth format to fit MySQL 8.0.16 accepted date type
-    date_of_birth = raw_birth_date
+            # Set aside birth date
+            date_of_birth = raw_birth_date
 
-    # Extract full_name with no tailing whitespace
-    full_name_regex = re.search(r'(\w+\s\w+)', raw_full_name)
-    if re.search(r'(\w+\s\w+)', raw_full_name) is None:
-        full_name = np.nan
-    else:
-        full_name = full_name_regex.group(0)
+            # Scouting text
+            try:        
+                scout_text = meta_section.find('div', class_='dtl-txt').text.strip()        
+            except:        
+                scout_text = np.nan
 
-    # Extract hometown city name
-    hometown_regex = re.search(r'(\w{4,})', raw_hometown)
-    if re.search(r'(\w{4,})', raw_hometown) is None:
-        hometown = np.nan
-    else:
-        hometown = hometown_regex.group(0)
-    
-    # Extract country with no tailing whitespace
-    country_regex = re.search(r'(\w+)', raw_country)
-    if re.search(r'(\w+)', raw_country) is None:
-        country = np.nan
-    else:
-        country = country_regex.group(0)
-    
-    # Extract height in cm
-    height_regex = re.search(r'(\d{3})', raw_height)
-    if re.search(r'(\d{3})', raw_height) is None:
-        height = np.nan
-    else:
-        height = height_regex.group(0)
+            # Extract full_name with no tailing whitespace
+            full_name_regex = re.search(r'(\w+\s\w+)', raw_full_name)
+            if re.search(r'(\w+\s\w+)', raw_full_name) is None:
+                full_name = np.nan
+            else:
+                full_name = full_name_regex.group(0)
 
-    # Extract weight in kg
-    weight_regex = re.search(r'(\d{2})\skg', raw_weight)
-    if re.search(r'(\d{2})\skg', raw_weight) is None:
-        weight = np.nan
-    else:
-        weight_kg = weight_regex.group(0)
-        weight_kg_regex = re.search(r'(\d{2})', weight_kg)
-        weight = weight_kg_regex.group(0)
+            # Extract hometown city name
+            hometown_regex = re.search(r'(\w{4,})', raw_hometown)
+            if re.search(r'(\w{4,})', raw_hometown) is None:
+                hometown = np.nan
+            else:
+                hometown = hometown_regex.group(0)
+            
+            # Extract country with no tailing whitespace
+            country_regex = re.search(r'(\w+)', raw_country)
+            if re.search(r'(\w+)', raw_country) is None:
+                country = np.nan
+            else:
+                country = country_regex.group(0)
+            
+            # Extract height in cm
+            height_regex = re.search(r'(\d{3})', raw_height)
+            if re.search(r'(\d{3})', raw_height) is None:
+                height = np.nan
+            else:
+                height = height_regex.group(0)
 
-    # Meta data dictionary
-    meta_data_dict = {
-        'ep_id': ep_id,
-        'full_name': full_name,
-        'date_of_birth': date_of_birth,
-        'hometown': hometown,
-        'country': country,
-        'youth_team': youth_team,
-        'position': position,
-        'height': height,
-        'weight': weight,
-        'shoots': shoots,
-        'scout_text': scout_text
-    }
+            # Extract weight in kg
+            weight_regex = re.search(r'(\d{2})\skg', raw_weight)
+            if re.search(r'(\d{2})\skg', raw_weight) is None:
+                weight = np.nan
+            else:
+                weight_kg = weight_regex.group(0)
+                weight_kg_regex = re.search(r'(\d{2})', weight_kg)
+                weight = weight_kg_regex.group(0)
 
-    meta_collection.insert_one(meta_data_dict)
+            # Meta data dictionary
+            meta_data_dict = {
+                'ep_id': ep_id,
+                'full_name': full_name,
+                'date_of_birth': date_of_birth,
+                'hometown': hometown,
+                'country': country,
+                'youth_team': youth_team,
+                'position': position,
+                'height': height,
+                'weight': weight,
+                'shoots': shoots,
+                'scout_text': scout_text
+            }
+
+            print(meta_data_dict)
+            meta_collection.insert_one(meta_data_dict)
+    except:
+        pass   
 
     # Re-initialise the meta_data_dict to be empty for the next interation
     meta_data_dict = {} 
@@ -216,4 +219,4 @@ for player in players_url:
     # Print current number of players added
     players_added += 1
     print('Players added: ', players_added)
-
+    # sleep(.25)
