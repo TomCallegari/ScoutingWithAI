@@ -1,5 +1,10 @@
 import pickle
 
+with open('listfile.data', 'rb') as filehandle:
+    urls = pickle.load(filehandle)
+
+print(urls)
+
 # leagues = ['whl', 'ohl', 'qmjhl']
 # leagues_url = [str(i) for i in leagues]
 
@@ -19,51 +24,51 @@ import pickle
 
 # print(len(url_list))
 
-from requests import get
-from bs4 import BeautifulSoup
-import re
+# from requests import get
+# from bs4 import BeautifulSoup
+# import re
 
-url = 'http://www.eliteprospects.com/player/213489/ryan-kehrig'
+# url = 'http://www.eliteprospects.com/player/213489/ryan-kehrig'
 
-meta_items_list = []
+# meta_items_list = []
 
-response = get(url)
-soup = BeautifulSoup(response.text, 'html.parser')
+# response = get(url)
+# soup = BeautifulSoup(response.text, 'html.parser')
 
-# ep_id
-ep_id_regex = re.search(r'(\d+)', url)
-ep_id = ep_id_regex.group(0)
+# # ep_id
+# ep_id_regex = re.search(r'(\d+)', url)
+# ep_id = ep_id_regex.group(0)
 
-# Meta items
-meta_table = soup.find('div', class_='table-view')
-for item in meta_table.find_all('div', class_='col-xs-8 fac-lbl-dark'):
-    items = item.text.strip()
-    meta_items_list.append(items)
+# # Meta items
+# meta_table = soup.find('div', class_='table-view')
+# for item in meta_table.find_all('div', class_='col-xs-8 fac-lbl-dark'):
+#     items = item.text.strip()
+#     meta_items_list.append(items)
 
-print(meta_items_list)
-for i in range(1-1, 10):
-    print(meta_items_list[i])
+# print(meta_items_list)
+# for i in range(1-1, 10):
+#     print(meta_items_list[i])
 
-stat_table = soup.find('div', {'id': 'league-stats'})
-table_rows = stat_table.find_all('tr', {'class': 'team-continent-NA'})
-for tr in table_rows:
+# stat_table = soup.find('div', {'id': 'league-stats'})
+# table_rows = stat_table.find_all('tr', {'class': 'team-continent-NA'})
+# for tr in table_rows:
                         
-    # Player stats dictionary
-    player_stats_dict = {
-        'ep_id': ep_id,
-        'season': tr.find('td', {'class': 'season sorted'}).text.strip(),
-        'team': tr.find('td', {'class': 'team'}).text.strip(),
-        'league': tr.find('td', {'class': 'league'}).text.strip(),
-        'games_played': tr.find('td', {'class': 'regular gp'}).text.strip(),
-        'goals': tr.find('td', {'class': 'regular g'}).text.strip(),
-        'assists': tr.find('td', {'class': 'regular a'}).text.strip(),
-        'penalty_min': tr.find('td', {'class': 'regular pim'}).text.strip(),
-        'plus_minus': tr.find('td', {'class': 'regular pm'}).text.strip()
-    }
+#     # Player stats dictionary
+#     player_stats_dict = {
+#         'ep_id': ep_id,
+#         'season': tr.find('td', {'class': 'season sorted'}).text.strip(),
+#         'team': tr.find('td', {'class': 'team'}).text.strip(),
+#         'league': tr.find('td', {'class': 'league'}).text.strip(),
+#         'games_played': tr.find('td', {'class': 'regular gp'}).text.strip(),
+#         'goals': tr.find('td', {'class': 'regular g'}).text.strip(),
+#         'assists': tr.find('td', {'class': 'regular a'}).text.strip(),
+#         'penalty_min': tr.find('td', {'class': 'regular pim'}).text.strip(),
+#         'plus_minus': tr.find('td', {'class': 'regular pm'}).text.strip()
+#     }
 
-    for i in player_stats_dict.items():
-        print(i)
+#     for i in player_stats_dict.items():
+#         print(i)
     
-    print('')
-    print('# -------------- #')
-    print('')
+#     print('')
+#     print('# -------------- #')
+#     print('')

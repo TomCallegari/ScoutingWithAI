@@ -66,6 +66,8 @@ for player in urls:
 
     # Player name
     full_name = meta_section.find('h1', class_='plytitle').text.strip()
+
+    print(ep_id, full_name, player)
     
     # Meta data
     meta_table = soup.find('div', class_='table-view')    
@@ -98,6 +100,10 @@ for player in urls:
     # Print output for each player meta data
     for i in meta_data_dict.items():
         print(i)
+    
+    print('')
+    print(' ####### ')
+    print('')
 
     # Insert meta data dict into MongoDB meta_data collection
     meta_collection.insert_one(meta_data_dict)
