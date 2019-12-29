@@ -16,8 +16,8 @@ seasons_url = [str(i) for i in seasons]
 
 pages = [str(i) for i in range(1, 5)]
 
-href_id = []
-unique_year = []
+href_ids = []
+unique_years = []
 
 start_time = time()
 requests = 0
@@ -32,26 +32,27 @@ for league in leagues_url:
         for page in pages:
 
             year_url = 'http://www.eliteprospects.com/league/' + league + '/stats/' + season + '?sort=tp&page=' + page
-            if year_url not in unique_year:
-                unique_year.append(year_url)
+            if year_url not in unique_years:
+                unique_years.append(year_url)
 
                 response = get(year_url, headers=headers)
-                sleep(1)
 
                 soup = BeautifulSoup(response.text, 'html.parser')
+                
                 table = soup.find('div', {'id': 'skater-stats'})
-                try:
-                    player_table_rows = table.find_all('td', attrs={'class': 'player', 'style': 'white-space: nowrap;'})
-                    for td in player_table_rows:
-                        href = td.find('a')['href']
-                        href_id.append(href)
-                        rows_added += 1
-                        print(rows_added, href)
-                except:
-                    pass
+                player_table_rows = table.find_all('td', attrs={'class': 'player', 'style': 'white-space: nowrap;'})
 
-href_ids = list(set(href_id))
-print('Number of player profiles: ' ,len(href_ids))
+                for td in player_table_rows:
+                    href = td.find('a')['href']
+                    href_ids.append(href)
+
+                    rows_added += 1
+                    print(rows_added, href)
+            else:
+                continue
+
+href_ids = list(set(href_ids))
+print('Number of player profiles: ' , len(href_ids))
 
 with open('listfile.data', 'wb') as filehandle:
     pickle.dump(href_ids, filehandle)

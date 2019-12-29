@@ -33,7 +33,7 @@ with open('listfile.data', 'rb') as filehandle:
 
 # cohort = player_url_list[0]
 
-players_urls = [str(i) for i in urls] # change urls / cohort if using chunked list
+# players_urls = [str(i) for i in urls] # change urls / cohort if using chunked list
 
 # Create empty list for meta table variables
 meta_items_list = []
@@ -51,7 +51,7 @@ meta_stats = pd.DataFrame()
 player_stats = pd.DataFrame()
 
 # for loop for each player profile
-for player in players_urls:
+for player in urls:
 
     # Pull html soup from profile
     response = get(player, headers=headers) # Add headers=headers to add user-agent header for each request
@@ -99,6 +99,7 @@ for player in players_urls:
     for i in meta_data_dict.items():
         print(i)
 
+    # Insert meta data dict into MongoDB meta_data collection
     meta_collection.insert_one(meta_data_dict)
 
     # Re-initialise the meta_data_dict to be empty for the next interation
@@ -124,6 +125,10 @@ for player in players_urls:
             'penalty_min': tr.find('td', {'class': 'regular pim'}).text.strip(),
             'plus_minus': tr.find('td', {'class': 'regular pm'}).text.strip()
         }
+
+        # Print output for each player_stats dict
+        for i in player_stats_dict.items():
+            print(i)
 
         # Insert player_stats table into database
         player_collection.insert_one(player_stats_dict)
