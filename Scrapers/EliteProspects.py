@@ -46,7 +46,7 @@ headers = {
 # Create a variable for output printing
 players_added = 0
 
-# for loop for each player profile
+# Loop through each player profile and extract data
 for player in urls:
 
     # Pull html soup from profile
