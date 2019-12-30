@@ -2,7 +2,6 @@
 # Import required packages/modules
 from requests import get
 from bs4 import BeautifulSoup
-from datetime import datetime
 from time import time
 from time import sleep
 import pandas as pd
@@ -19,6 +18,7 @@ client = pymongo.MongoClient(conn)
 # Create Eliteprospects DB
 db = client.eliteprospects
 
+# Create collections
 meta_collection = db.meta_data
 player_collection = db.player_data
 playoffs_collection = db.playoffs_data
@@ -27,6 +27,8 @@ international_collection = db.international_data
 # Setup iteratble list for player profile href links
 with open('listfile.data', 'rb') as filehandle:
     urls = pickle.load(filehandle)
+
+# Uncomment to split urls into smaller chunks 
 
 # def chunk_pad(it, size, padval=None):
 #     it = chain(iter(it), repeat(padval))
