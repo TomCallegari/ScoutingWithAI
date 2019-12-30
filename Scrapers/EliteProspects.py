@@ -18,8 +18,11 @@ client = pymongo.MongoClient(conn)
 
 # Create Eliteprospects DB
 db = client.eliteprospects
+
 meta_collection = db.meta_data
 player_collection = db.player_data
+playoffs_collection = db.playoffs_data
+international_collection = db.international_data
 
 # Setup iteratble list for player profile href links
 with open('listfile.data', 'rb') as filehandle:
@@ -28,11 +31,8 @@ with open('listfile.data', 'rb') as filehandle:
 # def chunk_pad(it, size, padval=None):
 #     it = chain(iter(it), repeat(padval))
 #     return iter(lambda: tuple(islice(it, size)), (padval,) * size)
-
 # player_url_list = list(chunk_pad(urls, 120))
-
 # cohort = player_url_list[0]
-
 # players_urls = [str(i) for i in urls] # change urls / cohort if using chunked list
 
 # Create empty list for meta table variables
@@ -45,10 +45,6 @@ headers = {
 
 # Create a variable for output printing
 players_added = 0
-
-# Initialize empty DataFrames
-meta_stats = pd.DataFrame()
-player_stats = pd.DataFrame()
 
 # for loop for each player profile
 for player in urls:
@@ -100,10 +96,6 @@ for player in urls:
     # Print output for each player meta data
     for i in meta_data_dict.items():
         print(i)
-    
-    print('')
-    print(' ####### ')
-    print('')
 
     # Insert meta data dict into MongoDB meta_data collection
     meta_collection.insert_one(meta_data_dict)
@@ -132,15 +124,48 @@ for player in urls:
             'plus_minus': tr.find('td', {'class': 'regular pm'}).text.strip()
         }
 
-        # Print output for each player_stats dict
-        for i in player_stats_dict.items():
-            print(i)
-
         # Insert player_stats table into database
         player_collection.insert_one(player_stats_dict)
 
         # Re-initialise the player_stats_dict to be empty for the next interation
         player_stats_dict = {}
+
+        playoff_stats_dict = {
+            'ep_id': ep_id,
+            'playoffs_gp': tr.find('td', {'class': 'playoffs gp'}).text.strip(),
+            'playoffs_g': tr.find('td', {'class': 'playoffs g'}).text.strip(),
+            'playoffs_a': tr.find('td', {'class': 'playoffs a'}).text.strip(),
+            'playoffs_pim': tr.find('td', {'class': 'playoffs pim'}).text.strip(),
+            'playoffs_pm': tr.find('td', {'class': 'playoffs pm'}).text.strip()
+        }
+
+        # Insert playoff_stats table into database
+        playoffs_collection.insert_one(playoff_stats_dict)
+
+        # Re-initialise the playoffs_stats_dict to be empty for the next iteration
+        playoff_stats_dict = {}
+
+    # International statistics table
+    int_table_rows = stat_table.find_all('tr', {'class': 'team-continent-INT'})
+    for tr in int_table_rows:
+
+        # International stats playoffs
+        int_stats_dict = {
+            'ep_id': ep_id,
+            'team': tr.find('td', {'class': 'team'}).text.strip(),
+            'league': tr.find('td', {'class': 'league'}).text.strip(),
+            'int_gp': tr.find('td', {'class': 'regular gp'}).text.strip(),
+            'int_g': tr.find('td', {'class': 'regular g'}).text.strip(),
+            'int_a': tr.find('td', {'class': 'regular a'}).text.strip(),
+            'int_pim': tr.find('td', {'class': 'regular pim'}).text.strip(),
+            'int_pm': tr.find('td', {'class': 'regular pm'}).text.strip()
+        }
+
+        # Insert int_stats table into database
+        international_collection.insert_one(int_stats_dict)
+
+        # Re-initialise the int_stats_dict to be empty for the next iteration
+        int_stats_dict = {}    
     
     # Print current number of players added
     players_added += 1
@@ -148,4 +173,4 @@ for player in urls:
     print('Players added: ', players_added)
     print('# --------------------------------------------------------------------------- #')
     print('')
-    sleep(.25)
+    sleep(1)

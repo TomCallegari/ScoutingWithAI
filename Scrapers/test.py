@@ -1,9 +1,4 @@
-import pickle
-
-with open('listfile.data', 'rb') as filehandle:
-    urls = pickle.load(filehandle)
-
-print(urls)
+# print(urls)
 
 # leagues = ['whl', 'ohl', 'qmjhl']
 # leagues_url = [str(i) for i in leagues]
@@ -24,11 +19,17 @@ print(urls)
 
 # print(len(url_list))
 
-# from requests import get
-# from bs4 import BeautifulSoup
-# import re
+from requests import get
+from bs4 import BeautifulSoup
+import re
+import pickle
 
-# url = 'http://www.eliteprospects.com/player/213489/ryan-kehrig'
+with open('listfile.data', 'rb') as filehandle:
+    urls = pickle.load(filehandle)
+
+print(len(urls))
+    
+# url = 'http://www.eliteprospects.com/player/9223/john-tavares'
 
 # meta_items_list = []
 
@@ -45,13 +46,12 @@ print(urls)
 #     items = item.text.strip()
 #     meta_items_list.append(items)
 
-# print(meta_items_list)
 # for i in range(1-1, 10):
 #     print(meta_items_list[i])
 
 # stat_table = soup.find('div', {'id': 'league-stats'})
-# table_rows = stat_table.find_all('tr', {'class': 'team-continent-NA'})
-# for tr in table_rows:
+# club_table_rows = stat_table.find_all('tr', {'class': 'team-continent-NA'})
+# for tr in club_table_rows:
                         
 #     # Player stats dictionary
 #     player_stats_dict = {
@@ -67,8 +67,34 @@ print(urls)
 #     }
 
 #     for i in player_stats_dict.items():
-#         print(i)
+#         print('Regular: ', i)
+
+#     playoff_stats_dict = {
+#         'ep_id': ep_id,
+#         'playoffs_gp': tr.find('td', {'class': 'playoffs gp'}).text.strip(),
+#         'playoffs_g': tr.find('td', {'class': 'playoffs g'}).text.strip(),
+#         'playoffs_a': tr.find('td', {'class': 'playoffs a'}).text.strip(),
+#         'playoffs_pim': tr.find('td', {'class': 'playoffs pim'}).text.strip(),
+#         'playoffs_pm': tr.find('td', {'class': 'playoffs pm'}).text.strip()
+#     }
     
-#     print('')
-#     print('# -------------- #')
-#     print('')
+#     for i in player_stats_dict.items():
+#         print('Playoffs: ', i)
+
+# int_table_rows = stat_table.find_all('tr', {'class': 'team-continent-INT'})
+# for tr in int_table_rows:
+
+#     # International stats playoffs
+#     int_stats_dict = {
+#         'ep_id': ep_id,
+#         'team': tr.find('td', {'class': 'team'}).text.strip(),
+#         'league': tr.find('td', {'class': 'league'}).text.strip(),
+#         'int_gp': tr.find('td', {'class': 'regular gp'}).text.strip(),
+#         'int_g': tr.find('td', {'class': 'regular g'}).text.strip(),
+#         'int_a': tr.find('td', {'class': 'regular a'}).text.strip(),
+#         'int_pim': tr.find('td', {'class': 'regular pim'}).text.strip(),
+#         'int_pm': tr.find('td', {'class': 'regular pm'}).text.strip()
+#     }
+
+#     for i in int_stats_dict.items():
+#         print('International: ', i)    
