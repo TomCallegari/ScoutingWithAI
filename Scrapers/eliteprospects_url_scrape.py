@@ -12,7 +12,7 @@ seasons = ['2001-2002', '2002-2003', '2004-2005', '2005-2006', '2006-2007',
             '2012-2013', '2013-2014', '2014-2015', '2016-2017', '2017-2018', 
             '2018-19']
 
-pages = [str(i) for i in range(1, 5)]
+pages = [str(i) for i in range(1, 10)]
 
 href_ids = []
 rows_added = 0
@@ -27,10 +27,12 @@ for league in leagues:
 
             # Assemble url, get response, parse beautiful soup object
             year_url = 'http://www.eliteprospects.com/league/' + league + '/stats/' + season + '?sort=tp&page=' + page
+            print('Current page: ', year_url)
 
             # Get response object from url and parse html with BeautifulSoup
             response = get(year_url, headers = headers)
             soup = BeautifulSoup(response.text, 'html.parser')
+            sleep(1)
             
             # Isolate the table and rows
             try:
@@ -42,9 +44,9 @@ for league in leagues:
                     href_ids.append(href)
 
                     rows_added += 1
-                    print(rows_added, href)
-            except:
-                continue
+                    print(rows_added, href)     
+            except: 
+                continue      
 
 href_ids = list(set(href_ids))
 print('Number of player profiles: ' , len(href_ids))
