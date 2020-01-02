@@ -175,4 +175,4 @@ for player in urls:
     print('Players added: ', players_added)
     print('# --------------------------------------------------------------------------- #')
     print('')
-    sleep(1)
+    sleep(30)
