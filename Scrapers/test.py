@@ -38,7 +38,7 @@ seasons = ['2001-2002', '2002-2003', '2004-2005', '2005-2006', '2006-2007',
             '2018-19']
 seasons_url = [str(i) for i in seasons]
 
-pages = [str(i) for i in range(1, 5)]
+pages = [str(i) for i in range(1, 10)]
 
 print(leagues, leagues_url)
 print(seasons, seasons_url)

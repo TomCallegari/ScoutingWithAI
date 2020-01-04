@@ -69,7 +69,8 @@ for league in leagues:
 
                     if href not in href_ids:
                         href_ids.append(href)                    
-
+                        print('TEST - ', href_ids)
+                        
                         # Pull html soup from profile
                         response = get(href, headers = headers) # Add headers=headers to add user-agent header for each request
                         soup = BeautifulSoup(response.text, 'html.parser')
@@ -78,8 +79,7 @@ for league in leagues:
                         # Pull Eliteprospects ID from urls
                         ep_id_regex = re.search(r'(\d+)', player)
                         ep_id = ep_id_regex.group(0)
-                        print(ep_id)
-
+                        
                         # Meta data section
                         meta_section = soup.find('section', class_='plyr_details')
 
