@@ -18,8 +18,6 @@ db = client.eliteprospects
 # Create collections
 meta_collection = db.meta_data
 player_collection = db.player_data
-playoffs_collection = db.playoffs_data
-international_collection = db.international_data
 
 # User-agent header for www.eliteprospects.com/robots.txt web logs
 headers = {
@@ -37,7 +35,7 @@ seasons = ['2001-2002', '2002-2003', '2004-2005', '2005-2006', '2006-2007',
 pages = [str(i) for i in range(1, 10)]
 
 # Set empty list and variable to track hrefs and number of rows added
-rows_added = 0
+players_added = 0
 href_ids = []
 
 # Loop through each combination league, year and pagination #
@@ -47,8 +45,7 @@ for league in leagues:
 
             # Assemble url, get response, parse beautiful soup object
             year_url = 'http://www.eliteprospects.com/league/' + league + '/stats/' + season + '?sort=tp&page=' + page
-            print('Current page: ', year_url)
-
+            
             # Initialize href_ids list for each page of player profile links
             current_href_ids = []
 
@@ -74,12 +71,15 @@ for league in leagues:
 
                     # Pull html soup from profile
                     response = get(href, headers = headers) # Add headers=headers to add user-agent header for each request
+                    
+                    print('')
+                    print('# --------------------------------------------------------- #')
+                    print('')
+                    print('Current page: ', year_url)
                     print('response type: ', type(response))
+                    print(response)
                     
                     soup = BeautifulSoup(response.text, 'html.parser')
-                    print('soup type: ', type(soup))
-
-                    print('href: ', href)
                     sleep(30)
 
                     # Create empty list for meta table variables
@@ -95,8 +95,8 @@ for league in leagues:
                     # Player name
                     full_name = meta_section.find('h1', class_='plytitle').text.strip()
 
-                    print(ep_id, full_name, href)
-                    
+                    print('ep_id: ', ep_id, 'full_name: ', full_name, 'href: ', href)
+                                        
                     # Meta data
                     meta_table = soup.find('div', class_='table-view')    
                     for item in meta_table.find_all('div', class_='col-xs-8 fac-lbl-dark'):
@@ -135,69 +135,51 @@ for league in leagues:
                     meta_items_list = []
 
                     # Career statistics table
-                    stat_table = soup.find('div', {'id': 'league-stats'})
-                    table_rows = stat_table.find_all('tr', {'class': 'team-continent-NA'})
-                    for tr in table_rows:
-                                        
-                        # Player stats dictionary
-                        player_stats_dict = {
+                    table_rows = soup.find('table', {'class': 'table table-striped table-condensed table-sortable player-stats highlight-stats'}).find('tbody').find_all('tr')
+
+                    # Set an empty string for the current row year (season i.e - '2005-06')
+                    current_year = ''
+
+                    # Iterate through each row of the table and set aside an iterable containing each variable
+                    for row in table_rows:
+                        cells = row.find_all('td')
+                        
+                        # Build a list of each row variable for selection by indexing
+                        by_year = []
+                        for td in cells:
+                            by_year.append(td.text.strip())
+
+                        # Manage empty year variables by using the empty current_year string
+                        if by_year[0] != '':
+                            current_year = by_year[0]
+                            by_year[8] = 'club'
+                        elif by_year[0] == '':
+                            by_year[0] = current_year
+                            by_year[8] = 'international'
+
+                        season_dict = {
                             'ep_id': ep_id,
-                            'season': tr.find('td', {'class': 'season sorted'}).text.strip(),
-                            'team': tr.find('td', {'class': 'team'}).text.strip(),
-                            'league': tr.find('td', {'class': 'league'}).text.strip(),
-                            'games_played': tr.find('td', {'class': 'regular gp'}).text.strip(),
-                            'goals': tr.find('td', {'class': 'regular g'}).text.strip(),
-                            'assists': tr.find('td', {'class': 'regular a'}).text.strip(),
-                            'penalty_min': tr.find('td', {'class': 'regular pim'}).text.strip(),
-                            'plus_minus': tr.find('td', {'class': 'regular pm'}).text.strip()
+                            'season': by_year[0],
+                            'team': by_year[1],
+                            'league': by_year[2],
+                            'regular_gp': by_year[3],
+                            'regular_g': by_year[4],
+                            'regular_a': by_year[5],
+                            'regular_pim': by_year[6],
+                            'regular_pm': by_year[7],
+                            'team_type': by_year[8],
+                            'playoffs_gp': by_year[10],
+                            'playoffs_g': by_year[11],
+                            'playoffs_a': by_year[12],
+                            'playoffs_pim': by_year[14],
+                            'playoffs_pm': by_year[15]
                         }
 
-                        # Insert player_stats table into database
-                        player_collection.insert_one(player_stats_dict)
+                        player_collection.insert_one(season_dict)
 
-                        # Re-initialise the player_stats_dict to be empty for the next interation
-                        player_stats_dict = {}
+                    players_added += 1
 
-                        # Build playoff stats dictionary
-                        playoff_stats_dict = {
-                            'ep_id': ep_id,
-                            'playoffs_gp': tr.find('td', {'class': 'playoffs gp'}).text.strip(),
-                            'playoffs_g': tr.find('td', {'class': 'playoffs g'}).text.strip(),
-                            'playoffs_a': tr.find('td', {'class': 'playoffs a'}).text.strip(),
-                            'playoffs_pim': tr.find('td', {'class': 'playoffs pim'}).text.strip(),
-                            'playoffs_pm': tr.find('td', {'class': 'playoffs pm'}).text.strip()
-                        }
-
-                        # Insert playoff_stats table into database
-                        playoffs_collection.insert_one(playoff_stats_dict)
-
-                        # Re-initialise the playoffs_stats_dict to be empty for the next iteration
-                        playoff_stats_dict = {}
-
-                    # International statistics table
-                    int_table_rows = stat_table.find_all('tr', {'class': 'team-continent-INT'})
-                    for tr in int_table_rows:
-
-                        # International stats playoffs
-                        int_stats_dict = {
-                            'ep_id': ep_id,
-                            'team': tr.find('td', {'class': 'team'}).text.strip(),
-                            'league': tr.find('td', {'class': 'league'}).text.strip(),
-                            'int_gp': tr.find('td', {'class': 'regular gp'}).text.strip(),
-                            'int_g': tr.find('td', {'class': 'regular g'}).text.strip(),
-                            'int_a': tr.find('td', {'class': 'regular a'}).text.strip(),
-                            'int_pim': tr.find('td', {'class': 'regular pim'}).text.strip(),
-                            'int_pm': tr.find('td', {'class': 'regular pm'}).text.strip()
-                        }
-
-                        # Insert int_stats table into database
-                        international_collection.insert_one(int_stats_dict)
-
-                        # Re-initialise the int_stats_dict to be empty for the next iteration
-                        int_stats_dict = {}
-
-                    rows_added += 1
-                    print(rows_added, href)    
-
+                    print('players_added: ', players_added) 
+                    
             except: 
                 continue 

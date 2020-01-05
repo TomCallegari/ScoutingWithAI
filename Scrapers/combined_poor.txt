@@ -1,0 +1,61 @@
+# Career statistics table
+stat_table = soup.find('div', {'id': 'league-stats'})
+table_rows = stat_table.find_all('tr', {'class': 'team-continent-NA'})
+for tr in table_rows:
+                
+# Player stats dictionary
+player_stats_dict = {
+    'ep_id': ep_id,
+    'season': tr.find('td', {'class': 'season sorted'}).text.strip(),
+    'team': tr.find('td', {'class': 'team'}).text.strip(),
+    'league': tr.find('td', {'class': 'league'}).text.strip(),
+    'games_played': tr.find('td', {'class': 'regular gp'}).text.strip(),
+    'goals': tr.find('td', {'class': 'regular g'}).text.strip(),
+    'assists': tr.find('td', {'class': 'regular a'}).text.strip(),
+    'penalty_min': tr.find('td', {'class': 'regular pim'}).text.strip(),
+    'plus_minus': tr.find('td', {'class': 'regular pm'}).text.strip()
+}
+
+# Insert player_stats table into database
+player_collection.insert_one(player_stats_dict)
+
+# Re-initialise the player_stats_dict to be empty for the next interation
+player_stats_dict = {}
+
+# Build playoff stats dictionary
+playoff_stats_dict = {
+    'ep_id': ep_id,
+    'playoffs_gp': tr.find('td', {'class': 'playoffs gp'}).text.strip(),
+    'playoffs_g': tr.find('td', {'class': 'playoffs g'}).text.strip(),
+    'playoffs_a': tr.find('td', {'class': 'playoffs a'}).text.strip(),
+    'playoffs_pim': tr.find('td', {'class': 'playoffs pim'}).text.strip(),
+    'playoffs_pm': tr.find('td', {'class': 'playoffs pm'}).text.strip()
+}
+
+# Insert playoff_stats table into database
+playoffs_collection.insert_one(playoff_stats_dict)
+
+# Re-initialise the playoffs_stats_dict to be empty for the next iteration
+playoff_stats_dict = {}
+
+# International statistics table
+int_table_rows = stat_table.find_all('tr', {'class': 'team-continent-INT'})
+for tr in int_table_rows:
+
+# International stats playoffs
+int_stats_dict = {
+    'ep_id': ep_id,
+    'team': tr.find('td', {'class': 'team'}).text.strip(),
+    'league': tr.find('td', {'class': 'league'}).text.strip(),
+    'int_gp': tr.find('td', {'class': 'regular gp'}).text.strip(),
+    'int_g': tr.find('td', {'class': 'regular g'}).text.strip(),
+    'int_a': tr.find('td', {'class': 'regular a'}).text.strip(),
+    'int_pim': tr.find('td', {'class': 'regular pim'}).text.strip(),
+    'int_pm': tr.find('td', {'class': 'regular pm'}).text.strip()
+}
+
+# Insert int_stats table into database
+international_collection.insert_one(int_stats_dict)
+
+# Re-initialise the int_stats_dict to be empty for the next iteration
+int_stats_dict = {}
