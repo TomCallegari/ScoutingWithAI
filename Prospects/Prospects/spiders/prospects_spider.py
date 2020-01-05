@@ -3,7 +3,8 @@ from itertools import islice, chain, repeat
 import re
 
 import scrapy
-from Prospects.items import MetaItems, RegularItems, PostItems, InterItems, TourItems
+from Prospects.items import MetaItem, RegularSeasonItem
+from scrapy import Request
 from scrapy.loader import ItemLoader
 
 with open('listfile.data', 'rb') as filehandle:
@@ -30,14 +31,21 @@ with open('listfile.data', 'rb') as filehandle:
 
 class PlayerSpider(scrapy.Spider):
     name = 'Prospects'
-
-    start_urls = urls_list
+    
+    def start_requests(self):
+        for i in urls_list:
+            yield scrapy.Request(i, self.parse)
 
     def parse(self, response):
 
-        l = ItemLoader(item=MetaItems(), response = response)
+        metaItem = MetaItem()
+        RegItem = RegularSeasonItem()
 
-        l.add_xpath('full_name', "//h1[@class='plytitle']/text()", re = '\w+\s\w+')
+        full_name = response.xpath("//h1[@class='plytitle']/text()").re('\w+\s\w+')
 
-        return l.load_item()
-
+        meta_table = response.xpath("//div[@class='table-view']")
+        for item in meta_table.xpath("//div[@class='table-view']"):
+            
+            yield 
+        
+        

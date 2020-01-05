@@ -3,13 +3,13 @@
 import scrapy
 
 
-class MetaItems(scrapy.Item):
+class MetaItem(scrapy.Item):
 
     """Item class to store player meta data"""
     
     #ep_id = scrapy.Field()
     full_name = scrapy.Field()
-    # date_of_birth = scrapy.Field()
+    date_of_birth = scrapy.Field()
     # hometown = scrapy.Field()
     # country = scrapy.Field()
     # youth_team = scrapy.Field()
@@ -21,7 +21,7 @@ class MetaItems(scrapy.Item):
     # cap_hit = scrapy.Field()
     # scout_text = scrapy.Field()
 
-class RegularItems(scrapy.Item):
+class RegularSeasonItem(scrapy.Item):
 
     """Item class to store player statistics"""
 

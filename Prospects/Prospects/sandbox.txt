@@ -4,3 +4,6 @@ body > section.main_content.clearfix > div > div.content_left > div.innerwrapper
 
 
 (\w{3}\s\d+,\s\d+)
+
+### Stackoverflow mongodb-multiple-collections
+https://stackoverflow.com/questions/19653963/use-different-collections-in-mongodb-depending-on-item-type
