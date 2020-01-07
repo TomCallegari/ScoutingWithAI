@@ -4,25 +4,47 @@ from bs4 import BeautifulSoup
 import re
 import pickle
 
-url = 'https://www.eliteprospects.com/player/9609/jakub-klepis'
+urls = ['https://www.eliteprospects.com/player/9609/jakub-klepis', 'https://www.eliteprospects.com/player/213489/ryan-kehrig', 'https://www.eliteprospects.com/player/9223/john-tavares']
 
-# User-agent header for www.eliteprospects.com/robots.txt web logs
 headers = {
     "user-Agent": "Personal web-scraping script.  I can be contacted at thomascallegari@yahoo.com"
 }
 
-response = get(url, headers=headers)
-print('response type: ', type(response))
-print('response: ', response)
+for url in urls:
 
-soup = BeautifulSoup(response.text, 'html.parser')
-print('soup type: ', type(soup))
+    response = get(url, headers=headers)
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-# Pull Eliteprospects ID from urls
-ep_id_regex = re.search(r'(\d+)', url)
-ep_id = ep_id_regex.group(0)
+    # Pull Eliteprospects ID from urls
+    ep_id_regex = re.search(r'(\d+)', url)
+    ep_id = ep_id_regex.group(0)
 
-print('ep_id type: ', type(ep_id), 'ep_id: ', ep_id)
+    awards_table = soup.select('div[id="awards"] div[class="season-body clearfix"] ul[class="list-unstyled list-li clearfix"] > li')
+
+    season_list = []
+    award_list = []
+
+    for li in awards_table:
+
+        div = li.select_one('div')
+        season = div.text.strip()    
+
+        awards_list = li.find_all('a')    
+        for a in awards_list:
+            award_list.append(a.text.strip())
+            season_list.append(season)
+
+            awards_dict = {
+                'ep_id': ep_id,
+                'season': season,
+                'award': a.text.strip(),
+                'award_count': 1
+            }
+
+            print(awards_dict)
+
+
+######################
 
 # Career statistics table
 table_rows = soup.find('table', {'class': 'table table-striped table-condensed table-sortable player-stats highlight-stats'}).find('tbody').find_all('tr')
@@ -60,7 +82,7 @@ for row in table_rows:
         'playoffs_pm': by_year[15]
     }
 
-    print('season_dict: ', season_dict)
+    # print('season_dict: ', season_dict)
 
 
 # for row in table.find_all('tr')[1:]:

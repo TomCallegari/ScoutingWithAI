@@ -18,6 +18,7 @@ db = client.eliteprospects
 # Create collections
 meta_collection = db.meta_data
 player_collection = db.player_data
+award_collection = db.awards_data
 
 # User-agent header for www.eliteprospects.com/robots.txt web logs
 headers = {
@@ -177,8 +178,29 @@ for league in leagues:
 
                         player_collection.insert_one(season_dict)
 
-                    players_added += 1
+                        # Awards Table
+                        awards_table = soup.select('div[id="awards"] div[class="season-body clearfix"] ul[class="list-unstyled list-li clearfix"] > li')
 
+                        for li in awards_table:
+
+                            div = li.select_one('div')
+                            season = div.text.strip()    
+
+                            awards_list = li.find_all('a')    
+                            for a in awards_list:
+                                
+                                awards_dict = {
+                                    'ep_id': ep_id,
+                                    'season': season,
+                                    'award': a.text.strip(),
+                                    'award_count': 1
+                                }
+
+                                award_collection.insert_one(awards_dict)
+
+                    players_added += 1
+                    print('')
+                    print('# ------------')
                     print('players_added: ', players_added) 
                     
             except: 
