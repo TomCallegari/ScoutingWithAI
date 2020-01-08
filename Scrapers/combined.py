@@ -80,6 +80,7 @@ for league in leagues:
                     print('response type: ', type(response))
                     print(response)
                     
+                    # Return a BeautifulSoup object containing each player profile HTML tree
                     soup = BeautifulSoup(response.text, 'html.parser')
                     sleep(30)
 
@@ -150,7 +151,7 @@ for league in leagues:
                         for td in cells:
                             by_year.append(td.text.strip())
 
-                        # Manage empty year variables by using the empty current_year string
+                        # Manage empty year variables by using the current_year string
                         if by_year[0] != '':
                             current_year = by_year[0]
                             by_year[8] = 'club'
@@ -181,14 +182,18 @@ for league in leagues:
                         # Awards Table
                         awards_table = soup.select('div[id="awards"] div[class="season-body clearfix"] ul[class="list-unstyled list-li clearfix"] > li')
 
+                        # Iterate through each main row of the awards table
                         for li in awards_table:
-
+                            
+                            # Set aside the season text for each main row
                             div = li.select_one('div')
                             season = div.text.strip()    
 
+                            # Find and iterate through each sub row containing awards text
                             awards_list = li.find_all('a')    
                             for a in awards_list:
                                 
+                                # Build dictionary of each full awards row information
                                 awards_dict = {
                                     'ep_id': ep_id,
                                     'season': season,
@@ -196,6 +201,7 @@ for league in leagues:
                                     'award_count': 1
                                 }
 
+                                # Insert awards collection row
                                 award_collection.insert_one(awards_dict)
 
                     players_added += 1
