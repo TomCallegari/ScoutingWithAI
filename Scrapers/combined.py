@@ -2,10 +2,7 @@ from requests import get
 from bs4 import BeautifulSoup
 from time import sleep
 from time import time
-import pickle
 import re
-import pickle
-from itertools import islice, chain, repeat
 import pymongo
 
 # Create connection to MongoDB
@@ -53,7 +50,7 @@ for league in leagues:
             # Get response object from url and parse html with BeautifulSoup
             links_response = get(year_url, headers = headers)
             links_soup = BeautifulSoup(links_response.text, 'html.parser')
-            sleep(30)
+            sleep(1)
             
             # Isolate the table and rows, if the table doesn't exist then get the response for the next iterable pagination list
             try:
@@ -82,7 +79,7 @@ for league in leagues:
                     
                     # Return a BeautifulSoup object containing each player profile HTML tree
                     soup = BeautifulSoup(response.text, 'html.parser')
-                    sleep(30)
+                    sleep(1)
 
                     # Create empty list for meta table variables
                     meta_items_list = []
@@ -154,10 +151,10 @@ for league in leagues:
                         # Manage empty year variables by using the current_year string
                         if by_year[0] != '':
                             current_year = by_year[0]
-                            by_year[8] = 'club'
+                            by_year[9] = 'club'
                         elif by_year[0] == '':
                             by_year[0] = current_year
-                            by_year[8] = 'international'
+                            by_year[9] = 'international'
 
                         season_dict = {
                             'ep_id': ep_id,
@@ -167,14 +164,14 @@ for league in leagues:
                             'regular_gp': by_year[3],
                             'regular_g': by_year[4],
                             'regular_a': by_year[5],
-                            'regular_pim': by_year[6],
-                            'regular_pm': by_year[7],
-                            'team_type': by_year[8],
-                            'playoffs_gp': by_year[10],
-                            'playoffs_g': by_year[11],
-                            'playoffs_a': by_year[12],
-                            'playoffs_pim': by_year[14],
-                            'playoffs_pm': by_year[15]
+                            'regular_pim': by_year[7],
+                            'regular_pm': by_year[8],
+                            'team_type': by_year[9],
+                            'playoffs_gp': by_year[11],
+                            'playoffs_g': by_year[12],
+                            'playoffs_a': by_year[13],
+                            'playoffs_pim': by_year[15],
+                            'playoffs_pm': by_year[16]
                         }
 
                         player_collection.insert_one(season_dict)
@@ -206,7 +203,7 @@ for league in leagues:
 
                     players_added += 1
                     print('')
-                    print('# ------------')
+                    print('')
                     print('players_added: ', players_added) 
                     
             except: 

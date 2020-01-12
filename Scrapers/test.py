@@ -4,44 +4,44 @@ from bs4 import BeautifulSoup
 import re
 import pickle
 
-urls = ['https://www.eliteprospects.com/player/9609/jakub-klepis', 'https://www.eliteprospects.com/player/213489/ryan-kehrig', 'https://www.eliteprospects.com/player/9223/john-tavares']
+url = 'https://www.eliteprospects.com/player/9223/john-tavares'
 
 headers = {
     "user-Agent": "Personal web-scraping script.  I can be contacted at thomascallegari@yahoo.com"
 }
 
-for url in urls:
+# for url in urls:
 
-    response = get(url, headers=headers)
-    soup = BeautifulSoup(response.text, 'html.parser')
+response = get(url, headers=headers)
+soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Pull Eliteprospects ID from urls
-    ep_id_regex = re.search(r'(\d+)', url)
-    ep_id = ep_id_regex.group(0)
+    # # Pull Eliteprospects ID from urls
+    # ep_id_regex = re.search(r'(\d+)', url)
+    # ep_id = ep_id_regex.group(0)
 
-    awards_table = soup.select('div[id="awards"] div[class="season-body clearfix"] ul[class="list-unstyled list-li clearfix"] > li')
+    # awards_table = soup.select('div[id="awards"] div[class="season-body clearfix"] ul[class="list-unstyled list-li clearfix"] > li')
 
-    season_list = []
-    award_list = []
+    # season_list = []
+    # award_list = []
 
-    for li in awards_table:
+    # for li in awards_table:
 
-        div = li.select_one('div')
-        season = div.text.strip()    
+    #     div = li.select_one('div')
+    #     season = div.text.strip()    
 
-        awards_list = li.find_all('a')    
-        for a in awards_list:
-            award_list.append(a.text.strip())
-            season_list.append(season)
+    #     awards_list = li.find_all('a')    
+    #     for a in awards_list:
+    #         award_list.append(a.text.strip())
+    #         season_list.append(season)
 
-            awards_dict = {
-                'ep_id': ep_id,
-                'season': season,
-                'award': a.text.strip(),
-                'award_count': 1
-            }
+    #         awards_dict = {
+    #             'ep_id': ep_id,
+    #             'season': season,
+    #             'award': a.text.strip(),
+    #             'award_count': 1
+    #         }
 
-            print(awards_dict)
+    #         print(awards_dict)
 
 
 ######################
@@ -49,38 +49,51 @@ for url in urls:
 # Career statistics table
 table_rows = soup.find('table', {'class': 'table table-striped table-condensed table-sortable player-stats highlight-stats'}).find('tbody').find_all('tr')
 
+# Set an empty string for the current row year (season i.e - '2005-06')
 current_year = ''
+
+# Iterate through each row of the table and set aside an iterable containing each variable
 for row in table_rows:
     cells = row.find_all('td')
-
+    
+    # Build a list of each row variable for selection by indexing
     by_year = []
     for td in cells:
         by_year.append(td.text.strip())
 
+    # Manage empty year variables by using the current_year string
     if by_year[0] != '':
         current_year = by_year[0]
-        by_year[8] = 'club'
+        by_year[9] = 'club'
     elif by_year[0] == '':
         by_year[0] = current_year
-        by_year[8] = 'international'
+        by_year[9] = 'international'
 
     season_dict = {
-        'ep_id': ep_id,
+        #'ep_id': ep_id,
         'season': by_year[0],
         'team': by_year[1],
         'league': by_year[2],
         'regular_gp': by_year[3],
         'regular_g': by_year[4],
         'regular_a': by_year[5],
-        'regular_pim': by_year[6],
-        'regular_pm': by_year[7],
-        'team_type': by_year[8],
-        'playoffs_gp': by_year[10],
-        'playoffs_g': by_year[11],
-        'playoffs_a': by_year[12],
-        'playoffs_pim': by_year[14],
-        'playoffs_pm': by_year[15]
+        'regular_pim': by_year[7],
+        'regular_pm': by_year[8],
+        'team_type': by_year[9],
+        'playoffs_gp': by_year[11],
+        'playoffs_g': by_year[12],
+        'playoffs_a': by_year[13],
+        'playoffs_pim': by_year[15],
+        'playoffs_pm': by_year[16]
     }
+
+    print('by_year: ', by_year)
+    print('by_year length: ', len(by_year))
+    print('by_year season_dict: ', season_dict)
+    print('by_year[7] regular_pim: ', by_year[7])
+    print('by_year[8] regular_pm: ', by_year[8])
+    print('')
+    print('')
 
     # print('season_dict: ', season_dict)
 
